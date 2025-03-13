@@ -1,0 +1,9 @@
+pandas
+pyarrow
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
+numpy
+tqdm
+metaphone
+phonenumbers

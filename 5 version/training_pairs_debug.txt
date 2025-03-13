@@ -1,0 +1,790 @@
+Contenuto di training_pairs prima di prepare_training:
+Categoria: distinct (n. coppie: 115)
+Coppia 0:
+  Record 1: {'clean_company_name': 'international subaru orland park service', 'normalized_url': 'www.subaruoforlandpark.com/service/index.htm', 'main_address_raw_text': '8031 W 159th St, Tinley Park, IL 60477, United States', 'normalized_phone': '+17083420400'}
+  Record 2: {'clean_company_name': 'consett maths', 'normalized_url': 'www.consettmaths.com', 'main_address_raw_text': ', Consett, DH8, United Kingdom', 'normalized_phone': ''}
+Coppia 1:
+  Record 1: {'clean_company_name': 'village medical', 'normalized_url': 'www.villagemedical.com/locations/kentucky/325-w-walnut-street-suite-600-lebanon-ky-40033%3fsearch%3dcoventry,%2520ri%26utm_source%3dgmb%26utm_medium%3dprofile%26utm_campaign%3dvillagemedical_organic-search_location&opi=79508299&sa=u&ved=0ahukewiw28owzmogaxwd8aihhbtojkuq61gifcgq&usg=aovvaw3rlvhisui2aeravsroydax', 'main_address_raw_text': '325 W Walnut St # 600, Lebanon, KY 40033, United States', 'normalized_phone': '+12706999500'}
+  Record 2: {'clean_company_name': 'heart of texas homeless coalition', 'normalized_url': 'www.heartoftexashomeless.org', 'main_address_raw_text': 'waco, tx, United States', 'normalized_phone': '+12542978929'}
+Coppia 2:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.halfmoon.jp', 'main_address_raw_text': '本宮6丁目4-22, Morioka, Iwate, 020-0866', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'prairie wheel', 'normalized_url': 'www.prairiewheel.ca', 'main_address_raw_text': '3703 Mitchelmore Ave, Saskatoon, Saskatchewan, S7P 0C5, Canada', 'normalized_phone': '+13062444999'}
+Coppia 3:
+  Record 1: {'clean_company_name': 'fielding environmental limited', 'normalized_url': 'www.fieldingenvironmental.co.uk', 'main_address_raw_text': ', Ingatestone, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'nk car sales', 'normalized_url': 'www.nkcarsalesyorkshire.co.uk', 'main_address_raw_text': '', 'normalized_phone': '+447855488141'}
+Coppia 4:
+  Record 1: {'clean_company_name': 'new american funding midwest region', 'normalized_url': 'www.naf.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'printpal', 'normalized_url': 'www.printpal.com/?opi=79508299&sa=u&ved=0ahukewiuta7byoghaxvutokehxofhdiq61gieigo&usg=aovvaw2mwh6yss_bfafaievesqra', 'main_address_raw_text': '4706 Table Rock Rd Ste A, Central Point, OR 97502', 'normalized_phone': '+15416649330'}
+Coppia 5:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.barbosik60.ru', 'main_address_raw_text': 'Pskov', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'lawn masters more', 'normalized_url': 'www.lawnmastersandmore.com/&opi=79508299&sa=u&ved=0ahukewj3znyrxjyfaxubpikehfa3b94q61gieigo&usg=aovvaw3_qas49ejgcm5xizqcz1rr', 'main_address_raw_text': '1725 Pearl Wood Rd, Albany, OH 45710', 'normalized_phone': '+17405922058'}
+Coppia 6:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.tricolor.tv', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'travel closely', 'normalized_url': 'www.travelclosely.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 7:
+  Record 1: {'clean_company_name': 'oxys crono', 'normalized_url': '', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'sterling pools and spas division street cobourg', 'normalized_url': 'www.sterlingpools.ca', 'main_address_raw_text': '991 Division St, Cobourg, ON K9A 5J5, Canada', 'normalized_phone': '+19053721409'}
+Coppia 8:
+  Record 1: {'clean_company_name': 'nw natural lighting', 'normalized_url': 'www.nwshades.com', 'main_address_raw_text': '7906 230th St SW, Edmonds, WA 98026', 'normalized_phone': '+14257441211'}
+  Record 2: {'clean_company_name': 'pps', 'normalized_url': '', 'main_address_raw_text': 'Marchington Industrial Estate, Uttoxeter, ST14 8LP, United Kingdom', 'normalized_phone': '+441283821502'}
+Coppia 9:
+  Record 1: {'clean_company_name': 'primesettings', 'normalized_url': 'primesettings.com', 'main_address_raw_text': '', 'normalized_phone': '+12012317676'}
+  Record 2: {'clean_company_name': 'pps', 'normalized_url': '', 'main_address_raw_text': 'Marchington Industrial Estate, Uttoxeter, ST14 8LP, United Kingdom', 'normalized_phone': '+441283821502'}
+Coppia 10:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.thefixerchiropractic.co.uk', 'main_address_raw_text': '2 high meadow, the wheatridge, gl4 4dg gloucester, uk', 'normalized_phone': '+447747443695'}
+  Record 2: {'clean_company_name': 'the bunkroom', 'normalized_url': 'www.thebunkroom.co.uk/?opi=79508299&sa=u&ved=0ahukewi4godr0fakaxxgmlkfhehol8iq61gifigs&usg=aovvaw3w018pljs1juzh3kceffhv', 'main_address_raw_text': '106 Brook St, Cheshire, Chester CH1 3DU, United Kingdom', 'normalized_phone': '+441244324524'}
+Coppia 11:
+  Record 1: {'clean_company_name': 'pps', 'normalized_url': '', 'main_address_raw_text': 'Marchington Industrial Estate, Uttoxeter, ST14 8LP, United Kingdom', 'normalized_phone': '+441283821502'}
+  Record 2: {'clean_company_name': 'sussex paving precast', 'normalized_url': 'www.sussexpavingandprecast.co.uk/?opi=79508299&sa=u&ved=0ahukewjeyr_shp2haxv2f1kfhxu5ao0q61gifsgr&usg=aovvaw0gearifpwqtrmvb9n7jjbw', 'main_address_raw_text': 'Unit 14, Newhaven Workshops, Beach Cl, Newhaven BN9 0BY, United Kingdom', 'normalized_phone': '+447817962701'}
+Coppia 12:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.barbosik60.ru', 'main_address_raw_text': 'Pskov', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'xp dyte builders of garden city ny general contractor', 'normalized_url': 'xpdytebuilders.com/garden-city/&opi=79508299&sa=u&ved=0ahukewiavamx0bwfaxwiegiahw7tbleq61gieigo&usg=aovvaw39acbufauu_vgbag0ggwe4', 'main_address_raw_text': '651 4th Pl, Garden City, NY 11530', 'normalized_phone': '+15167886625'}
+Coppia 13:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.barbosik60.ru', 'main_address_raw_text': 'Pskov', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'van geijn assurantiën b v', 'normalized_url': 'www.paulvangeijn.nl/&opi=79508299&sa=u&ved=0ahukewjwrbah56ogaxuzhbkghclwcqmq61gifcgq&usg=aovvaw26owtmwsoeoc_qdho0ub2c', 'main_address_raw_text': 'Weltertuijnstraat 66, 6419 CV Heerlen, Netherlands', 'normalized_phone': '+31455285878'}
+Coppia 14:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.barbosik60.ru', 'main_address_raw_text': 'Pskov', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'matsuda sangyo co', 'normalized_url': 'www.matsuda-sangyo.co.jp/en/?opi=79508299&sa=u&ved=0ahukewiek7l2uogiaxva4gihhrviankq61gieigo&usg=aovvaw2uom4cpdy9zepsgycwt6dg', 'main_address_raw_text': '24 Tech Park Cres, Singapore 638108', 'normalized_phone': '+6568611937'}
+Coppia 15:
+  Record 1: {'clean_company_name': 'pps', 'normalized_url': '', 'main_address_raw_text': 'Marchington Industrial Estate, Uttoxeter, ST14 8LP, United Kingdom', 'normalized_phone': '+441283821502'}
+  Record 2: {'clean_company_name': 'simon s hardware and bath', 'normalized_url': 'www.simonsny.com', 'main_address_raw_text': '481 Washington Street #1N, New York, NY 10013', 'normalized_phone': '+12125329220'}
+Coppia 16:
+  Record 1: {'clean_company_name': 'applysia', 'normalized_url': 'applysia.de/kontakt/?opi=79508299&sa=u&ved=0ahukewjg8ncfvoaiaxvftqqehwtgnjiq61gieigp&usg=aovvaw23zzkglmz6hleitxuxuvha', 'main_address_raw_text': 'Wilhelmstraße 55, 48149 Münster, Germany', 'normalized_phone': '+4925129796970'}
+  Record 2: {'clean_company_name': 'applywize', 'normalized_url': 'www.applywize.com', 'main_address_raw_text': '40 Patrick St, Waterford, Ireland', 'normalized_phone': '+35351347051'}
+Coppia 17:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.binzel-abicor.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'cella mar studio of hair design', 'normalized_url': 'www.cella-marstudio.com/?y_source=1_mji2mzi1njctnze1lwxvy2f0aw9ulndlynnpdgu%3d', 'main_address_raw_text': '112 Tecumseh St, Dundee, MI 48131, United States', 'normalized_phone': '+17345293446'}
+Coppia 18:
+  Record 1: {'clean_company_name': 'e group service center phone repair', 'normalized_url': 'e-group.by/?opi=79508299&sa=u&ved=0ahukewiag-ymi76haxvpdjqihtijbcoq61gifygt&usg=aovvaw3gjdomky-rlaedw_y9_fuy', 'main_address_raw_text': 'vulica Dzianisaŭskaja 8, Minsk, Minskaja voblasć, Belarus', 'normalized_phone': '+375296240482'}
+  Record 2: {'clean_company_name': 'g2 group', 'normalized_url': 'www.g2group.co.za', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 19:
+  Record 1: {'clean_company_name': 'kaya skin clinic al wahda mall abu dhabi', 'normalized_url': 'www.kayaskinclinic.com/uae/en/&opi=79508299&sa=u&ved=0ahukewjkynwhjzmgaxuxprkghs_2bd8q61gifcgq&usg=aovvaw0nzalmzgtb4su3dyp0xwoy', 'main_address_raw_text': 'Unit No 262,263,267,268, Level 2, Al Wahda Mall Extension - Abu Dhabi - United Arab Emirates', 'normalized_phone': '+971600562620'}
+  Record 2: {'clean_company_name': 'maui pain clinic', 'normalized_url': 'mauipainclinic.com/about', 'main_address_raw_text': '33 Lono Ave Suite 240 B, Kahului, HI 96732', 'normalized_phone': '+18088732020'}
+Coppia 20:
+  Record 1: {'clean_company_name': 'fedecoop', 'normalized_url': 'fedecoop.com', 'main_address_raw_text': 'Dirección Física Urb. Belisa C54 Calle Jeritza San Juan, PR 00927-6140 Dirección Postal PO Box 270-022 San Juan, PR 00928', 'normalized_phone': '+17876202667'}
+  Record 2: {'clean_company_name': 'hendersonbuildingcontractors', 'normalized_url': '', 'main_address_raw_text': ', Cramlington, NE23, United Kingdom', 'normalized_phone': '+441670707853'}
+Coppia 21:
+  Record 1: {'clean_company_name': 'godaddy', 'normalized_url': 'sealoftoc.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'godaddy', 'normalized_url': 'ldapartners.net', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 22:
+  Record 1: {'clean_company_name': 'navial', 'normalized_url': 'www.navial.com.ar', 'main_address_raw_text': '1730 Avenida Manuel Ocampo, Sarandi, Buenos Aires Province, 1872, Argentina', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'new american funding midwest region', 'normalized_url': 'www.naf.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 23:
+  Record 1: {'clean_company_name': 'alphastroke', 'normalized_url': 'www.alphastroke.co.uk', 'main_address_raw_text': '26 Northway, Preston, PR2 9TP, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'mac n out macaroni and cheese', 'normalized_url': 'www.mac-n-out.com', 'main_address_raw_text': '902 boston post road, 06460, milford, ct, connecticut', 'normalized_phone': '+12036933497'}
+Coppia 24:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.richpalmerpt.co.uk', 'main_address_raw_text': '75 Park View Road, Sutton Coldfield, United Kingdom', 'normalized_phone': '+447816494502'}
+  Record 2: {'clean_company_name': 'marques studio', 'normalized_url': 'www.marquesstudio.com.br', 'main_address_raw_text': 'São Paulo, Brazil', 'normalized_phone': ''}
+Coppia 25:
+  Record 1: {'clean_company_name': 'a 1 barricade sign', 'normalized_url': '', 'main_address_raw_text': '201 Colorado Ave, Pueblo, Colorado, 81004-2003, United States', 'normalized_phone': '+17195974847'}
+  Record 2: {'clean_company_name': 'q4 professional services consulting', 'normalized_url': 'www.q4proservices.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 26:
+  Record 1: {'clean_company_name': 'weaver s carpet tile', 'normalized_url': 'www.weaverscarpet.com', 'main_address_raw_text': '680 N 15th Ave, Lebanon, Pennsylvania, 17046-8305, United States', 'normalized_phone': '+17172734116'}
+  Record 2: {'clean_company_name': 'webhs', 'normalized_url': 'www.webhs.pt', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 27:
+  Record 1: {'clean_company_name': 'leilani tree and land services', 'normalized_url': 'www.leilanitreeservice.com', 'main_address_raw_text': 'palmetto, florida, United States', 'normalized_phone': '+19419813020'}
+  Record 2: {'clean_company_name': 'cetra technology', 'normalized_url': '', 'main_address_raw_text': '900 Fort St Mall, Honolulu, Hawaii, 96813-3700, United States', 'normalized_phone': '+18085457505'}
+Coppia 28:
+  Record 1: {'clean_company_name': 'evotag', 'normalized_url': 'www.evotag.dk', 'main_address_raw_text': '601 Klausdalsbrovej, Ballerup, Capital Region of Denmark, 2750, Denmark', 'normalized_phone': '+4521668875'}
+  Record 2: {'clean_company_name': 'elagage corse', 'normalized_url': 'www.elagage-corse.fr', 'main_address_raw_text': ', Porto-Vecchio, Corsica, France', 'normalized_phone': '+33495500674'}
+Coppia 29:
+  Record 1: {'clean_company_name': 'general cleaning s r l', 'normalized_url': '', 'main_address_raw_text': ', Gerenzano, Lombardia, Italy', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'generali costruzioni s r l', 'normalized_url': '', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 30:
+  Record 1: {'clean_company_name': 'north coast psychological services pllc', 'normalized_url': 'www.northcoastpsy.com', 'main_address_raw_text': ', Syosset, New York, United States', 'normalized_phone': '+15167800111'}
+  Record 2: {'clean_company_name': 'parcellab', 'normalized_url': '', 'main_address_raw_text': '101 Avenue of the Americas, New York, New York, 10013-1933, United States', 'normalized_phone': '+498932890907'}
+Coppia 31:
+  Record 1: {'clean_company_name': 'wyld1', 'normalized_url': 'www.wyld1.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'pharmacann clinic', 'normalized_url': 'www.pharmacannclinic.com/&opi=79508299&sa=u&ved=0ahukewifrvtv8l6faxwj-jgghz_0bkyq61gieigp&usg=aovvaw2vatjmawan0jwpvszfevqa', 'main_address_raw_text': '5138 Rue Jean-Talon E, Montréal, QC H1S 1K7, Canada', 'normalized_phone': '+18009094140'}
+Coppia 32:
+  Record 1: {'clean_company_name': 'higher call christian center', 'normalized_url': 'www.highercall.org', 'main_address_raw_text': '7001 Old Wake Forest Rd, Raleigh, North Carolina, 27616-3013, United States', 'normalized_phone': '+19198509937'}
+  Record 2: {'clean_company_name': 'naf enterprise', 'normalized_url': '', 'main_address_raw_text': 'Jalan Dharma Giri, Bali, 80581, Indonesia', 'normalized_phone': ''}
+Coppia 33:
+  Record 1: {'clean_company_name': 'jay r bustard advertising', 'normalized_url': '', 'main_address_raw_text': '1516 Swamp Pike, Gilbertsville, Pennsylvania, 19525, United States', 'normalized_phone': '+16103262256'}
+  Record 2: {'clean_company_name': 'toys r us', 'normalized_url': 'www.toysrusmena.com/en-ae', 'main_address_raw_text': 'Deerfields Mall, 4th Level - Al Shahama - Abu Dhabi Rd - Abu Dhabi - United Arab Emirates', 'normalized_phone': '+97125646365'}
+Coppia 34:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.meijimura.com', 'main_address_raw_text': '内山1番地, Inuyama-shi, Aichi, Japan, 484-0000', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'autorara', 'normalized_url': 'www.autorara.com', 'main_address_raw_text': 'Griffon Court, Ilkeston, Derbyshire, DE7 4RF United Kingdom', 'normalized_phone': '+441156460006'}
+Coppia 35:
+  Record 1: {'clean_company_name': 'oregon coast billing svc', 'normalized_url': 'www.oregoncoastbilling.com', 'main_address_raw_text': '', 'normalized_phone': '+15412670544'}
+  Record 2: {'clean_company_name': 'pretty pale', 'normalized_url': '', 'main_address_raw_text': 'winthrop, ma 02152', 'normalized_phone': '+16172074112'}
+Coppia 36:
+  Record 1: {'clean_company_name': 'salisbury farm', 'normalized_url': '', 'main_address_raw_text': '11 Peck Hill Road, Johnston, Rhode Island, 02919, United States', 'normalized_phone': '+14019429741'}
+  Record 2: {'clean_company_name': 'diamond farm rwanda retail store kigali kimironko', 'normalized_url': 'www.df-rwanda.com', 'main_address_raw_text': 'Kigali, Rwanda', 'normalized_phone': '+250791686547'}
+Coppia 37:
+  Record 1: {'clean_company_name': 'restaurant ambrasa', 'normalized_url': 'www.ambrasa.cat', 'main_address_raw_text': ', Barcelona, Catalonia, Spain', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'restaurant amir verdun', 'normalized_url': 'www.amirverdun.com/en/menu/restaurant/870/981/order-online', 'main_address_raw_text': '4401 Wellington St, Verdun, Quebec H4G 1W5, Canada', 'normalized_phone': '+15147699449'}
+Coppia 38:
+  Record 1: {'clean_company_name': 'pursey productions', 'normalized_url': 'www.purseyproductions.com', 'main_address_raw_text': '', 'normalized_phone': '+447715267186'}
+  Record 2: {'clean_company_name': 'suresh productions', 'normalized_url': 'www.sureshproductions.com', 'main_address_raw_text': 'Ramanaidu Studios, Filmnagar, Road No. 79, Jubilee Hills, Hyderabad, Telangana 500096', 'normalized_phone': '+914023440198'}
+Coppia 39:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.rosadent.com', 'main_address_raw_text': 'вулиця Ісаакяна, 1, Kyiv, Ukraine', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'rights of light surveyors', 'normalized_url': 'rightsoflightsurveyors.co.uk/?opi=79508299&sa=u&ved=0ahukewjwpc-q6vakaxug48kdhtbhaocq61gifigs&usg=aovvaw14iv0fqawk_wx0ylknnkom', 'main_address_raw_text': '1 Metropolitan Cres, London SW4 9BF, United Kingdom', 'normalized_phone': '+442078673955'}
+Coppia 40:
+  Record 1: {'clean_company_name': 'ula builders', 'normalized_url': 'www.ulabuilders.com', 'main_address_raw_text': '776 County Road 175, Westcliffe, Colorado, 81252-9529, United States', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'm g builders', 'normalized_url': 'www.mgbuilder.com', 'main_address_raw_text': '', 'normalized_phone': '+19567261373'}
+Coppia 41:
+  Record 1: {'clean_company_name': 'audiokonsequent', 'normalized_url': 'www.audiokonsequent.de/&opi=79508299&sa=u&ved=0ahukewiakk3wtecfaxvefkqehe6bbwaq61gifcgq&usg=aovvaw1gqbv05hgfwlw9xgjevvyf', 'main_address_raw_text': 'Engelbosteler Damm 32, 30167 Hannover, Germany', 'normalized_phone': '+49511709726'}
+  Record 2: {'clean_company_name': 'audiobrain', 'normalized_url': 'www.audiobrain.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 42:
+  Record 1: {'clean_company_name': 'aimie design', 'normalized_url': 'www.aimiedesign.com', 'main_address_raw_text': ', Caraquet, New Brunswick, Canada', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'paulas design team', 'normalized_url': '', 'main_address_raw_text': '125 W South St, Kewanee, Illinois, 61443, United States', 'normalized_phone': '+13098520444'}
+Coppia 43:
+  Record 1: {'clean_company_name': 'gig logistics', 'normalized_url': 'www.giglogistics.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'cps logistics', 'normalized_url': 'www.cpslogistics.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 44:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.halfmoon.jp', 'main_address_raw_text': '', 'normalized_phone': '+819044205092'}
+  Record 2: {'clean_company_name': 'wgp global', 'normalized_url': 'www.wgp.global/?opi=79508299&sa=u&ved=0ahukewi-mlnj7fwkaxwpg4qihdttj10q61gifcgr&usg=aovvaw0wzzfh2hkvqrpsvdru5b8m', 'main_address_raw_text': '27, 28 Eastcastle St, London W1W 8DH, United Kingdom', 'normalized_phone': '+442039781000'}
+Coppia 45:
+  Record 1: {'clean_company_name': 'the montclair', 'normalized_url': 'www.hotelmontclair.co.uk', 'main_address_raw_text': '95 Albert Rd, Blackpool FY1 4PW, United Kingdom', 'normalized_phone': '+441253625860'}
+  Record 2: {'clean_company_name': 'the intercept', 'normalized_url': 'www.theintercept.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 46:
+  Record 1: {'clean_company_name': 'medi aid centre foundation', 'normalized_url': 'www.mediaid.org.au', 'main_address_raw_text': '217-223 Vimiera Road, Marsfield, NSW, Australia, New South Wales', 'normalized_phone': '+61298687544'}
+  Record 2: {'clean_company_name': 'north albury tyrepower mechanical', 'normalized_url': 'www.northalburytyrepower.com.au', 'main_address_raw_text': '443 Urana Road,, Lavington, NSW, Australia, New South Wales', 'normalized_phone': '+61260253381'}
+Coppia 47:
+  Record 1: {'clean_company_name': 'aguilar de campoo turismo', 'normalized_url': 'www.aguilardecampooturismo.com', 'main_address_raw_text': 'Paseo de la Cascajera 10, Aguilar De Campóo, Castilla y León, Spain, 34800', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'barber trucking', 'normalized_url': 'www.barbertrucking.com', 'main_address_raw_text': '3661 Route 28 N, Brookville, Pennsylvania, 15825, United States', 'normalized_phone': '+18149131527'}
+Coppia 48:
+  Record 1: {'clean_company_name': 'the heart full hive', 'normalized_url': 'heartfullhive.com', 'main_address_raw_text': '1594 Upper Pacific Dr, Whitethorn, CA 95589, United States', 'normalized_phone': '+17072231494'}
+  Record 2: {'clean_company_name': 'patriotic productions', 'normalized_url': '', 'main_address_raw_text': '16213 Lamp St, Omaha, Nebraska, 68118-4003, United States', 'normalized_phone': ''}
+Coppia 49:
+  Record 1: {'clean_company_name': 'hepbrum', 'normalized_url': 'www.hepbrum.de', 'main_address_raw_text': ', Heppenheim, Hesse, Germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'global pacific resources', 'normalized_url': 'www.global-pacific.com/?opi=79508299&sa=u&ved=0ahukewjsh8hqg_ohaxxdr_edhfh9begq61gifcgq&usg=aovvaw1uh4e36nvf_wwgnxinb4dx', 'main_address_raw_text': '134 Abbott St Suite 500, Vancouver, BC V6B 2K4, Canada', 'normalized_phone': '+16046854411'}
+Coppia 50:
+  Record 1: {'clean_company_name': 'west jersey music academy', 'normalized_url': 'www.westjerseymusicacademy.org', 'main_address_raw_text': '101 Bridgeboro Rd, Moorestown, NJ 08057', 'normalized_phone': '+18562068659'}
+  Record 2: {'clean_company_name': 'canadian academy of vocal music', 'normalized_url': '', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 51:
+  Record 1: {'clean_company_name': 'asga', 'normalized_url': 'www.asgahome.org', 'main_address_raw_text': '412 NW 16th Ave, Gainesville, Florida, 32601', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'plastic surgery assoc', 'normalized_url': 'www.plasticsurgeryassociatesofsd.com', 'main_address_raw_text': '', 'normalized_phone': '+12153483415'}
+Coppia 52:
+  Record 1: {'clean_company_name': 'gisinger gmbh', 'normalized_url': '', 'main_address_raw_text': 'Berauer Str. 19, 79777 Ühlingen-Birkendorf, Germany', 'normalized_phone': '+497743213'}
+  Record 2: {'clean_company_name': 'stoneworx', 'normalized_url': 'www.stone-worx.co.uk', 'main_address_raw_text': 'Ropley, United Kingdom', 'normalized_phone': '+441962772577'}
+Coppia 53:
+  Record 1: {'clean_company_name': 'freestyle ontario', 'normalized_url': 'www.freestyleontario.ski/?opi=79508299&sa=u&ved=0ahukewj31jll-fghaxwfrkqehwkbdyuq61gicsgf&usg=aovvaw1y-rgqojkhxpibtsriwkqa', 'main_address_raw_text': '', 'normalized_phone': '+14162387604'}
+  Record 2: {'clean_company_name': 'barbosik', 'normalized_url': 'barbosik60.ru', 'main_address_raw_text': 'Ulitsa Vladimirskaya, 1, Rodina, Pskov Oblast, Russia, 180024', 'normalized_phone': '+79532319711'}
+Coppia 54:
+  Record 1: {'clean_company_name': 'ignition mobile valeting detailing', 'normalized_url': 'www.ignitionmobiledetailing.co.uk', 'main_address_raw_text': '1 WATERPERRY MEWS, Aylesbury, United Kingdom', 'normalized_phone': '+447787853020'}
+  Record 2: {'clean_company_name': 'frazier frazier counseling', 'normalized_url': 'frazierandfraziercounseling.com/?opi=79508299&sa=u&ved=0ahukewje2p7w3jeiaxu-t6qehqrjdzwq61gifcgq&usg=aovvaw3n27gsavrjm-0g5bqv9yz4', 'main_address_raw_text': '2631 NW 41 St STE E1, Gainesville, FL 32606, United States', 'normalized_phone': '+13523748526'}
+Coppia 55:
+  Record 1: {'clean_company_name': 'cliad', 'normalized_url': 'www.cliad.com.br', 'main_address_raw_text': ', Sao Paulo, State of Sao Paulo, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'dra ellen palacio clínica derma uro', 'normalized_url': 'www.derma-uro.com.br/&opi=79508299&sa=u&ved=0ahukewi_57dw_pmgaxxjq6qehyqjc7wq61gifigs&usg=aovvaw06zsgetlopzqeiksyelhev', 'main_address_raw_text': 'R. Joaquim Floriano, 466 - Conjunto 1703 - Itaim Bibi, São Paulo - SP, 04534-002, Brazil', 'normalized_phone': '+551138531733'}
+Coppia 56:
+  Record 1: {'clean_company_name': 'roto rooter plumbers and septic service hesperia', 'normalized_url': 'www.rotorooterhighdesert.com/plumbing-hesperia-ca?utm_source=organic&utm_medium=gbp_hesperia', 'main_address_raw_text': '', 'normalized_phone': '+17609462280'}
+  Record 2: {'clean_company_name': 'roads kingdoms', 'normalized_url': 'roadsandkingdoms.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 57:
+  Record 1: {'clean_company_name': 'jonachloe', 'normalized_url': '', 'main_address_raw_text': ', Montreal, Quebec, Canada', 'normalized_phone': '+15148799777'}
+  Record 2: {'clean_company_name': 'nuance le coiffeur', 'normalized_url': 'www.nuance-coiffure.com', 'main_address_raw_text': ', Sennecey-le-Grand, Burgundy, France', 'normalized_phone': '+33385447777'}
+Coppia 58:
+  Record 1: {'clean_company_name': 'gig logistics ghana', 'normalized_url': 'www.giglogistics.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'cps logistics', 'normalized_url': 'www.cpslogistics.com', 'main_address_raw_text': '6 Avenida 5 Zona 13 Ciudad de Guatemala Guatemala Honduras, Guatemala', 'normalized_phone': '+50222335030'}
+Coppia 59:
+  Record 1: {'clean_company_name': 'builders contractors insurance services', 'normalized_url': 'www.buildinsured.com', 'main_address_raw_text': ', Los Angeles, California, 90001, United States', 'normalized_phone': '+13238867579'}
+  Record 2: {'clean_company_name': 'premium roof services', 'normalized_url': '', 'main_address_raw_text': '659 Grand Ave, Spring Valley, California, 91977-5010, United States', 'normalized_phone': '+16192398880'}
+Coppia 60:
+  Record 1: {'clean_company_name': 'crompton', 'normalized_url': 'www.crompton.co.in', 'main_address_raw_text': 'WZ272-A, Street Number 3, Sadh Nagar, Madhu Vihar, New Delhi, Delhi, 110045, India', 'normalized_phone': '+9118004190505'}
+  Record 2: {'clean_company_name': 'locate estate agents', 'normalized_url': '', 'main_address_raw_text': '3 Queen Street, Londonderry, Northern Ireland, BT48 7EF, United Kingdom', 'normalized_phone': '+442871312211'}
+Coppia 61:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.komornik-pienkowski.bialystok.pl', 'main_address_raw_text': ', Bialystok, Podlaskie Voivodeship, Poland', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'talk and roll', 'normalized_url': 'www.talkandroll.pl', 'main_address_raw_text': ', Kobylka, Masovian Voivodeship, Poland', 'normalized_phone': ''}
+Coppia 62:
+  Record 1: {'clean_company_name': 'acearts', 'normalized_url': 'www.acearts.co.uk', 'main_address_raw_text': ', Somerton, TA11, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'locate estate agents', 'normalized_url': '', 'main_address_raw_text': '3 Queen Street, Londonderry, Northern Ireland, BT48 7EF, United Kingdom', 'normalized_phone': '+442871312211'}
+Coppia 63:
+  Record 1: {'clean_company_name': 'j dewers custom framing and fine arts services', 'normalized_url': 'www.jdewers.com', 'main_address_raw_text': '', 'normalized_phone': '+16192335888'}
+  Record 2: {'clean_company_name': 'premium roof services', 'normalized_url': '', 'main_address_raw_text': '659 Grand Ave, Spring Valley, California, 91977-5010, United States', 'normalized_phone': '+16192398880'}
+Coppia 64:
+  Record 1: {'clean_company_name': 'centamin', 'normalized_url': 'www.centamin.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'centre minceur montaigne', 'normalized_url': 'www.centre-minceurtrocadero.com/&opi=79508299&sa=u&ved=0ahukewjsnfpawucfaxw5hjqihy2ld_0q61gifcgq&usg=aovvaw1rjm8rkhxgwwuiwqzgleek', 'main_address_raw_text': '42 Av. Montaigne, 75008 Paris, France', 'normalized_phone': '+33668786185'}
+Coppia 65:
+  Record 1: {'clean_company_name': 'himalayan challenge treks annapurna mardi kanchenjunga tsum valley khopra everest', 'normalized_url': 'www.hctreks.com/?opi=79508299&sa=u&ved=0ahukewjv4fsy_okhaxxor6qehfqbd1aq61gifigs&usg=aovvaw16ag2qi1iun_droxtodbqz', 'main_address_raw_text': 'DRS Bhaban5th Floor, Thamel, Chok, Kathmandu 44600, Nepal', 'normalized_phone': '+9779841882669'}
+  Record 2: {'clean_company_name': '1ecard', 'normalized_url': '1ecard.in', 'main_address_raw_text': 'Flat No 3, C-5, S.N. 52/1, Shantiban Society, Near Eklavya College, Kothrud, Pune, Maharashtra, India - 411038.', 'normalized_phone': '+917276961775'}
+Coppia 66:
+  Record 1: {'clean_company_name': 'united wholesale scotland', 'normalized_url': 'unitedwholesalescotland.wordpress.com', 'main_address_raw_text': '164-166 Maxwell Road, Glasgow, G41 1SS', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'united wholesale scotland', 'normalized_url': 'www.uniteduk.co.uk', 'main_address_raw_text': '110 Easter Queenslie Road, Glasgow, Scotland, G33 4UL, United Kingdom', 'normalized_phone': '+441417816608'}
+Coppia 67:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.tvacu.com', 'main_address_raw_text': '3701 Loop Rd, Tuscaloosa, Alabama, 35404-5015, United States', 'normalized_phone': '+12054620620'}
+  Record 2: {'clean_company_name': 'botaty بوتاتي', 'normalized_url': 'www.botaty.com', 'main_address_raw_text': 'cairo, cairo governorate, egypt', 'normalized_phone': ''}
+Coppia 68:
+  Record 1: {'clean_company_name': 'vitamin k', 'normalized_url': '', 'main_address_raw_text': ', Leeds, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'vitamin k', 'normalized_url': 'vitaminkdesign.com', 'main_address_raw_text': '12 Balbec Avenue, Leeds, LS6 2BB', 'normalized_phone': '+448456801046'}
+Coppia 69:
+  Record 1: {'clean_company_name': 'k9 search rescue', 'normalized_url': 'www.kvsark9.org', 'main_address_raw_text': ', Kankakee, Illinois, United States', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'talk about international publishing group taichung cultural center branch', 'normalized_url': 'www.c-talk.com/index.html&opi=79508299&sa=u&ved=0ahukewjgtec2migiaxukxgihht5rjliq61giesgo&usg=aovvaw3_izejyv8joj09aaazbzpe', 'main_address_raw_text': '403, Taiwan, Taichung City, West District, Zizhi St, 155號7號樓之5', 'normalized_phone': '+886423727595'}
+Coppia 70:
+  Record 1: {'clean_company_name': 'used challenger tractors', 'normalized_url': 'www.used-challenger-tractors.com/depot/lutterworth-challenger-tractor-depot-map&opi=79508299&sa=u&ved=0ahukewjx3kkqopakaxwzqzabhsjjj84q61gifcgr&usg=aovvaw3reqo8hblpjo7jaqbfjzex', 'main_address_raw_text': 'Lutterworth Rd, Cosby, Leicester LE9 1RH, United Kingdom', 'normalized_phone': '+441455201790'}
+  Record 2: {'clean_company_name': 'prg cycle', 'normalized_url': 'www.prgcycle.com', 'main_address_raw_text': 'Rm. C28, 4F., No. 447, Sec. 3, Wenxin Rd., Beitun Dist, Taichung, Taiwan, 406', 'normalized_phone': ''}
+Coppia 71:
+  Record 1: {'clean_company_name': 'spec', 'normalized_url': 'www.spec.co', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': '+448003687702'}
+  Record 2: {'clean_company_name': 'spicy', 'normalized_url': 'www.spicyvolx.com', 'main_address_raw_text': 'Comte Borrell 41, Barcelona, Spain, 08015', 'normalized_phone': ''}
+Coppia 72:
+  Record 1: {'clean_company_name': '', 'normalized_url': '', 'main_address_raw_text': 'Jalan Muara Karang Raya No.24 A-B Lantai 2-3, RT.11/RW.3, Pluit, Penjaringan, North Jakarta City, Jakarta 14450, Indonesia', 'normalized_phone': '+622122672230'}
+  Record 2: {'clean_company_name': 'iranzak', 'normalized_url': 'www.iranzak.com', 'main_address_raw_text': 'North Ebn Sina Street, Alborz Industrial City, Qazvin Province, Iran', 'normalized_phone': '+982832222523'}
+Coppia 73:
+  Record 1: {'clean_company_name': 'chameleon tattoo and piercing studio', 'normalized_url': 'chameleontattoos.com', 'main_address_raw_text': '', 'normalized_phone': '+918522833773'}
+  Record 2: {'clean_company_name': 'chatime', 'normalized_url': 'chatime.com.ph/?opi=79508299&sa=u&ved=0ahukewizgayci4giaxvjrkqehz_zlckq61gieygo&usg=aovvaw06c3k_vmr0gg4mcjpi3c5w', 'main_address_raw_text': 'Pioneer St, Pasig, Metro Manila, Philippines', 'normalized_phone': ''}
+Coppia 74:
+  Record 1: {'clean_company_name': 'healthtrio', 'normalized_url': 'www.healthtrio.com', 'main_address_raw_text': 'United States, Arizona, Tucson, 603 N. WILMOT RD., 2ND FLOOR, 85711', 'normalized_phone': '+18775711988'}
+  Record 2: {'clean_company_name': 'healing hearts family counseling center', 'normalized_url': 'www.healingheartscares.com/?opi=79508299&sa=u&ved=0ahukewixqv7yxuchaxxqvueahqcngumq61gieigo&usg=aovvaw2hpdsfg5bm6kf4snqaj8av', 'main_address_raw_text': '1268 W Main St, Sun Prairie, WI 53590', 'normalized_phone': '+16088341122'}
+Coppia 75:
+  Record 1: {'clean_company_name': 'zoemoujewellery', 'normalized_url': 'www.zoemou.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'zornik', 'normalized_url': 'www.zornik.com', 'main_address_raw_text': 'Beringen, Flanders, Belgium', 'normalized_phone': ''}
+Coppia 76:
+  Record 1: {'clean_company_name': 'italtecno do brasil', 'normalized_url': '', 'main_address_raw_text': '671 Avenida Angelica, Sao Paulo, State of Sao Paulo, 01228-000, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'junção equipamentos industriais', 'normalized_url': 'www.juncaoequipamentos.com.br', 'main_address_raw_text': ', Curitiba, State of Parana, Brazil', 'normalized_phone': '+554131567550'}
+Coppia 77:
+  Record 1: {'clean_company_name': 'vtkb', 'normalized_url': 'www.vtkb.de', 'main_address_raw_text': 'berlin, berlin, germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'die spielzeug tante', 'normalized_url': 'www.die-spielzeug-tante.de', 'main_address_raw_text': 'berlin, berlin, germany', 'normalized_phone': '+493023480620'}
+Coppia 78:
+  Record 1: {'clean_company_name': 'jet paquetería', 'normalized_url': '', 'main_address_raw_text': 'Av Río Nilo 1021, Quinta Velarde, 44430 Guadalajara, Jal., Mexico', 'normalized_phone': '+523315911345'}
+  Record 2: {'clean_company_name': 'siteur', 'normalized_url': 'www.siteur.gob.mx', 'main_address_raw_text': 'Calz del Federalismo Nte 217, Zona Centro, 44100 Guadalajara, Jal., Mexico', 'normalized_phone': '+523339425700'}
+Coppia 79:
+  Record 1: {'clean_company_name': 'otomatik kepenk maraş', 'normalized_url': 'www.otomatikkepenkmaras.com.tr', 'main_address_raw_text': '6367. Sk No:85 Çilek, 6367. Sk No:85, 33020 Akdeniz/Mersin Yol Tarifi', 'normalized_phone': '+905462052901'}
+  Record 2: {'clean_company_name': 'neoside automation', 'normalized_url': 'www.neoside.com.br', 'main_address_raw_text': 'Ribeirão Preto, São paulo, Brazil', 'normalized_phone': ''}
+Coppia 80:
+  Record 1: {'clean_company_name': 'wei yeong', 'normalized_url': 'www.weiyeongdesign.com', 'main_address_raw_text': ', Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'weidele auto', 'normalized_url': 'www.weidele.net', 'main_address_raw_text': ', Krauchenwies, Baden-Wuerttemberg, 72505, Germany', 'normalized_phone': ''}
+Coppia 81:
+  Record 1: {'clean_company_name': 'c3 unitedlife', 'normalized_url': 'c3unitedlife.com', 'main_address_raw_text': '1c Manor Place, Sutton, Surrey, SM1 4BB', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'spire sussex plastic cosmetic surgery clinic', 'normalized_url': 'www.spirehealthcare.com/spire-sussex-hospital/treatments/cosmetic-surgery/%3futm_source%3dgoogle%26utm_medium%3dorganic%26utm_campaign%3dclinic_gmb_cosmetic&opi=79508299&sa=u&ved=0ahukewjrrp7uwvwkaxw1spedha84kpeq61gifigs&usg=aovvaw1kxvio8dmp9zxxeaisq5y4', 'main_address_raw_text': 'Spire Sussex Hospital, The Ridge, St Leonards, on Sea TN37 7RE, United Kingdom', 'normalized_phone': '+448456047400'}
+Coppia 82:
+  Record 1: {'clean_company_name': 'vitamin k', 'normalized_url': '', 'main_address_raw_text': ', Leeds, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'mortgage offer', 'normalized_url': 'www.mortgageofferltd.co.uk', 'main_address_raw_text': ', London, United Kingdom', 'normalized_phone': '+447535686667'}
+Coppia 83:
+  Record 1: {'clean_company_name': 'central florida cancer institute', 'normalized_url': 'www.cfcancerinst.com', 'main_address_raw_text': '', 'normalized_phone': '+18634190692'}
+  Record 2: {'clean_company_name': 'central ohio lions eye bank', 'normalized_url': 'www.donatemyeyes.org', 'main_address_raw_text': '262 Neil Ave #140, Columbus, OH 43215, United States', 'normalized_phone': '+16145452057'}
+Coppia 84:
+  Record 1: {'clean_company_name': 'plezer color lab', 'normalized_url': 'www.plezer.photos', 'main_address_raw_text': '5,Ground floor,Bandhan complex,GHB,Nr.Ankur bus-stand, opp. Axis Bank Branch, Naranpura, Ahmedabad, Gujarat 380013, India', 'normalized_phone': '+919909023509'}
+  Record 2: {'clean_company_name': 'safe hands diagnostics', 'normalized_url': 'safehandsdiagnostics.in/?opi=79508299&sa=u&ved=0ahukewi-2lod1-ohaxwuuaqehygugw8q61gieigo&usg=aovvaw3nuobdq2yxy6wf6qaukqwj', 'main_address_raw_text': 'Survey no. 187, 1st cross road, Police station road Varthur, opposite to Vishal Megamart, Bengaluru, Karnataka 560087, India', 'normalized_phone': ''}
+Coppia 85:
+  Record 1: {'clean_company_name': 'communication wise', 'normalized_url': 'www.communicationwise.com.au', 'main_address_raw_text': 'Elgin St, Maitland, New South Wales, 2320, Australia', 'normalized_phone': '+61401425903'}
+  Record 2: {'clean_company_name': 'commina', 'normalized_url': 'www.commina.org', 'main_address_raw_text': "41 המיסדים, Zikhron Ya'akov, Haifa District, 3091075, Israel", 'normalized_phone': ''}
+Coppia 86:
+  Record 1: {'clean_company_name': 'heena kochhar', 'normalized_url': 'www.heenakochhar.com/&opi=79508299&sa=u&ved=0ahukewikstkk55agaxvi0aihhydwcgqq61gifigs&usg=aovvaw0wky8uniz1wq_5ig2r0azf', 'main_address_raw_text': 'DDA Market, Shop No.5, opp. Asian Games Village Road, Shahpur Jat, Siri Fort, New Delhi, Delhi 110049, India', 'normalized_phone': '+919811020714'}
+  Record 2: {'clean_company_name': 'chromogreen distributor jagdish kumar and shiv kumar', 'normalized_url': 'chromogreen.com', 'main_address_raw_text': 'Shop No. 7, Kheri Rd, Hanuman Nagar, Sector 87, Neharpar Faridabad, Faridabad, Haryana 121002, India', 'normalized_phone': ''}
+Coppia 87:
+  Record 1: {'clean_company_name': 'oasis contabilidade', 'normalized_url': 'www.contabilidadeoasis.com.br', 'main_address_raw_text': ', Cotia, Sao Paulo, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'cliad', 'normalized_url': 'www.cliad.com.br', 'main_address_raw_text': ', Sao Paulo, State of Sao Paulo, Brazil', 'normalized_phone': ''}
+Coppia 88:
+  Record 1: {'clean_company_name': 'headstrong clinic', 'normalized_url': 'www.headstrongclinic.co.uk', 'main_address_raw_text': ', Cheltenham, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'reaction information security', 'normalized_url': '', 'main_address_raw_text': ', Canterbury, United Kingdom', 'normalized_phone': ''}
+Coppia 89:
+  Record 1: {'clean_company_name': 'phoenix hall yotsuyama oizumi in temple', 'normalized_url': 'phoenix-jpn.com/?opi=79508299&sa=u&ved=0ahukewjk6n7wifygaxvocfedhacich4q61gidsgk&usg=aovvaw1qmpznuggi53s7-ubme5ld', 'main_address_raw_text': 'Japan, 〒836-0076 Fukuoka, Omuta, Misatomachi, 2 Chome−６−15', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': '1ecard', 'normalized_url': '1ecard.in', 'main_address_raw_text': 'Flat No 3, C-5, S.N. 52/1, Shantiban Society, Near Eklavya College, Kothrud, Pune, Maharashtra, India - 411038.', 'normalized_phone': '+917276961775'}
+Coppia 90:
+  Record 1: {'clean_company_name': 'fabio rizzi', 'normalized_url': 'www.fabiorizzi.co.uk', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'fourthquarter consultancy limited', 'normalized_url': '', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+Coppia 91:
+  Record 1: {'clean_company_name': 'kober peuteropvang noorderlicht', 'normalized_url': 'www.kober.nl/locaties/noorderlicht/%3futm_source%3dgoogle%26utm_medium%3dorganic%26utm_campaign%3dgmb%26utm_content%3dgmb-website-noorderlicht&opi=79508299&sa=u&ved=0ahukewif49stt8whaxuj3tgghyniatyq61gieigp&usg=aovvaw0m4s4vezfjsnchga3472dv', 'main_address_raw_text': 'Cornelis Florisstraat 25, 4827 CN Breda, Netherlands', 'normalized_phone': '+31883036905'}
+  Record 2: {'clean_company_name': 'rikrea', 'normalized_url': 'www.rikrea.eu', 'main_address_raw_text': 'Via Sorda Sampieri, 97015 Modica', 'normalized_phone': '+393334336599'}
+Coppia 92:
+  Record 1: {'clean_company_name': 'advivision', 'normalized_url': 'indiaprogresspath.com', 'main_address_raw_text': 'Purulia Rd, N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831012, भारत', 'normalized_phone': '+919999422970'}
+  Record 2: {'clean_company_name': 'advivision', 'normalized_url': 'mumbaifutureconnect.com', 'main_address_raw_text': 'Purulia Rd, N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831012, भारत', 'normalized_phone': '+919999422970'}
+Coppia 93:
+  Record 1: {'clean_company_name': 'uspca', 'normalized_url': 'www.uspca.co.uk', 'main_address_raw_text': 'Units 5-6 Carnbane Industrial Estate, Newry, United Kingdom', 'normalized_phone': '+442830251000'}
+  Record 2: {'clean_company_name': 'topbox studios', 'normalized_url': '', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+Coppia 94:
+  Record 1: {'clean_company_name': 'euro turismo e cambio', 'normalized_url': 'www.euroturismo.com.br', 'main_address_raw_text': ', Sao Paulo, State of Sao Paulo, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'italtecno do brasil', 'normalized_url': '', 'main_address_raw_text': '671 Avenida Angelica, Sao Paulo, State of Sao Paulo, 01228-000, Brazil', 'normalized_phone': ''}
+Coppia 95:
+  Record 1: {'clean_company_name': 'wer wie wann', 'normalized_url': 'www.werwiewann.de', 'main_address_raw_text': ', Marburg, Hesse, Germany', 'normalized_phone': '+4964211863264'}
+  Record 2: {'clean_company_name': 'pieter wijtenburg burn out coaching career coaching', 'normalized_url': 'pieterwijtenburg.nl/?opi=79508299&sa=u&ved=0ahukewjd8chg5pkiaxwsvqqehye8dzwq61gifcgq&usg=aovvaw08s5a1lf_bogvq1i4v5ciy', 'main_address_raw_text': 'Sarphatistraat 14, 1017 WS Amsterdam, Netherlands', 'normalized_phone': '+31648888434'}
+Coppia 96:
+  Record 1: {'clean_company_name': 'vital living wellness solutions anxiety clinic', 'normalized_url': 'www.vitallivingws.com/?opi=79508299&sa=u&ved=0ahukewiw86ca842haxwsckqehb-hd18q61gieigo&usg=aovvaw0cz8vobnkfrx6oktv51gdw', 'main_address_raw_text': '127 S 1st St #101, Geneva, IL 60134', 'normalized_phone': '+16305263030'}
+  Record 2: {'clean_company_name': 'now linens', 'normalized_url': 'www.nowlinens.com', 'main_address_raw_text': '1101 n lombard road, 60148, lombard, il, illinois', 'normalized_phone': '+13122671698'}
+Coppia 97:
+  Record 1: {'clean_company_name': 'acupuntura mayer', 'normalized_url': 'www.acupunturamayerkohara.com.br', 'main_address_raw_text': 'Rio de Janeiro, State of Rio de Janeiro, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'refúgio paraty', 'normalized_url': 'www.refugioparaty.com', 'main_address_raw_text': ', Paraty, Rio de Janeiro, Brazil', 'normalized_phone': ''}
+Coppia 98:
+  Record 1: {'clean_company_name': 'rights of light surveyors', 'normalized_url': 'www.rightsoflightsurveyors.co.uk', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': '+442078673955'}
+  Record 2: {'clean_company_name': 'spec', 'normalized_url': 'www.spec.co', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': '+448003687702'}
+Coppia 99:
+  Record 1: {'clean_company_name': 'carolina casa', 'normalized_url': 'www.carolinacasa.com', 'main_address_raw_text': 'Wendell, North Carolina', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'carplusme', 'normalized_url': 'www.carplusme.co.za/where-buy/?opi=79508299&sa=u&ved=0ahukewi75m__l5iiaxuf-dgghzz5kvsq61gieygq&usg=aovvaw2vc6mccigh3oyawn-0sm0v', 'main_address_raw_text': 'Paarden Eiland Rd, Paarden Eiland, Cape Town, 7405, South Africa', 'normalized_phone': '+27215113311'}
+Coppia 100:
+  Record 1: {'clean_company_name': 'stream of praise 讚美之泉', 'normalized_url': 'www.sop.org', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'stream of praise music ministries foundation', 'normalized_url': 'www.streamofpraise.org', 'main_address_raw_text': '1165 Warner Ave. Tustin, CA 92780, USA', 'normalized_phone': '+85262916083'}
+Coppia 101:
+  Record 1: {'clean_company_name': 'performico', 'normalized_url': 'www.performico.nl', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'performance authority bend', 'normalized_url': 'www.performanceauthoritybend.com', 'main_address_raw_text': '20534  Murray Rd, Bend, Oregon, 97701', 'normalized_phone': ''}
+Coppia 102:
+  Record 1: {'clean_company_name': 'locate estate agents', 'normalized_url': '', 'main_address_raw_text': '3 Queen Street, Londonderry, Northern Ireland, BT48 7EF, United Kingdom', 'normalized_phone': '+442871312211'}
+  Record 2: {'clean_company_name': 'terry hyland estate agents', 'normalized_url': 'www.thyland.ie', 'main_address_raw_text': 'Old, Dublin Rd, Townparks, Cavan, H12 P4A7, Ireland', 'normalized_phone': '+353494380434'}
+Coppia 103:
+  Record 1: {'clean_company_name': 'fourthquarter consultancy limited', 'normalized_url': '', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'harlesden day', 'normalized_url': 'www.harlesdencog7day.com', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+Coppia 104:
+  Record 1: {'clean_company_name': 'advivision', 'normalized_url': 'indiaforwardlink.com', 'main_address_raw_text': 'Purulia Rd, N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831012, भारत', 'normalized_phone': '+919999422970'}
+  Record 2: {'clean_company_name': 'advivision', 'normalized_url': 'mumbaifutureconnect.com', 'main_address_raw_text': 'Purulia Rd, N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831012, भारत', 'normalized_phone': '+919999422970'}
+Coppia 105:
+  Record 1: {'clean_company_name': 'chromogreen distributor jagdish kumar and shiv kumar', 'normalized_url': 'chromogreen.com', 'main_address_raw_text': 'Shop No. 7, Kheri Rd, Hanuman Nagar, Sector 87, Neharpar Faridabad, Faridabad, Haryana 121002, India', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'distributor amanah', 'normalized_url': 'airamanah.com/&opi=79508299&sa=u&ved=0ahukewjlykmcgaigaxwqpjuchxq_bx8q61gieygq&usg=aovvaw2fmexgoh4qc4pmsetvbb5k', 'main_address_raw_text': 'Purbosari, Wonosari, Kec. Wonosari, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55851, Indonesia', 'normalized_phone': '+6289665886532'}
+Coppia 106:
+  Record 1: {'clean_company_name': 'hafner', 'normalized_url': 'www.hafner.ca', 'main_address_raw_text': ', Portneuf, Quebec, Canada', 'normalized_phone': '+14182863400'}
+  Record 2: {'clean_company_name': 'central florida cancer institute', 'normalized_url': 'www.cfcancerinst.com', 'main_address_raw_text': '', 'normalized_phone': '+18634190692'}
+Coppia 107:
+  Record 1: {'clean_company_name': 'anne nelson vets', 'normalized_url': 'www.nelsonvets.co.uk', 'main_address_raw_text': '238 Pampisford Road, Croydon, United Kingdom', 'normalized_phone': '+442086866070'}
+  Record 2: {'clean_company_name': 'house of reeves', 'normalized_url': 'www.houseofreeves.com/?opi=79508299&sa=u&ved=0ahukewj0l8o3if2kaxwfwaihhb5rdz0q61gifigs&usg=aovvaw1xlyezgrj9pt4efiwowua6', 'main_address_raw_text': 'Reeves Cor, Church St, Croydon CR9 1QS, United Kingdom', 'normalized_phone': '+442086883136'}
+Coppia 108:
+  Record 1: {'clean_company_name': 'natural health center of aiken', 'normalized_url': 'www.naturalhealthcenterofaiken.com', 'main_address_raw_text': 'aiken, south carolina, United States', 'normalized_phone': '+18032260178'}
+  Record 2: {'clean_company_name': 'ben lovro', 'normalized_url': 'www.benlovro.com', 'main_address_raw_text': 'south carolina, united states', 'normalized_phone': '+18033693327'}
+Coppia 109:
+  Record 1: {'clean_company_name': 'vtkb', 'normalized_url': 'www.vtkb.de', 'main_address_raw_text': ', Berlin, Berlin, Germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'christina klessmann', 'normalized_url': 'www.christinaklessmann.de', 'main_address_raw_text': 'berlin, berlin, germany', 'normalized_phone': ''}
+Coppia 110:
+  Record 1: {'clean_company_name': 'estermann edv systeme', 'normalized_url': 'www.ees.at', 'main_address_raw_text': '', 'normalized_phone': '+43771235801'}
+  Record 2: {'clean_company_name': 'kunstraum goethestrasse', 'normalized_url': 'www.kunstraum.at', 'main_address_raw_text': '30 Goethestrasse, Linz am Rhein, Rhineland-Palatinate, 53545, Germany', 'normalized_phone': ''}
+Coppia 111:
+  Record 1: {'clean_company_name': 'junção equipamentos industriais', 'normalized_url': 'www.juncaoequipamentos.com.br', 'main_address_raw_text': ', Curitiba, State of Parana, Brazil', 'normalized_phone': '+554131567550'}
+  Record 2: {'clean_company_name': 'marquesa flores', 'normalized_url': 'www.marquesaflores.com.br', 'main_address_raw_text': ', Curitiba, State of Parana, Brazil', 'normalized_phone': '+554132222414'}
+Coppia 112:
+  Record 1: {'clean_company_name': 'image and content', 'normalized_url': 'www.imageandcontent.com', 'main_address_raw_text': '4 Kerenzerbergstrasse, Glarus Nord, Glarus, 8757, Switzerland', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'image auto', 'normalized_url': 'imageautollc.com', 'main_address_raw_text': '126 Dwight Park Circle\nSyracuse, NY 13209', 'normalized_phone': '+13158495436'}
+Coppia 113:
+  Record 1: {'clean_company_name': 'hirayama architectural design office', 'normalized_url': '', 'main_address_raw_text': '2841 Shinoharacho, Kohoku Ward, Yokohama, Kanagawa 222-0026, Japan', 'normalized_phone': '+81454212762'}
+  Record 2: {'clean_company_name': 'michael tarring architects', 'normalized_url': 'www.mta.studio', 'main_address_raw_text': 'Studio B5, Sutherland House, London, United Kingdom, E17 6BU', 'normalized_phone': ''}
+Coppia 114:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.hawaiinails.com', 'main_address_raw_text': '', 'normalized_phone': '+17149638839'}
+  Record 2: {'clean_company_name': 'karen kaplowitz', 'normalized_url': 'www.newellis.com', 'main_address_raw_text': '1 Woodside Ln, New Hope, Pennsylvania, 18938-9281, United States', 'normalized_phone': '+12677144065'}
+Categoria: match (n. coppie: 147)
+Coppia 0:
+  Record 1: {'clean_company_name': 'consultthings', 'normalized_url': 'artofthing.no', 'main_address_raw_text': 'Kokstadvegen 46, Bergen, Norway', 'normalized_phone': '+4790137187'}
+  Record 2: {'clean_company_name': 'consultthings', 'normalized_url': 'consultthings.no', 'main_address_raw_text': 'Kokstadvegen 46, Bergen, Norway', 'normalized_phone': '+4790137187'}
+Coppia 1:
+  Record 1: {'clean_company_name': 'top mortgage', 'normalized_url': 'www.topmortgagecompany.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'top mortgage', 'normalized_url': 'www.topmortgagecompany.com', 'main_address_raw_text': '835 Mason St Suite 315B, Dearborn, MI 48124', 'normalized_phone': '+12488414000'}
+Coppia 2:
+  Record 1: {'clean_company_name': 'navial', 'normalized_url': 'www.navial.com.ar', 'main_address_raw_text': 'Gdor. Manuel Ocampo 1730, B1872 Avellaneda, Provincia de Buenos Aires, Argentina', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'navial', 'normalized_url': 'www.navial.com.ar', 'main_address_raw_text': '1730 Avenida Manuel Ocampo, Sarandi, Buenos Aires Province, 1872, Argentina', 'normalized_phone': ''}
+Coppia 3:
+  Record 1: {'clean_company_name': 'zon guitars', 'normalized_url': 'zonguitars.com/&opi=79508299&sa=u&ved=0ahukewjy69wpzbcfaxuvl4kehxh_decq61gieigo&usg=aovvaw1optuv6xrlgdljcboap6hr', 'main_address_raw_text': '780 Second Ave, Redwood City, CA 94063', 'normalized_phone': '+16503663516'}
+  Record 2: {'clean_company_name': 'zon guitars', 'normalized_url': 'www.zonguitars.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 4:
+  Record 1: {'clean_company_name': 'spectrum imaging center', 'normalized_url': 'www.spectrumimagingcenter.com', 'main_address_raw_text': '129-08 Liberty Ave, Queens, NY 11419', 'normalized_phone': '+17188452700'}
+  Record 2: {'clean_company_name': 'spectrum imaging center', 'normalized_url': 'www.spectrumimagingcenter.business.site', 'main_address_raw_text': '08 Liberty Avenue\nQueens, NY 11419\nUSA', 'normalized_phone': '+18885881122'}
+Coppia 5:
+  Record 1: {'clean_company_name': 'distinguished young women of ohio', 'normalized_url': 'www.distinguishedyw.org', 'main_address_raw_text': '233 w 6th st, marysville, oh 43040', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'distinguished young women of montana', 'normalized_url': 'www.distinguishedyw.org', 'main_address_raw_text': '', 'normalized_phone': '+12514383621'}
+Coppia 6:
+  Record 1: {'clean_company_name': 'streamline surgical', 'normalized_url': 'www.streamline-surgical.com', 'main_address_raw_text': 'Sudbury Hill, Harrow, HA1 3GW, United Kingdom', 'normalized_phone': '+448001577033'}
+  Record 2: {'clean_company_name': 'streamline surgical llp', 'normalized_url': 'www.streamline-surgical.com', 'main_address_raw_text': 'Mcindoe Surgical Centre Ltd, Holtye Rd, East Grinstead RH19 3EB, United Kingdom', 'normalized_phone': '+448001577033'}
+Coppia 7:
+  Record 1: {'clean_company_name': 'woodridge capital partners', 'normalized_url': 'woodridgecapital.com', 'main_address_raw_text': 'Suite 2850\nLos Angeles, California 90067', 'normalized_phone': '+13108247931'}
+  Record 2: {'clean_company_name': 'woodridge capital partners', 'normalized_url': 'www.woodridgecapital.com', 'main_address_raw_text': 'United States, California, Los Angeles, 1999 AVENUE OF THE STARS, 90067', 'normalized_phone': '+13108242200'}
+Coppia 8:
+  Record 1: {'clean_company_name': 'primesettings', 'normalized_url': 'primesettings.com', 'main_address_raw_text': '', 'normalized_phone': '+12012317676'}
+  Record 2: {'clean_company_name': 'pps', 'normalized_url': '', 'main_address_raw_text': 'Marchington Industrial Estate, Uttoxeter, ST14 8LP, United Kingdom', 'normalized_phone': '+441283821502'}
+Coppia 9:
+  Record 1: {'clean_company_name': 'odell studner group', 'normalized_url': 'www.odellstudner.com', 'main_address_raw_text': '200 N Warner Rd, King of Prussia, PA 19406', 'normalized_phone': '+14845863900'}
+  Record 2: {'clean_company_name': 'odell studner', 'normalized_url': 'odellstudner.com', 'main_address_raw_text': '1265 Drummers Lane\nSuite 300\nWayne, PA 19087', 'normalized_phone': '+16109950105'}
+Coppia 10:
+  Record 1: {'clean_company_name': 'ixom operations', 'normalized_url': 'www.ixom.com', 'main_address_raw_text': 'Osborne SA 5017, Australia', 'normalized_phone': '+611300550036'}
+  Record 2: {'clean_company_name': 'ixom operations pty', 'normalized_url': 'www.ixom.com/?opi=79508299&sa=u&ved=0ahukewioueafj9sgaxxwskqehbocalcq61gieigo&usg=aovvaw3s_21ynezcehe6u2c9kudc', 'main_address_raw_text': 'Port Kembla NSW 2505, Australia', 'normalized_phone': '+61242552700'}
+Coppia 11:
+  Record 1: {'clean_company_name': 'st pete running company', 'normalized_url': '', 'main_address_raw_text': '6986 22nd Ave N, Saint Petersburg, Florida, 33710-3920, United States', 'normalized_phone': '+17278005043'}
+  Record 2: {'clean_company_name': 'st pete running company', 'normalized_url': 'www.stpeterunningco.com', 'main_address_raw_text': '6986 22nd ave n, saint petersburg, fl 33710', 'normalized_phone': '+17278005043'}
+Coppia 12:
+  Record 1: {'clean_company_name': 'equmeniakyrkan', 'normalized_url': 'equmeniakyrkan.se', 'main_address_raw_text': 'Equmeniakyrkan Box 14038 167 14 Bromma', 'normalized_phone': '+46702301948'}
+  Record 2: {'clean_company_name': 'equmeniakyrkan alstermo', 'normalized_url': 'equmeniakyrkan.se/alstermo', 'main_address_raw_text': 'Kyrkogatan 1, 364 43 Alstermo, Sweden', 'normalized_phone': ''}
+Coppia 13:
+  Record 1: {'clean_company_name': 'unipolrental', 'normalized_url': '', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'unipolrental s p a genoa', 'normalized_url': 'www.unipolrental.it/&opi=79508299&sa=u&ved=0ahukewjlrneric-faxweugchhrdvbugq61giecgm&usg=aovvaw02swiwd3kzngjzbn7rw_ai', 'main_address_raw_text': 'Via Gelasio Adamoli, 333, 16138 Genova GE, Italy', 'normalized_phone': ''}
+Coppia 14:
+  Record 1: {'clean_company_name': 'raul estrada arquitectura', 'normalized_url': 'www.raulestrada.es', 'main_address_raw_text': ', Valencian Community, 03501, Spain', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'raúl estrada arquitectura', 'normalized_url': 'www.raulestrada.es', 'main_address_raw_text': 'Av. del Municipi, 14, 03502 Benidorm, Alicante, Spain', 'normalized_phone': ''}
+Coppia 15:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.helpageindia.org', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'helpage india', 'normalized_url': 'www.helpageindia.org/&opi=79508299&sa=u&ved=0ahukewiilsenkj-gaxv5aueahxsicvaq61gifcgr&usg=aovvaw3-jf1omg3osjps_dgdd2sn', 'main_address_raw_text': '17-B, Sri Aurobindo Marg, Adchini, Adhchini Village, Qutab Enclave, New Delhi, Delhi 110016, India', 'normalized_phone': '+9118001801253'}
+Coppia 16:
+  Record 1: {'clean_company_name': 'sterling pools and spas queensway', 'normalized_url': 'www.sterlingpools.ca', 'main_address_raw_text': '624 Queensway Ct, Peterborough, ON K9J 7V6, Canada', 'normalized_phone': '+17057423876'}
+  Record 2: {'clean_company_name': 'sterling pools and spas division street cobourg', 'normalized_url': 'www.sterlingpools.ca', 'main_address_raw_text': '991 Division St, Cobourg, ON K9A 5J5, Canada', 'normalized_phone': '+19053721409'}
+Coppia 17:
+  Record 1: {'clean_company_name': 'pps', 'normalized_url': '', 'main_address_raw_text': 'Marchington Industrial Estate, Uttoxeter, ST14 8LP, United Kingdom', 'normalized_phone': '+441283821502'}
+  Record 2: {'clean_company_name': 'sussex paving precast', 'normalized_url': 'www.sussexpavingandprecast.co.uk/?opi=79508299&sa=u&ved=0ahukewjeyr_shp2haxv2f1kfhxu5ao0q61gifsgr&usg=aovvaw0gearifpwqtrmvb9n7jjbw', 'main_address_raw_text': 'Unit 14, Newhaven Workshops, Beach Cl, Newhaven BN9 0BY, United Kingdom', 'normalized_phone': '+447817962701'}
+Coppia 18:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.barbosik60.ru', 'main_address_raw_text': 'Pskov', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'barbosik', 'normalized_url': 'barbosik60.ru', 'main_address_raw_text': "Tekstil'naya Ulitsa, 1 к1, Pskov, Pskov Oblast, Russia, 180019", 'normalized_phone': '+79532319711'}
+Coppia 19:
+  Record 1: {'clean_company_name': 'green flash machine', 'normalized_url': 'greenflashmachine.com', 'main_address_raw_text': '2810 Via Orange Way Suite B\nSpring Valley, CA 91978', 'normalized_phone': '+16197491869'}
+  Record 2: {'clean_company_name': 'green flash machine', 'normalized_url': 'www.greenflashmachine.com', 'main_address_raw_text': ', Spring Valley, California, United States', 'normalized_phone': '+16197491869'}
+Coppia 20:
+  Record 1: {'clean_company_name': 'diego dalla palma', 'normalized_url': 'www.diegodallapalma.com/en', 'main_address_raw_text': '38 N 3rd Ring W Rd, Beixiaguan Subdistrict, Haidian District, Beijing, China, 100086', 'normalized_phone': '+861062150387'}
+  Record 2: {'clean_company_name': 'diego dalla palma', 'normalized_url': 'diegodallapalmadrivetostore.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 21:
+  Record 1: {'clean_company_name': 'looking glass media', 'normalized_url': '', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'looking glass media', 'normalized_url': 'www.lgsmm.com', 'main_address_raw_text': '2809 Oak Knoll Dr, Diamond Bar, California, 91765-3665, United States', 'normalized_phone': '+12135091536'}
+Coppia 22:
+  Record 1: {'clean_company_name': 'terratitle', 'normalized_url': 'www.terratitlellc.com', 'main_address_raw_text': ', Centerville, Ohio, United States', 'normalized_phone': '+19372604420'}
+  Record 2: {'clean_company_name': 'terratitle', 'normalized_url': 'terratitlellc.com/contact-us', 'main_address_raw_text': '6718 Loop Road, Centerville, OH 45458', 'normalized_phone': '+19372604420'}
+Coppia 23:
+  Record 1: {'clean_company_name': 'madinum', 'normalized_url': 'www.madinum.com', 'main_address_raw_text': 'Place Gaston Monnerville, Case-Pilote, Saint-Pierre, 97222, Martinique', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'madinüm', 'normalized_url': 'www.madinum.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 24:
+  Record 1: {'clean_company_name': 'retreaver', 'normalized_url': 'retreaver.com/about', 'main_address_raw_text': '36 Cattano Ave, Morristown, NJ 07960', 'normalized_phone': '+18882273193'}
+  Record 2: {'clean_company_name': 'retreaver', 'normalized_url': 'www.retreaver.com', 'main_address_raw_text': '163 Spadina Ave, Toronto, Ontario, M5V 2L6, Canada', 'normalized_phone': '+18668987878'}
+Coppia 25:
+  Record 1: {'clean_company_name': 'fit mit silvia', 'normalized_url': 'www.fit-mit-silvia.de', 'main_address_raw_text': ', Aichach, Bavaria, Germany', 'normalized_phone': '+49825153183'}
+  Record 2: {'clean_company_name': 'fit mit silvia', 'normalized_url': 'fit-mit-silvia.de', 'main_address_raw_text': 'Himmelreichstraße 4, 86551 Aichach', 'normalized_phone': '+49825153183'}
+Coppia 26:
+  Record 1: {'clean_company_name': 'mumbai eye care', 'normalized_url': 'www.mumbaieyecarecornealasik.com', 'main_address_raw_text': 'Mumbai Eye Care, 101 Sai Vaibhav CHS, Vikrant Circle, Ghatkopar east, Mumbai, Maharashtra, 400077', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'mumbai eye care', 'normalized_url': 'www.mumbaieyecarecornealasik.com', 'main_address_raw_text': 'A-104, Delphi Orchard Avenue, Hiranandani Garden, Powai, Mumbai 400076', 'normalized_phone': '+917710055934'}
+Coppia 27:
+  Record 1: {'clean_company_name': 'unipolrental s p a ravenna', 'normalized_url': 'www.unipolrental.it', 'main_address_raw_text': 'Via della Merenda, 44, 48124 Ravenna RA, Italy', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'unipolrental s p a parma', 'normalized_url': 'www.unipolrental.it', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 28:
+  Record 1: {'clean_company_name': 'china one chinese restaurant', 'normalized_url': 'glenvillechinaone.com', 'main_address_raw_text': '350 WV Hwy 5 East Glenville, WV 26351', 'normalized_phone': '+13044628881'}
+  Record 2: {'clean_company_name': 'china one chinese restaurant', 'normalized_url': 'china1glenville.com', 'main_address_raw_text': '350 WV-5, Glenville, WV 26351, United States', 'normalized_phone': '+13044628881'}
+Coppia 29:
+  Record 1: {'clean_company_name': 'consultthings', 'normalized_url': 'fremtidshjemmet.dk', 'main_address_raw_text': 'Kokstadvegen 46, Bergen, Norway', 'normalized_phone': '+4790137187'}
+  Record 2: {'clean_company_name': 'consultthings', 'normalized_url': 'artofthing.no', 'main_address_raw_text': 'Kokstadvegen 46, Bergen, Norway', 'normalized_phone': '+4790137187'}
+Coppia 30:
+  Record 1: {'clean_company_name': 'the carving board hollywood', 'normalized_url': 'eattheboard.com', 'main_address_raw_text': '7300 Sunset Blvd i, Los Angeles, CA 90046', 'normalized_phone': '+13238454550'}
+  Record 2: {'clean_company_name': 'the carving board', 'normalized_url': 'www.eattheboard.com', 'main_address_raw_text': '18375 Ventura Blvd, Los Angeles, California, 91356, United States', 'normalized_phone': '+18185636799'}
+Coppia 31:
+  Record 1: {'clean_company_name': 'sahar vosk', 'normalized_url': 'saharvosk-parnas.ru', 'main_address_raw_text': '', 'normalized_phone': '+79117112223'}
+  Record 2: {'clean_company_name': 'sahar vosk', 'normalized_url': 'saharvosk.ru', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 32:
+  Record 1: {'clean_company_name': 'hs designwerk', 'normalized_url': 'www.hs-designwerk.de', 'main_address_raw_text': ', Duesseldorf, North Rhine-Westphalia, Germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'hs designwerk', 'normalized_url': 'hs-designwerk.de', 'main_address_raw_text': 'Emanuel-Leutze-Str. 8 40547 Düsseldorf', 'normalized_phone': '+491739487818'}
+Coppia 33:
+  Record 1: {'clean_company_name': 'godaddy', 'normalized_url': 'sealoftoc.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'godaddy', 'normalized_url': 'ldapartners.net', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 34:
+  Record 1: {'clean_company_name': 'stowers machinery', 'normalized_url': 'www.stowerscat.com', 'main_address_raw_text': '', 'normalized_phone': '+18655461414'}
+  Record 2: {'clean_company_name': 'stowers rents the cat rental store', 'normalized_url': 'www.stowerscat.com/company/locations/crossville', 'main_address_raw_text': '215 Interchange Dr, Crossville, TN 38571', 'normalized_phone': '+19314844040'}
+Coppia 35:
+  Record 1: {'clean_company_name': 'johnny stephens photography', 'normalized_url': 'www.johnnysphotography.com', 'main_address_raw_text': 'Dagenham, United Kingdom', 'normalized_phone': '+447852217196'}
+  Record 2: {'clean_company_name': 'johnnystephensphoto', 'normalized_url': 'www.johnnystephensphotography.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 36:
+  Record 1: {'clean_company_name': 'focus designs', 'normalized_url': 'www.focusdesigns.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'focus designs', 'normalized_url': 'focusdesigns.com', 'main_address_raw_text': '', 'normalized_phone': '+82226344566'}
+Coppia 37:
+  Record 1: {'clean_company_name': 'cjl leisure vehicles', 'normalized_url': 'www.cjlleisure.co.uk', 'main_address_raw_text': 'Unit 5 Wistera Works, Brimbleworth lane, Weston-super-Mare, United Kingdom', 'normalized_phone': '+441934511113'}
+  Record 2: {'clean_company_name': 'cjl leisure', 'normalized_url': 'www.cjlleisure.co.uk', 'main_address_raw_text': 'Brimbleworth Lane, Weston-super-Mare, BS22 7XS, United Kingdom', 'normalized_phone': '+441934511113'}
+Coppia 38:
+  Record 1: {'clean_company_name': 'broadway veterinary hospitals', 'normalized_url': 'www.broadwayvh.com', 'main_address_raw_text': '1824 12th Ave, Seattle, WA 98122', 'normalized_phone': '+12063225444'}
+  Record 2: {'clean_company_name': 'broadway veterinary hospital', 'normalized_url': 'www.broadwayvh.com', 'main_address_raw_text': '', 'normalized_phone': '+12063225444'}
+Coppia 39:
+  Record 1: {'clean_company_name': 'cannon s of jax', 'normalized_url': 'www.cannonsofjax.com', 'main_address_raw_text': 'United States, FL, JACKSONVILLE, 6150 RICHARD ST, 32216', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'cannon s of jax', 'normalized_url': 'www.cannonsofjax.com', 'main_address_raw_text': '6150 Richard St, Jacksonville, Florida, 32216-6052, United States', 'normalized_phone': '+19047333524'}
+Coppia 40:
+  Record 1: {'clean_company_name': 'a 1 barricade sign', 'normalized_url': '', 'main_address_raw_text': '201 Colorado Ave, Pueblo, Colorado, 81004-2003, United States', 'normalized_phone': '+17195974847'}
+  Record 2: {'clean_company_name': 'q4 professional services consulting', 'normalized_url': 'www.q4proservices.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 41:
+  Record 1: {'clean_company_name': 'stowers machinery corp', 'normalized_url': 'www.stowerscat.com', 'main_address_raw_text': '9960 Airport Pkwy, Kingsport, TN 37663', 'normalized_phone': '+14233230400'}
+  Record 2: {'clean_company_name': 'stowers machinery', 'normalized_url': 'www.stowerscat.com', 'main_address_raw_text': '', 'normalized_phone': '+18655461414'}
+Coppia 42:
+  Record 1: {'clean_company_name': 'andrade ortopedia ortopedia especializada', 'normalized_url': 'www.andradeortopedia.com.br', 'main_address_raw_text': 'R. Piauí, 1145 - Funcionários, Belo Horizonte - MG, 30150-321, Brazil', 'normalized_phone': '+5531996112123'}
+  Record 2: {'clean_company_name': 'andrade ortopedia', 'normalized_url': 'andradeortopedia.com.br', 'main_address_raw_text': 'R. Piauí, 1139 – Funcionários, Belo Horizonte – MG CEP 30150-321', 'normalized_phone': '+553130192123'}
+Coppia 43:
+  Record 1: {'clean_company_name': 'timpson mobile locksmiths', 'normalized_url': 'www.timpsonsecurity.co.uk/areas/shrewsbury', 'main_address_raw_text': '', 'normalized_phone': '+448000187187'}
+  Record 2: {'clean_company_name': 'timpson mobile locksmiths', 'normalized_url': 'www.timpsonsecurity.co.uk/areas/liverpool', 'main_address_raw_text': '', 'normalized_phone': '+448000187187'}
+Coppia 44:
+  Record 1: {'clean_company_name': 'pereira leutério advogados', 'normalized_url': 'www.pereiraleuterio.com.br', 'main_address_raw_text': '2123 Avenida Senador Vergueiro, Sao Bernardo do Campo, Sao Paulo, 09750-001, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'pereira leute rio advogados', 'normalized_url': 'www.pereiraleuterio.com.br', 'main_address_raw_text': 'Av. Senador Vergueiro, 2123, cjs. 1602 a 1604, Marco Zero Tower, São Bernardo do Campo, Brazil, 09750-001', 'normalized_phone': ''}
+Coppia 45:
+  Record 1: {'clean_company_name': 'faro s pizza', 'normalized_url': 'www.farospizza.com', 'main_address_raw_text': '3963 28th St SE, Grand Rapids, MI 49512', 'normalized_phone': '+16169567717'}
+  Record 2: {'clean_company_name': 'faro s italian pizza', 'normalized_url': 'www.farospizza.com', 'main_address_raw_text': '3963 28th Street Southeast, Grand Rapids, Michigan, 49546, United States', 'normalized_phone': '+16169567717'}
+Coppia 46:
+  Record 1: {'clean_company_name': 'cuyten maintenance services bv', 'normalized_url': 'www.cuyten.nl', 'main_address_raw_text': 'den engelsman 8, 6026rb, maarheeze, netherlands, north brabant', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'cuijten maintenance services b v', 'normalized_url': 'www.cuyten.nl', 'main_address_raw_text': ', Maarheeze, North Brabant, 6026, Netherlands', 'normalized_phone': '+31495594999'}
+Coppia 47:
+  Record 1: {'clean_company_name': 'hollad', 'normalized_url': 'www.hollad.de', 'main_address_raw_text': '', 'normalized_phone': '+49286299820'}
+  Record 2: {'clean_company_name': 'hollad', 'normalized_url': 'hollad.de', 'main_address_raw_text': 'Bahnhofstraße 7 46354 Südlohn', 'normalized_phone': '+492862998299'}
+Coppia 48:
+  Record 1: {'clean_company_name': 'barnett', 'normalized_url': 'www.barnett.se', 'main_address_raw_text': '575 bd du Dr JJ Herbert 73100 Aix les Bains', 'normalized_phone': '+33479340751'}
+  Record 2: {'clean_company_name': 'barnett', 'normalized_url': 'www.barnett.fr', 'main_address_raw_text': '575 bd du Dr JJ Herbert 73100 Aix les Bains', 'normalized_phone': '+33479340751'}
+Coppia 49:
+  Record 1: {'clean_company_name': 'sunlife pharmacy j mall', 'normalized_url': 'www.sunlife.qa/%3futm_source%3dgmb%26utm_medium%3dreferral&opi=79508299&sa=u&ved=0ahukewjc-of9l56gaxu0h_0hhyswbh4q61gifcgq&usg=aovvaw2lbkulqxczie5diaxihff0', 'main_address_raw_text': 'Doha, Qatar', 'normalized_phone': '+97430294543'}
+  Record 2: {'clean_company_name': 'sunlife pharmacy al madina', 'normalized_url': 'www.sunlife.qa', 'main_address_raw_text': 'Wahib Bin Saad St, Doha, Qatar', 'normalized_phone': '+97430498440'}
+Coppia 50:
+  Record 1: {'clean_company_name': 'distributor amanah', 'normalized_url': 'www.airamanah.com', 'main_address_raw_text': 'Kranon, Kepek, Kec. Wonosari, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55813, Indonesia', 'normalized_phone': '+6281904293463'}
+  Record 2: {'clean_company_name': 'distributor amanah', 'normalized_url': 'airamanah.com/&opi=79508299&sa=u&ved=0ahukewjlykmcgaigaxwqpjuchxq_bx8q61gieygq&usg=aovvaw2fmexgoh4qc4pmsetvbb5k', 'main_address_raw_text': 'Purbosari, Wonosari, Kec. Wonosari, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55851, Indonesia', 'normalized_phone': '+6289665886532'}
+Coppia 51:
+  Record 1: {'clean_company_name': 'sahar vosk', 'normalized_url': 'saharvosk.ru/&opi=79508299&sa=u&ved=0ahukewit8cpf7legaxweffkfhad8bzqq61gifsgs&usg=aovvaw2ifhpgkfhcxh6jhiyjb8lj', 'main_address_raw_text': 'Richard Sorge St, 75, Ufa, Republic of Bashkortostan, Russia, 450075', 'normalized_phone': '+79374798888'}
+  Record 2: {'clean_company_name': 'sahar vosk', 'normalized_url': 'saharvosk.ru/sevastopol/?opi=79508299&sa=u&ved=0ahukewi-ylnmxzshaxvwrzuchebtbfqq61gieygp&usg=aovvaw3ikctrn2erm5occ6xyzlot', 'main_address_raw_text': '', 'normalized_phone': '+79786113686'}
+Coppia 52:
+  Record 1: {'clean_company_name': 'bellacara', 'normalized_url': 'www.bellacara.com', 'main_address_raw_text': '1000 King St, Alexandria, Virginia, 22314-2923, United States', 'normalized_phone': '+17032999652'}
+  Record 2: {'clean_company_name': 'bellacara', 'normalized_url': 'www.bellacara.com', 'main_address_raw_text': '1000 King St, Alexandria, Virginia, 22314-2923, United States', 'normalized_phone': '+17032999652'}
+Coppia 53:
+  Record 1: {'clean_company_name': 'azykovaa skola royal school', 'normalized_url': 'royal-school.ru', 'main_address_raw_text': 'Красноармейская улица, 178А, Ростов-на-Дону,вход со двора, Rostov-on-Don, Rostov Oblast, Russia, 344000', 'normalized_phone': '+78632464220'}
+  Record 2: {'clean_company_name': 'royal school', 'normalized_url': 'royal-school.ru/nemeckij-yazyk', 'main_address_raw_text': 'Krasnoarmeyskaya Ulitsa, 106, Rostov-on-Don, Rostov Oblast, Russia, 344010', 'normalized_phone': '+78632464220'}
+Coppia 54:
+  Record 1: {'clean_company_name': 'castingfamily hanna koudele', 'normalized_url': 'www.castingfamily.de', 'main_address_raw_text': 'Sankt Paul Str.9 80336 München', 'normalized_phone': '+498972016149'}
+  Record 2: {'clean_company_name': 'casting family agency hanna koudele', 'normalized_url': 'www.castingfamily.de', 'main_address_raw_text': 'St.-Paul-Straße 9, 80336 München', 'normalized_phone': ''}
+Coppia 55:
+  Record 1: {'clean_company_name': 'web tours', 'normalized_url': 'www.webbtours.com', 'main_address_raw_text': 'boise, idaho, United States', 'normalized_phone': '+18012783101'}
+  Record 2: {'clean_company_name': 'webb tours', 'normalized_url': 'www.webbtours.com', 'main_address_raw_text': '', 'normalized_phone': '+18012783101'}
+Coppia 56:
+  Record 1: {'clean_company_name': 'north coast psychological services pllc', 'normalized_url': 'www.northcoastpsy.com', 'main_address_raw_text': ', Syosset, New York, United States', 'normalized_phone': '+15167800111'}
+  Record 2: {'clean_company_name': 'parcellab', 'normalized_url': '', 'main_address_raw_text': '101 Avenue of the Americas, New York, New York, 10013-1933, United States', 'normalized_phone': '+498932890907'}
+Coppia 57:
+  Record 1: {'clean_company_name': 'lamcom', 'normalized_url': 'www.lamcominc.com', 'main_address_raw_text': '', 'normalized_phone': '+17189661538'}
+  Record 2: {'clean_company_name': 'lamcom', 'normalized_url': 'www.lamcominc.com', 'main_address_raw_text': 'United States, New York, Town of Oyster Bay, 49 LAKE AVENUE, 11765', 'normalized_phone': '+12128684050'}
+Coppia 58:
+  Record 1: {'clean_company_name': 'ixom', 'normalized_url': 'www.ixom.com', 'main_address_raw_text': '1 Nicholson Street, East Melbourne, Victoria, 3002, Australia', 'normalized_phone': '+61399063000'}
+  Record 2: {'clean_company_name': 'ixom', 'normalized_url': 'www.ixom.com/?opi=79508299&sa=u&ved=0ahukewiejrfsviihaxvhttabhrjlb9uq61gieigp&usg=aovvaw0_tkl8awsq-secekgnxins', 'main_address_raw_text': '1 Nicholson St, East Melbourne VIC 3002, Australia', 'normalized_phone': '+61399063000'}
+Coppia 59:
+  Record 1: {'clean_company_name': 'verticouk', 'normalized_url': 'www.verticouk.com', 'main_address_raw_text': ', Chichester, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'vertico', 'normalized_url': 'verticouk.com', 'main_address_raw_text': 'Dell Quay Marina, Dell Quay Rd, Chichester PO20 7EE, United Kingdom', 'normalized_phone': '+448006891271'}
+Coppia 60:
+  Record 1: {'clean_company_name': 'fit factorychapel', 'normalized_url': 'www.fitfactorychapel.co.uk', 'main_address_raw_text': ', Chapel-en-le-Frith, SK23, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'fit factory chapel', 'normalized_url': 'fitfactorychapel.co.uk', 'main_address_raw_text': '27 Long Lane, Chapel En-Le-Frith, High Peak, Derbyshire, SK23 0TY', 'normalized_phone': '+447985126314'}
+Coppia 61:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.culture-pub.jp', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'culture publishers', 'normalized_url': 'www.culture-pub.jp', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 62:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.acupunturamayerkohara.com.br', 'main_address_raw_text': 'R. Visc. de Pirajá, 621 - sala 301 - Ipanema, Rio de Janeiro - RJ, 22410-002, Brazil', 'normalized_phone': '+5521992343471'}
+  Record 2: {'clean_company_name': 'acupuntura mayer kohara', 'normalized_url': 'www.acupunturamayerkohara.com.br/?opi=79508299&sa=u&ved=0ahukewjuhpkz3y2iaxudraqehff8hxqq61gifigs&usg=aovvaw2dmmfotctlxkf4dha5usrx', 'main_address_raw_text': 'R. Vilhena de Morais, 100 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-140, Brazil', 'normalized_phone': '+5521992343471'}
+Coppia 63:
+  Record 1: {'clean_company_name': 'wyld1', 'normalized_url': 'www.wyld1.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'pharmacann clinic', 'normalized_url': 'www.pharmacannclinic.com/&opi=79508299&sa=u&ved=0ahukewifrvtv8l6faxwj-jgghz_0bkyq61gieigp&usg=aovvaw2vatjmawan0jwpvszfevqa', 'main_address_raw_text': '5138 Rue Jean-Talon E, Montréal, QC H1S 1K7, Canada', 'normalized_phone': '+18009094140'}
+Coppia 64:
+  Record 1: {'clean_company_name': 'fabrics curtains draperies and roller', 'normalized_url': 'www.fabrics.cl/?opi=79508299&sa=u&ved=0ahukewjpue3p1i2iaxxb0wihhcw5dtyq61gieigo&usg=aovvaw1u-5cbmz4s9effms8v0nk3', 'main_address_raw_text': 'Av. Pdte. Kennedy Lateral 5413, Local 565 Piso, 7550000 Las Condes, Región Metropolitana, Chile', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'fabrics curtains roller canopies', 'normalized_url': 'www.fabrics.cl', 'main_address_raw_text': 'Av. Luis Pasteur 6371, 7640297 Vitacura, Región Metropolitana, Chile', 'normalized_phone': ''}
+Coppia 65:
+  Record 1: {'clean_company_name': 'general cleaning s r l', 'normalized_url': '', 'main_address_raw_text': ', Gerenzano, Lombardia, Italy', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'general cleaning srl', 'normalized_url': 'www.generalcleaningsrl.com', 'main_address_raw_text': 'Via Inglesina, 55, 21040 Gerenzano VA, Italy', 'normalized_phone': '+39029682238'}
+Coppia 66:
+  Record 1: {'clean_company_name': 'rapalee taxidermy', 'normalized_url': '', 'main_address_raw_text': '4975 River Rd W, Goochland, Virginia, 23063-2814, United States', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'rapalee taxidermy', 'normalized_url': 'www.rapaleetaxidermy.com', 'main_address_raw_text': '4975 River Rd W, Goochland, Virginia, 23063-2814, United States', 'normalized_phone': '+18044574138'}
+Coppia 67:
+  Record 1: {'clean_company_name': 'icônoglace', 'normalized_url': 'iconoglace.fr', 'main_address_raw_text': '83 Rue Emile Cossonneau, 93330 Neuilly-sur-Marne, ফরনস', 'normalized_phone': '+33686317886'}
+  Record 2: {'clean_company_name': 'iconoglace', 'normalized_url': 'www.iconoglace.fr', 'main_address_raw_text': '83 Rue Émile Cossonneau, Neuilly-sur-Marne, Île-de-France, 93330, France', 'normalized_phone': ''}
+Coppia 68:
+  Record 1: {'clean_company_name': 'chatime', 'normalized_url': 'chatime.com.ph/&opi=79508299&sa=u&ved=0ahukewi_-tll2pcfaxxj4mkdhxbycb4q61gifygs&usg=aovvaw039ujlkqfjvw8csohyagmz', 'main_address_raw_text': 'Alabang Town Center, 2294 Access Road, Ayala Alabang, Muntinlupa, 1770 Metro Manila, Philippines', 'normalized_phone': '+63288699712'}
+  Record 2: {'clean_company_name': 'chatime', 'normalized_url': 'chatime.com.ph', 'main_address_raw_text': '138 Doña Soledad Ave, Parañaque, 1711 Metro Manila, Philippines', 'normalized_phone': ''}
+Coppia 69:
+  Record 1: {'clean_company_name': 'wagner guss', 'normalized_url': 'www.wagnerguss.com/de', 'main_address_raw_text': 'Doktor-Karl-Renner-Straße 18, 4470 Enns, Austria', 'normalized_phone': '+437223832740'}
+  Record 2: {'clean_company_name': 'wagner schmelztechnik gmbh co kg', 'normalized_url': 'www.wagnerguss.com', 'main_address_raw_text': ', Enns, Upper Austria, Austria', 'normalized_phone': ''}
+Coppia 70:
+  Record 1: {'clean_company_name': 'zoemoujewellery', 'normalized_url': 'www.zoemou.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'zoe', 'normalized_url': 'www.zoeltd.com', 'main_address_raw_text': '', 'normalized_phone': '+447903417332'}
+Coppia 71:
+  Record 1: {'clean_company_name': 'viiva', 'normalized_url': 'www.viiva.com', 'main_address_raw_text': '3300 N Ashton Blvd, Lehi, Utah, 84043-5338, United States', 'normalized_phone': '+18017704171'}
+  Record 2: {'clean_company_name': 'viiva', 'normalized_url': 'viiva.com/?opi=79508299&sa=u&ved=0ahukewi1y5u8meghaxxeefkfhwg1o20q61gieigo&usg=aovvaw3hfel65g_qt7cmagpepj1b', 'main_address_raw_text': '3400 Ashton Blvd #125, Lehi, UT 84043', 'normalized_phone': '+18017704171'}
+Coppia 72:
+  Record 1: {'clean_company_name': 'cafe sharikava', 'normalized_url': 'sharikava.com', 'main_address_raw_text': 'Peremohy St, 54, Zhytomyr, Zhytomyr Oblast, Ukraine, 10000', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'sharikava coffee shop', 'normalized_url': 'sharikava.com', 'main_address_raw_text': 'Keletska St, 64/47а, Vinnytsia, Vinnytsia Oblast, Ukraine, 21000', 'normalized_phone': ''}
+Coppia 73:
+  Record 1: {'clean_company_name': 'beach house winery', 'normalized_url': 'www.beachhousewinery.com', 'main_address_raw_text': '1534 Sleeping Indian Rd, Fallbrook, CA, United States, California', 'normalized_phone': '+17607323236'}
+  Record 2: {'clean_company_name': 'beach house winery', 'normalized_url': 'www.beachhousewinery.com', 'main_address_raw_text': '1534 Sleeping Indian Road, Fallbrook, CA, United States', 'normalized_phone': '+17607323239'}
+Coppia 74:
+  Record 1: {'clean_company_name': 'odwas', 'normalized_url': 'www.odwas.com', 'main_address_raw_text': 'Boğazkent, Kepez, Pınar Sk. No:2 D:4A, 17110 Çanakkale Merkez/Çanakkale, Türkiye', 'normalized_phone': '+902865020102'}
+  Record 2: {'clean_company_name': 'odwas', 'normalized_url': 'www.odwas.com', 'main_address_raw_text': 'Kepez, Pinar Sokak 2/4A, Çanakkale, Turkey, 17110', 'normalized_phone': ''}
+Coppia 75:
+  Record 1: {'clean_company_name': 'seven windows restaurant', 'normalized_url': 'www.chefdb.com', 'main_address_raw_text': '432 Aberdeen Ave, Hamilton, ON, Canada L8P2S2', 'normalized_phone': '+19055237707'}
+  Record 2: {'clean_company_name': 'chefdb', 'normalized_url': 'www.chefdb.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 76:
+  Record 1: {'clean_company_name': 'intelligent glass', 'normalized_url': 'intelligentglass.net/?opi=79508299&sa=u&ved=0ahukewie9poezfakaxum97sihzk0jsoq61gifigs&usg=aovvaw0ukijbv48vd1pt65-zxr7f', 'main_address_raw_text': 'Shortwood Business Park, Unit 5, Barnsley S74 9LH, United Kingdom', 'normalized_phone': '+441226361306'}
+  Record 2: {'clean_company_name': 'intelligent glass', 'normalized_url': 'www.intelligentglass.net', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 77:
+  Record 1: {'clean_company_name': 'west jersey music academy', 'normalized_url': 'www.westjerseymusicacademy.org', 'main_address_raw_text': '101 Bridgeboro Rd, Moorestown, NJ 08057', 'normalized_phone': '+18562068659'}
+  Record 2: {'clean_company_name': 'canadian academy of vocal music', 'normalized_url': '', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 78:
+  Record 1: {'clean_company_name': 'nsk intelligence collection', 'normalized_url': 'www.nsk-ic.it', 'main_address_raw_text': '36 Via Macedonio Melloni, Milan, Lombardy, 20129, Italy', 'normalized_phone': '+390286882394'}
+  Record 2: {'clean_company_name': 'nsk intelligence collection srl', 'normalized_url': 'nsk-ic.it/&opi=79508299&sa=u&ved=0ahukewi2xqz20ogfaxvjiuqihuvhdzcq61gieigp&usg=aovvaw1eugzeogptboa2hs3caxdi', 'main_address_raw_text': 'Via Macedonio Melloni, 36, 20129 Milano MI, Italy', 'normalized_phone': '+390286882394'}
+Coppia 79:
+  Record 1: {'clean_company_name': 'kaya skin clinic al urubah sulaimaniah oroubah street next to sleep high riyadh', 'normalized_url': 'www.kayaskinclinic.com/ksa/en', 'main_address_raw_text': 'Sleep High, Sulaimaniah-Oroubah Street Next to, Riyadh Saudi Arabia', 'normalized_phone': '+966541114273'}
+  Record 2: {'clean_company_name': 'kaya skin clinic town centre mall', 'normalized_url': 'www.kayaskinclinic.com/uae/en', 'main_address_raw_text': 'First Floor, Town Centre Mall - Jumeirah St - Dubai - United Arab Emirates', 'normalized_phone': '+971600562620'}
+Coppia 80:
+  Record 1: {'clean_company_name': 'hotel erholung', 'normalized_url': 'www.hotel-erholung.de', 'main_address_raw_text': '31 Am Ring, Kellenhusen (Ostsee), Schleswig-Holstein, 23746, Germany', 'normalized_phone': '+494364470960'}
+  Record 2: {'clean_company_name': 'hotel stadthafen stade', 'normalized_url': 'www.hotel-stadthafen-stade.de', 'main_address_raw_text': ', Stade, Lower Saxony, Germany', 'normalized_phone': '+49414199970'}
+Coppia 81:
+  Record 1: {'clean_company_name': 'bonitopackaging', 'normalized_url': 'www.bonito-packaging.com', 'main_address_raw_text': 'Xi Hu Dong Lu, Dongguan Shi, Guangdong Sheng, China', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'bonito packaging', 'normalized_url': 'www.bonitopackaging.com', 'main_address_raw_text': 'No.262,Xihu Rd,Shilong Town,Dongguan City', 'normalized_phone': '+8676981388815'}
+Coppia 82:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.rosadent.com', 'main_address_raw_text': 'вулиця Ісаакяна, 1, Kyiv, Ukraine', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'rosa dent', 'normalized_url': 'rosadent.com', 'main_address_raw_text': 'Isaakiana St, 1, Kyiv, Ukraine, 01135', 'normalized_phone': '+380443370004'}
+Coppia 83:
+  Record 1: {'clean_company_name': 'practina ai', 'normalized_url': 'practinaai.com', 'main_address_raw_text': '', 'normalized_phone': '+18337722846'}
+  Record 2: {'clean_company_name': 'practina', 'normalized_url': 'www.practina.com/?opi=79508299&sa=u&ved=0ahukewjfsmr-8m2haxv_p7afhzlabzcq61gicsgf&usg=aovvaw1-zmkacmls0yp3kbg3ylko', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 84:
+  Record 1: {'clean_company_name': 'a available moving', 'normalized_url': 'aavailable2.com', 'main_address_raw_text': '2819 S. Harlem Ave Berwyn, IL 60402', 'normalized_phone': '+17087886683'}
+  Record 2: {'clean_company_name': 'a available moving company', 'normalized_url': 'www.aavailable.com', 'main_address_raw_text': '9118 W 47th St, Brookfield, IL, United States, Illinois', 'normalized_phone': '+17083560668'}
+Coppia 85:
+  Record 1: {'clean_company_name': 'iconoglace', 'normalized_url': 'www.iconoglace.fr', 'main_address_raw_text': '83 Rue Émile Cossonneau, Neuilly-sur-Marne, Île-de-France, 93330, France', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'icônoglace', 'normalized_url': 'iconoglace.fr', 'main_address_raw_text': '83 Rue Emile Cossonneau, 93330 Neuilly-sur-Marne, ফরনস', 'normalized_phone': '+33686317886'}
+Coppia 86:
+  Record 1: {'clean_company_name': 'lääkärikeskus nero oy', 'normalized_url': 'www.laakarikeskusnero.fi/?opi=79508299&sa=u&ved=0ahukewjbnojzsooiaxu3hf0hhwffj8aq61gieygp&usg=aovvaw0c7eedhq_j4cwvmpdmjax0', 'main_address_raw_text': 'Rauhankatu 17, 65100 Vaasa, Finland', 'normalized_phone': '+358451016303'}
+  Record 2: {'clean_company_name': 'laakarikeskus nero', 'normalized_url': 'www.laakarikeskusnero.fi', 'main_address_raw_text': '17 Rauhankatu, Vaasa, Ostrobothnia, 65100, Finland', 'normalized_phone': '+358105735250'}
+Coppia 87:
+  Record 1: {'clean_company_name': 'walgreens', 'normalized_url': 'www.walgreens.com', 'main_address_raw_text': '', 'normalized_phone': '+16034325897'}
+  Record 2: {'clean_company_name': 'covid 19 drive thru testing at walgreens', 'normalized_url': 'www.walgreens.com/findcare/covid19/testing&opi=79508299&sa=u&ved=0ahukewjb8olot9mhaxupmikehwfddi8q61giecgn&usg=aovvaw3jhvvj1r4_jw-wirnv7oa0', 'main_address_raw_text': '131 Nashua Rd, Londonderry, NH 03053', 'normalized_phone': '+16034325897'}
+Coppia 88:
+  Record 1: {'clean_company_name': 'watson law firm l l p', 'normalized_url': 'www.watsonlawyers.com', 'main_address_raw_text': 'United States, TX, COLLEGE STATION, 1450 COPPERFIELD PARKWAY SUITE 300, 77845', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'watson law firm lawyers in college station tx', 'normalized_url': 'watsonlawyers.com', 'main_address_raw_text': '1450 Copperfield Parkway, Ste 300 College Station TX 77845', 'normalized_phone': '+19797037994'}
+Coppia 89:
+  Record 1: {'clean_company_name': '', 'normalized_url': 'www.rotoruarealtor.co.nz/?opi=79508299&sa=u&ved=0ahukewixkpsm7eyhaxxgbtsehdtgooyq61gifigs&usg=aovvaw1wwt4txjwvrmq8ujaekrub', 'main_address_raw_text': '1108 Pukaki Street, Rotorua 3010, New Zealand', 'normalized_phone': '+64274435538'}
+  Record 2: {'clean_company_name': '', 'normalized_url': 'www.rotoruarealtor.co.nz', 'main_address_raw_text': 'Rotorua, Bay of Plenty. New Zealand', 'normalized_phone': '+64274435538'}
+Coppia 90:
+  Record 1: {'clean_company_name': 'vitamin k', 'normalized_url': '', 'main_address_raw_text': ', Leeds, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'vitamin k', 'normalized_url': 'vitaminkdesign.com', 'main_address_raw_text': '12 Balbec Avenue, Leeds, LS6 2BB', 'normalized_phone': '+448456801046'}
+Coppia 91:
+  Record 1: {'clean_company_name': 'dubois k richard dds', 'normalized_url': 'www.duboisdentistry.com/?opi=79508299&sa=u&ved=0ahukewib_l3uxcyhaxxisjabhzcaciaq61gieigo&usg=aovvaw3rhvcggwqrph_5nzaedea8', 'main_address_raw_text': '5760 Hayne Blvd, New Orleans, LA 70126', 'normalized_phone': '+15042418457'}
+  Record 2: {'clean_company_name': 'dubois dentistry', 'normalized_url': 'www.duboisdentistry.com', 'main_address_raw_text': ', Metairie, Louisiana, United States', 'normalized_phone': '+15042418457'}
+Coppia 92:
+  Record 1: {'clean_company_name': 'worcestershire steels', 'normalized_url': 'www.worcestershiresteel.co.uk', 'main_address_raw_text': 'Unit 61, Enfield Industrial Estate, Hewell Road, Redditch, Worcestershire, B97 6DE', 'normalized_phone': '+44152767777'}
+  Record 2: {'clean_company_name': 'worcestershire steels co', 'normalized_url': 'worcestershiresteel.co.uk', 'main_address_raw_text': 'Enfield Industrial Estate, Redditch B97 6DE, United Kingdom', 'normalized_phone': '+44152767777'}
+Coppia 93:
+  Record 1: {'clean_company_name': 'hafner canada', 'normalized_url': 'hafner.ca', 'main_address_raw_text': "545 Rue de l'Industrie, Beloeil, QC J3G 0S5, Canada", 'normalized_phone': '+14504646336'}
+  Record 2: {'clean_company_name': 'hafner', 'normalized_url': 'www.hafner.ca', 'main_address_raw_text': ', Portneuf, Quebec, Canada', 'normalized_phone': '+14182863400'}
+Coppia 94:
+  Record 1: {'clean_company_name': 'caffe trieste', 'normalized_url': 'www.caffetrieste.sk', 'main_address_raw_text': 'Uršulínska 2, 04001 – KOŠICE (SK)', 'normalized_phone': '+421911313073'}
+  Record 2: {'clean_company_name': 'caffé trieste', 'normalized_url': 'caffetrieste.sk', 'main_address_raw_text': 'Uršulínska 2, 040 01 Košice, Slovakia', 'normalized_phone': '+421911123433'}
+Coppia 95:
+  Record 1: {'clean_company_name': 'brookwood landscaping', 'normalized_url': 'brookwoodlandscaping.com', 'main_address_raw_text': '141 Pine Street Danvers, MA. 01923', 'normalized_phone': '+19787770400'}
+  Record 2: {'clean_company_name': 'brookwood landscape and stonework', 'normalized_url': 'www.brookwoodlandscaping.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 96:
+  Record 1: {'clean_company_name': 'naukrijunction', 'normalized_url': 'www.naukrijunction.com', 'main_address_raw_text': 'Suite#908 & 909 Portway Trade Center, Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh 44000, Pakistan', 'normalized_phone': '+922134325379'}
+  Record 2: {'clean_company_name': 'naukrijunction', 'normalized_url': 'naukrijunction.com', 'main_address_raw_text': 'Suite # 908 and 909, Portway Trade Centre, 189, Block-A, SMCHS, Shahra-e-Faisal, Karachi, Pakistan', 'normalized_phone': '+922134328883'}
+Coppia 97:
+  Record 1: {'clean_company_name': 'jonachloe', 'normalized_url': '', 'main_address_raw_text': ', Montreal, Quebec, Canada', 'normalized_phone': '+15148799777'}
+  Record 2: {'clean_company_name': 'jonachloe', 'normalized_url': 'jonachloe.com', 'main_address_raw_text': '1391 Saint-Catherine St W, Montreal, Quebec H3G 1R1, Canada', 'normalized_phone': ''}
+Coppia 98:
+  Record 1: {'clean_company_name': 'the winchester star', 'normalized_url': 'www.winchesterstar.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'winchester evening star', 'normalized_url': 'www.winchesterstar.com', 'main_address_raw_text': '2 N Kent St, Winchester, Virginia, 22601, United States', 'normalized_phone': '+15406673200'}
+Coppia 99:
+  Record 1: {'clean_company_name': 'italtecno do brasil', 'normalized_url': '', 'main_address_raw_text': '671 Avenida Angelica, Sao Paulo, State of Sao Paulo, 01228-000, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'junção equipamentos industriais', 'normalized_url': 'www.juncaoequipamentos.com.br', 'main_address_raw_text': ', Curitiba, State of Parana, Brazil', 'normalized_phone': '+554131567550'}
+Coppia 100:
+  Record 1: {'clean_company_name': '3cheers pro studio', 'normalized_url': 'www.3cheersprostudio.com', 'main_address_raw_text': '239 U.S. 46, Fairfield, NJ, USA', 'normalized_phone': '+12019215011'}
+  Record 2: {'clean_company_name': '3cheers pro studio', 'normalized_url': '3cheersprostudio.com', 'main_address_raw_text': '239 US-46, Fairfield, NJ 07004, United States', 'normalized_phone': '+12019215011'}
+Coppia 101:
+  Record 1: {'clean_company_name': 'dougherty property', 'normalized_url': 'www.doughertyproperty.com.au', 'main_address_raw_text': ', Grafton, New South Wales, 2460, Australia', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'dougherty property', 'normalized_url': 'doughertyproperty.com.au', 'main_address_raw_text': '15 Prince St, Grafton NSW 2460, Australia', 'normalized_phone': '+61266422722'}
+Coppia 102:
+  Record 1: {'clean_company_name': 'beer belly deli pub', 'normalized_url': 'beerbellywestcott.com', 'main_address_raw_text': '510 Westcott St, Syracuse, NY 13210', 'normalized_phone': '+13152997533'}
+  Record 2: {'clean_company_name': 'beerbellydeli', 'normalized_url': 'www.beerbellywestcott.com', 'main_address_raw_text': '510 Westcott St, Syracuse, New York, 13210', 'normalized_phone': ''}
+Coppia 103:
+  Record 1: {'clean_company_name': 'richmond construction plumbing associates', 'normalized_url': 'www.richmondconstructionplumbing.com', 'main_address_raw_text': 'United States, NY, Brooklyn, 1964 Utica Ave, 11234-3214', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'richmond construction associates', 'normalized_url': 'www.richmondconstructionplumbing.com', 'main_address_raw_text': 'United States, NY, Staten Island, 765 Forest Ave PMB 170, 10310-2401', 'normalized_phone': ''}
+Coppia 104:
+  Record 1: {'clean_company_name': 'recovera využití zdrojů', 'normalized_url': 'www.recovera.cz/&opi=79508299&sa=u&ved=0ahukewjusclxha6gaxumt6qehbvibdkq61gifcgq&usg=aovvaw1obajviti3ti0vgvjn9he7', 'main_address_raw_text': 'Novosady 616, 798 27 Němčice nad Hanou, Czechia', 'normalized_phone': '+420606758322'}
+  Record 2: {'clean_company_name': 'recovera využití zdrojů', 'normalized_url': 'www.recovera.cz', 'main_address_raw_text': 'Ke Kablu 531/5, 102 00 Praha-Dolní Měcholupy, Czechia', 'normalized_phone': '+420242403224'}
+Coppia 105:
+  Record 1: {'clean_company_name': 'volzenhof', 'normalized_url': 'www.volzenhof.de', 'main_address_raw_text': 'Deggenhausertal, Baden-Württemberg, Germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'volzenhof', 'normalized_url': 'www.volzenhof.de', 'main_address_raw_text': ', Deggenhausertal, Baden-Wuerttemberg, Germany', 'normalized_phone': ''}
+Coppia 106:
+  Record 1: {'clean_company_name': 'jet paquetería', 'normalized_url': '', 'main_address_raw_text': 'Av Río Nilo 1021, Quinta Velarde, 44430 Guadalajara, Jal., Mexico', 'normalized_phone': '+523315911345'}
+  Record 2: {'clean_company_name': 'siteur', 'normalized_url': 'www.siteur.gob.mx', 'main_address_raw_text': 'Calz del Federalismo Nte 217, Zona Centro, 44100 Guadalajara, Jal., Mexico', 'normalized_phone': '+523339425700'}
+Coppia 107:
+  Record 1: {'clean_company_name': 'onix events parkcafe', 'normalized_url': 'onixevents.de', 'main_address_raw_text': 'Aschaffenburger Str. 47 63773 Goldbach', 'normalized_phone': '+4960214487754'}
+  Record 2: {'clean_company_name': 'onix events', 'normalized_url': 'www.onixevents.de', 'main_address_raw_text': ', Goldbach, Bavaria, Germany', 'normalized_phone': ''}
+Coppia 108:
+  Record 1: {'clean_company_name': 'jonachloe', 'normalized_url': 'jonachloe.com', 'main_address_raw_text': '1391 Saint-Catherine St W, Montreal, Quebec H3G 1R1, Canada', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'jonachloe', 'normalized_url': 'www.jonachloe.com', 'main_address_raw_text': ', Montreal, Quebec, Canada', 'normalized_phone': '+15148799777'}
+Coppia 109:
+  Record 1: {'clean_company_name': 'coastal georgia rv resort', 'normalized_url': 'www.coastalgarvresort.com', 'main_address_raw_text': ', Brunswick, Georgia, United States', 'normalized_phone': '+19122643869'}
+  Record 2: {'clean_company_name': 'coastal design', 'normalized_url': 'www.coastaldesignsb.com', 'main_address_raw_text': 'United States, CA, Santa Barbara, 16A W. Calle Laureles, 93105', 'normalized_phone': ''}
+Coppia 110:
+  Record 1: {'clean_company_name': 'acearts', 'normalized_url': 'www.acearts.co.uk', 'main_address_raw_text': ', Somerton, TA11, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'no1 west street', 'normalized_url': 'www.acearts.co.uk', 'main_address_raw_text': 'One West Street, Somerton, Somerset, TA11 7PS', 'normalized_phone': ''}
+Coppia 111:
+  Record 1: {'clean_company_name': 'advivision', 'normalized_url': 'indiaforwardlink.com', 'main_address_raw_text': 'Purulia Rd, N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831012, भारत', 'normalized_phone': '+919999422970'}
+  Record 2: {'clean_company_name': 'advivision', 'normalized_url': 'indiafutureconnect.com', 'main_address_raw_text': 'Purulia Rd, N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831012, भ रत', 'normalized_phone': '+919999422970'}
+Coppia 112:
+  Record 1: {'clean_company_name': 'little learners day nurseries', 'normalized_url': 'www.little-learners.net', 'main_address_raw_text': 'The School House, Beaumont Primary, Old Lodge Lane, Purley, CR8 4DN', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'little learners pre school private nursery', 'normalized_url': 'www.little-learners.net', 'main_address_raw_text': 'Kendra Hall Road, South Croydon, CR2 6, United Kingdom', 'normalized_phone': '+448456022260'}
+Coppia 113:
+  Record 1: {'clean_company_name': 'laboratório coffers', 'normalized_url': 'www.laboratoriocoffers.com.br', 'main_address_raw_text': ', Santa Cruz do Rio Pardo, Sao Paulo, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'laboratorio de analises clinicas doutor bioexato', 'normalized_url': 'www.laboratoriobioexato.com.br', 'main_address_raw_text': ', Sao Lourenco do Sul, State of Rio Grande do Sul, 96170-000, Brazil', 'normalized_phone': ''}
+Coppia 114:
+  Record 1: {'clean_company_name': 'merhoff associates pediatric dentistry', 'normalized_url': 'www.dentist4kids.com/&opi=79508299&sa=u&ved=0ahukewi60s6zslsfaxwzefkfhyvaaiqq61gieigo&usg=aovvaw20ve4sqmn9xub3ztjn9b5z', 'main_address_raw_text': '185 Kimel Park Dr #202, Winston-Salem, NC 27103', 'normalized_phone': '+13366599500'}
+  Record 2: {'clean_company_name': 'davidian amy k dds', 'normalized_url': 'dentist4kids.com', 'main_address_raw_text': '185 Kimel Park Dr #202, Winston-Salem, NC 27103', 'normalized_phone': '+13366599500'}
+Coppia 115:
+  Record 1: {'clean_company_name': 'kfz sachverständigenbüro harald bach', 'normalized_url': 'www.kfzsv-bach.de', 'main_address_raw_text': ', Dinkelsbuehl, Bayern, Germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'kfz sachverständigenbüro harald bach', 'normalized_url': 'kfzsv-bach.de', 'main_address_raw_text': 'Bernhardswend 9 D-91550 Dinkelsbühl', 'normalized_phone': '+491748952275'}
+Coppia 116:
+  Record 1: {'clean_company_name': 'kober kinderopvang dol fijn', 'normalized_url': 'www.kober.nl/locaties/dol-fijn-roosendaal', 'main_address_raw_text': 'Morelberg 102, 4708 NL Roosendaal, Netherlands', 'normalized_phone': '+31883036830'}
+  Record 2: {'clean_company_name': 'kober peuteropvang en bso de avonturier', 'normalized_url': 'www.kober.nl/locaties/effen', 'main_address_raw_text': 'Effenseweg 15, 4838 BA Breda, Netherlands', 'normalized_phone': '+31620770994'}
+Coppia 117:
+  Record 1: {'clean_company_name': 'fabio rizzi', 'normalized_url': 'www.fabiorizzi.co.uk', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'fourthquarter consultancy limited', 'normalized_url': '', 'main_address_raw_text': '🚛 London, United Kingdom', 'normalized_phone': ''}
+Coppia 118:
+  Record 1: {'clean_company_name': 'tktx company italia', 'normalized_url': 'tktxcompany.it', 'main_address_raw_text': '', 'normalized_phone': '+17867961456'}
+  Record 2: {'clean_company_name': 'tktx company france', 'normalized_url': 'tktxcompany.fr', 'main_address_raw_text': '', 'normalized_phone': '+17867961456'}
+Coppia 119:
+  Record 1: {'clean_company_name': 'opera queens', 'normalized_url': 'www.operaqueens.ca', 'main_address_raw_text': 'Queens Quay W, Toronto, ON, Canada, Ontario', 'normalized_phone': '+16478494981'}
+  Record 2: {'clean_company_name': 'opera orchestra of new york', 'normalized_url': 'www.operaorchestrany.org', 'main_address_raw_text': ', New York, New York, United States', 'normalized_phone': ''}
+Coppia 120:
+  Record 1: {'clean_company_name': 'john fahrschule', 'normalized_url': 'www.johnfahrschule.de', 'main_address_raw_text': 'Gardeschützenweg 68, 12203 Berlin', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'john fahrschule', 'normalized_url': 'www.johnfahrschule.de', 'main_address_raw_text': '68 Gardeschützenweg, Berlin, Berlin, 12203, Germany', 'normalized_phone': ''}
+Coppia 121:
+  Record 1: {'clean_company_name': 'dodge law firm', 'normalized_url': 'thedodgelawfirm.com', 'main_address_raw_text': '409 N Camden Dr #201-D, Beverly Hills, CA 90210', 'normalized_phone': '+13108871890'}
+  Record 2: {'clean_company_name': 'dodge law firm', 'normalized_url': 'www.thedodgelawfirm.com', 'main_address_raw_text': 'beverly hills, california, United States', 'normalized_phone': ''}
+Coppia 122:
+  Record 1: {'clean_company_name': 'supreme waterproofing and painting', 'normalized_url': 'supremewp.co.za/home', 'main_address_raw_text': '30 Elands Close, Elands Rock, Alberton', 'normalized_phone': '+27108804746'}
+  Record 2: {'clean_company_name': 'supreme waterproofing painting', 'normalized_url': 'www.supremewp.co.za', 'main_address_raw_text': '30 Eland Close, Elandspark , Johannesburg, South Africa', 'normalized_phone': '+27686171070'}
+Coppia 123:
+  Record 1: {'clean_company_name': 'optyk', 'normalized_url': 'optyk.co.uk', 'main_address_raw_text': '111 London Rd, Glasgow G1 5NN, UK', 'normalized_phone': '+441412373534'}
+  Record 2: {'clean_company_name': 'optyk', 'normalized_url': 'www.optyk.co.uk', 'main_address_raw_text': ', Glasgow, Scotland, United Kingdom', 'normalized_phone': ''}
+Coppia 124:
+  Record 1: {'clean_company_name': 'stowers machinery corp', 'normalized_url': 'www.stowerscat.com', 'main_address_raw_text': '9960 Airport Pkwy, Kingsport, TN 37663', 'normalized_phone': '+14233230400'}
+  Record 2: {'clean_company_name': 'stowers rents', 'normalized_url': 'www.stowerscat.com', 'main_address_raw_text': '', 'normalized_phone': '+19314844040'}
+Coppia 125:
+  Record 1: {'clean_company_name': 'barnettsports', 'normalized_url': 'barnettsports.business.site', 'main_address_raw_text': '575 Boulevard du Docteur Jean Jules Herbert\n73100 Aix-les-Bains\nFrance', 'normalized_phone': '+33479340751'}
+  Record 2: {'clean_company_name': 'barnett', 'normalized_url': 'www.barnett.fr', 'main_address_raw_text': '575 bd du Dr JJ Herbert 73100 Aix les Bains', 'normalized_phone': '+33479340751'}
+Coppia 126:
+  Record 1: {'clean_company_name': 'rondo studios gmbh', 'normalized_url': 'www.rondo-studios.com', 'main_address_raw_text': ', Griesheim, Hesse, 64347, Germany', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'rondo studios', 'normalized_url': 'rondo-studios.info', 'main_address_raw_text': 'Wilhelm-Leuschner-Straße 107 64347 Griesheim', 'normalized_phone': '+496155822676'}
+Coppia 127:
+  Record 1: {'clean_company_name': 'makeup by vivienne', 'normalized_url': 'www.makeupbyvivienne.co.uk', 'main_address_raw_text': '180 Westbourne Ave, Hull HU5 3JB, United Kingdom', 'normalized_phone': '+447969497531'}
+  Record 2: {'clean_company_name': 'makeup by vivienne', 'normalized_url': 'www.makeupbyvivienne.co.uk', 'main_address_raw_text': 'hull, United Kingdom', 'normalized_phone': ''}
+Coppia 128:
+  Record 1: {'clean_company_name': 'acustica umbra', 'normalized_url': 'www.acusticaumbra.it', 'main_address_raw_text': 'Via Mentana, 95, Perugia, Italy, 06129', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'acustica umbra', 'normalized_url': 'acusticaitalia.it', 'main_address_raw_text': 'Via Mentana, 95 06129 PERUGIA (PG)', 'normalized_phone': '+390290710546'}
+Coppia 129:
+  Record 1: {'clean_company_name': 'kober kindercentra', 'normalized_url': 'www.kober.nl', 'main_address_raw_text': 'Draaiboom 12, 4817 WR Breda', 'normalized_phone': '+31883036966'}
+  Record 2: {'clean_company_name': 'kober peuteropvang noorderlicht', 'normalized_url': 'www.kober.nl/locaties/noorderlicht/%3futm_source%3dgoogle%26utm_medium%3dorganic%26utm_campaign%3dgmb%26utm_content%3dgmb-website-noorderlicht&opi=79508299&sa=u&ved=0ahukewif49stt8whaxuj3tgghyniatyq61gieigp&usg=aovvaw0m4s4vezfjsnchga3472dv', 'main_address_raw_text': 'Cornelis Florisstraat 25, 4827 CN Breda, Netherlands', 'normalized_phone': '+31883036905'}
+Coppia 130:
+  Record 1: {'clean_company_name': 'grupo m hotã is', 'normalized_url': 'www.grupomhoteis.pt', 'main_address_raw_text': ', Espinho, Aveiro, Portugal', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'grupo m hotéis', 'normalized_url': 'grupomhoteis.pt', 'main_address_raw_text': 'R. 19 326, 4500-255 Espinho, Portugal', 'normalized_phone': '+351227340002'}
+Coppia 131:
+  Record 1: {'clean_company_name': 'kober kinderopvang de heiberg', 'normalized_url': 'www.kober.nl/locaties/de-heiberg', 'main_address_raw_text': 'Enclaveberg 172, 4708 EC Roosendaal, Netherlands', 'normalized_phone': '+31624945990'}
+  Record 2: {'clean_company_name': 'kober peuteropvang noorderlicht', 'normalized_url': 'www.kober.nl/locaties/noorderlicht/%3futm_source%3dgoogle%26utm_medium%3dorganic%26utm_campaign%3dgmb%26utm_content%3dgmb-website-noorderlicht&opi=79508299&sa=u&ved=0ahukewif49stt8whaxuj3tgghyniatyq61gieigp&usg=aovvaw0m4s4vezfjsnchga3472dv', 'main_address_raw_text': 'Cornelis Florisstraat 25, 4827 CN Breda, Netherlands', 'normalized_phone': '+31883036905'}
+Coppia 132:
+  Record 1: {'clean_company_name': 'cafe sharikava', 'normalized_url': 'sharikava.com', 'main_address_raw_text': 'Peremohy St, 54, Zhytomyr, Zhytomyr Oblast, Ukraine, 10000', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'sharikava coffee shop', 'normalized_url': 'sharikava.com', 'main_address_raw_text': "Hoholya St, 2, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21018", 'normalized_phone': ''}
+Coppia 133:
+  Record 1: {'clean_company_name': 'gavea quimica', 'normalized_url': 'www.gaveaquimica.com.br', 'main_address_raw_text': 'Jacinto Machado, Santa Catarina, Brazil', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'gavea quimica', 'normalized_url': 'gaveaquimica.com.br', 'main_address_raw_text': '', 'normalized_phone': '+554835351568'}
+Coppia 134:
+  Record 1: {'clean_company_name': 's l ducting and contract services', 'normalized_url': 'www.sandlducting.co.uk', 'main_address_raw_text': '', 'normalized_phone': '+447919444851'}
+  Record 2: {'clean_company_name': 's l ducting', 'normalized_url': 'www.sandlducting.co.uk', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 135:
+  Record 1: {'clean_company_name': 'nextwash frankfurt nied sb waschsalon', 'normalized_url': 'www.nextwash.de', 'main_address_raw_text': 'Mainzer Landstraße 788, Frankfurt, Germany', 'normalized_phone': '+4961194584932'}
+  Record 2: {'clean_company_name': 'nextwash dein waschsalon in darmstadt west', 'normalized_url': 'www.nextwash.de', 'main_address_raw_text': 'Eschollbrücker Str. 26, 64295 Darmstadt, Germany', 'normalized_phone': '+4961513682126'}
+Coppia 136:
+  Record 1: {'clean_company_name': 'sunlife pharmacy izghawa صيدلية سن لايف ازغوى', 'normalized_url': 'sunlife.qa', 'main_address_raw_text': 'Zone 51, building, 55 street 800, Ar-Rayyan, Qatar', 'normalized_phone': '+97430011759'}
+  Record 2: {'clean_company_name': 'sunlife pharmacy al madina', 'normalized_url': 'www.sunlife.qa', 'main_address_raw_text': 'Wahib Bin Saad St, Doha, Qatar', 'normalized_phone': '+97430498440'}
+Coppia 137:
+  Record 1: {'clean_company_name': 'united wholesale scotland', 'normalized_url': 'unitedwholesalescotland.wordpress.com', 'main_address_raw_text': '164-166 Maxwell Road, Glasgow, G41 1SS', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'united wholesale scotland', 'normalized_url': 'www.uniteduk.com', 'main_address_raw_text': 'Glasgow, United Kingdom', 'normalized_phone': '+441417816600'}
+Coppia 138:
+  Record 1: {'clean_company_name': 'vwma', 'normalized_url': 'vwma.org.au', 'main_address_raw_text': 'Torrens Training Depot (Southern entrance, ground floor) Victoria Drive Adelaide SA 5000 AUSTRALIA', 'normalized_phone': '+61493559759'}
+  Record 2: {'clean_company_name': 'virtual war memorial australia', 'normalized_url': 'www.vwma.org.au', 'main_address_raw_text': ', Adelaide, South Australia, 5000, Australia', 'normalized_phone': '+61881007318'}
+Coppia 139:
+  Record 1: {'clean_company_name': 'suresh productions', 'normalized_url': '', 'main_address_raw_text': 'Suresh Productions Pvt. Ltd., Ramanaidu Studios, Film Nagar, Road No 79, Jubilee Hills, Hyderabad, Telangana 500096', 'normalized_phone': '+914023440191'}
+  Record 2: {'clean_company_name': 'suresh productions', 'normalized_url': 'www.sureshproductions.com', 'main_address_raw_text': '', 'normalized_phone': ''}
+Coppia 140:
+  Record 1: {'clean_company_name': 'the caregiver foundation', 'normalized_url': 'www.thecaregiverfoundation.org', 'main_address_raw_text': '926 3rd St, Pearl City, Hawaii, 96782-3348, United States', 'normalized_phone': '+18086253782'}
+  Record 2: {'clean_company_name': 'the caregiver foundation', 'normalized_url': 'thecaregiverfoundation.org', 'main_address_raw_text': '9263rd ST. PEARL CITY, HI 96782', 'normalized_phone': '+18086253782'}
+Coppia 141:
+  Record 1: {'clean_company_name': 'astha infra engg i pvt', 'normalized_url': 'www.asthagroup.in', 'main_address_raw_text': 'U-116, Ramdas Swamy Marg, Sector 5, Airoli, Navi Mumbai, Maharashtra 400708, India', 'normalized_phone': '+919594946485'}
+  Record 2: {'clean_company_name': 'astha infra engg india private limited', 'normalized_url': 'asthagroup.in', 'main_address_raw_text': 'Haware Infotech Park, 1108, Vashi, Navi Mumbai, Maharashtra 400708, India', 'normalized_phone': '+918048555301'}
+Coppia 142:
+  Record 1: {'clean_company_name': 'kilkenny design', 'normalized_url': 'kilkennydesign.com', 'main_address_raw_text': 'Unit 18, Nutgrove Shopping Centre, Nutgrove Way, Whitehall, Dublin, D14 RP44, Ireland', 'normalized_phone': '+35312248769'}
+  Record 2: {'clean_company_name': 'silkeyes designs', 'normalized_url': 'silkeyes.com/?opi=79508299&sa=u&ved=0ahukewjq7zk_vzkiaxxnukqehyc2mzoq61gifcgq&usg=aovvaw2gj0nzgcfhrq6djjk8n4eg', 'main_address_raw_text': 'Kornbergstraße 12, 73084 Salach, Germany', 'normalized_phone': '+4971624627250'}
+Coppia 143:
+  Record 1: {'clean_company_name': 'marvell technology', 'normalized_url': 'www.marvell.com', 'main_address_raw_text': 'Santa Clara, California', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'marvell', 'normalized_url': 'www.marvell.com', 'main_address_raw_text': 'Kadipiro, Banjarsari, Surakarta City, Central Java 57136, Indonesia', 'normalized_phone': '+6281259737125'}
+Coppia 144:
+  Record 1: {'clean_company_name': 'river days australian labradoodles', 'normalized_url': 'www.riverdayslabradoodles.com', 'main_address_raw_text': ', Raleigh, North Carolina, United States', 'normalized_phone': '+19192742865'}
+  Record 2: {'clean_company_name': 'river days australian labradoodles theresa sharp', 'normalized_url': 'www.riverdayslabradoodles.com', 'main_address_raw_text': 'Raleigh, North Carolina', 'normalized_phone': ''}
+Coppia 145:
+  Record 1: {'clean_company_name': 'campo noble', 'normalized_url': 'camponoble.cl', 'main_address_raw_text': 'Av. La Florida 9660, La Florida', 'normalized_phone': '+56712981151'}
+  Record 2: {'clean_company_name': 'campo noble', 'normalized_url': 'camponoble.cl/?opi=79508299&sa=u&ved=0ahukewj_ycps2eqhaxu1xjgghfbaly4q61gifcgq&usg=aovvaw2al0kkffdbvygudheamyax', 'main_address_raw_text': 'Longitudinal Sur 259, Talca, Maule, Chile', 'normalized_phone': '+56712616339'}
+Coppia 146:
+  Record 1: {'clean_company_name': 'fortune4u global education', 'normalized_url': 'www.fortune4uglobal.com', 'main_address_raw_text': 'gk towers, Palliarasan St, Aspiran Garden Colony, Kumaran Nagar, Annanagar East, Chennai, Tamil Nadu 600102, India', 'normalized_phone': ''}
+  Record 2: {'clean_company_name': 'fortune 4u global', 'normalized_url': 'www.fortune4uglobal.com', 'main_address_raw_text': '53 Palliarasan Street, Chennai, Tamil Nadu, 600010, India', 'normalized_phone': '+914155551234'}
+Errore in prepare_training: Records do not line up with data model. The field 'clean_company_name' is in data_model but not in a record

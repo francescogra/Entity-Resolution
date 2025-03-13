@@ -1,0 +1,1418 @@
+2025-03-07 19:02:15,954 - INFO - Inizializzazione Entity Resolution...
+2025-03-07 19:02:16,257 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-07 19:02:16,257 - INFO - Preprocessing...
+2025-03-07 19:02:20,163 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-07 19:02:20,176 - INFO - Percentuale di valori mancanti per campo:
+2025-03-07 19:02:20,177 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-07 19:02:20,438 - INFO - Blocchi creati: 20543
+2025-03-07 19:02:20,441 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-07 19:02:20,441 - INFO - Dimensione massima del blocco: 81
+2025-03-07 19:05:26,378 - INFO - Inizializzazione Entity Resolution...
+2025-03-07 19:05:26,655 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-07 19:05:26,656 - INFO - Preprocessing...
+2025-03-07 19:05:30,560 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-07 19:05:30,574 - INFO - Percentuale di valori mancanti per campo:
+2025-03-07 19:05:30,575 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-07 19:05:30,844 - INFO - Blocchi creati: 20543
+2025-03-07 19:05:30,846 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-07 19:05:30,847 - INFO - Dimensione massima del blocco: 81
+2025-03-07 19:12:40,871 - INFO - Inizializzazione Entity Resolution...
+2025-03-07 19:12:41,153 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-07 19:12:41,153 - INFO - Preprocessing...
+2025-03-07 19:12:44,893 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-07 19:12:44,910 - INFO - Percentuale di valori mancanti per campo:
+2025-03-07 19:12:44,912 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-07 19:12:45,174 - INFO - Blocchi creati: 20543
+2025-03-07 19:12:45,176 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-07 19:12:45,176 - INFO - Dimensione massima del blocco: 81
+2025-03-07 19:17:48,041 - INFO - Inizializzazione Entity Resolution...
+2025-03-07 19:17:48,320 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-07 19:17:48,321 - INFO - Preprocessing...
+2025-03-07 19:17:52,203 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-07 19:17:52,217 - INFO - Percentuale di valori mancanti per campo:
+2025-03-07 19:17:52,218 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-07 19:17:52,490 - INFO - Blocchi creati: 20543
+2025-03-07 19:17:52,492 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-07 19:17:52,493 - INFO - Dimensione massima del blocco: 81
+2025-03-07 19:17:52,494 - INFO - Dati di addestramento esistenti caricati da 'training.json'.
+2025-03-07 19:17:52,495 - INFO - Preparazione campione addestramento...
+2025-03-07 19:19:08,982 - INFO - Inizializzazione Entity Resolution...
+2025-03-07 19:19:09,276 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-07 19:19:09,277 - INFO - Preprocessing...
+2025-03-07 19:19:13,099 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-07 19:19:13,114 - INFO - Percentuale di valori mancanti per campo:
+2025-03-07 19:19:13,114 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-07 19:19:13,384 - INFO - Blocchi creati: 20543
+2025-03-07 19:19:13,387 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-07 19:19:13,387 - INFO - Dimensione massima del blocco: 81
+2025-03-07 19:19:13,389 - INFO - Dati di addestramento esistenti caricati da 'training.json'.
+2025-03-07 19:19:13,390 - INFO - Preparazione campione addestramento...
+2025-03-07 19:20:26,508 - INFO - Inizializzazione Entity Resolution...
+2025-03-07 19:20:26,790 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-07 19:20:26,791 - INFO - Preprocessing...
+2025-03-07 19:20:30,681 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-07 19:20:30,696 - INFO - Percentuale di valori mancanti per campo:
+2025-03-07 19:20:30,697 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-07 19:20:30,956 - INFO - Blocchi creati: 20543
+2025-03-07 19:20:30,958 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-07 19:20:30,959 - INFO - Dimensione massima del blocco: 81
+2025-03-07 19:20:30,961 - INFO - Dati di addestramento esistenti caricati da 'training.json' (non usati direttamente).
+2025-03-07 19:20:30,961 - INFO - Preparazione campione addestramento...
+2025-03-07 19:20:34,559 - INFO - Removing stop word  c
+2025-03-07 19:20:34,559 - INFO - Removing stop word  s
+2025-03-07 19:20:34,559 - INFO - Removing stop word co
+2025-03-07 19:20:34,559 - INFO - Removing stop word n 
+2025-03-07 19:20:34,559 - INFO - Removing stop word on
+2025-03-07 19:20:34,559 - INFO - Removing stop word ra
+2025-03-07 19:20:34,560 - INFO - Removing stop word s 
+2025-03-07 19:20:34,560 - INFO - Removing stop word ti
+2025-03-07 19:20:34,560 - INFO - Removing stop word an
+2025-03-07 19:20:34,560 - INFO - Removing stop word ar
+2025-03-07 19:20:34,560 - INFO - Removing stop word en
+2025-03-07 19:20:34,560 - INFO - Removing stop word ic
+2025-03-07 19:20:34,560 - INFO - Removing stop word nt
+2025-03-07 19:20:34,560 - INFO - Removing stop word ri
+2025-03-07 19:20:34,560 - INFO - Removing stop word re
+2025-03-07 19:20:34,560 - INFO - Removing stop word in
+2025-03-07 19:20:34,560 - INFO - Removing stop word al
+2025-03-07 19:20:34,560 - INFO - Removing stop word st
+2025-03-07 19:20:34,560 - INFO - Removing stop word  a
+2025-03-07 19:20:34,560 - INFO - Removing stop word a 
+2025-03-07 19:20:34,560 - INFO - Removing stop word es
+2025-03-07 19:20:34,560 - INFO - Removing stop word te
+2025-03-07 19:20:34,560 - INFO - Removing stop word er
+2025-03-07 19:20:34,560 - INFO - Removing stop word or
+2025-03-07 19:20:34,561 - INFO - Removing stop word e 
+2025-03-07 19:20:36,994 - INFO - Removing stop word United
+2025-03-07 19:20:36,995 - INFO - Removing stop word Kingdom
+2025-03-07 19:20:36,995 - INFO - Removing stop word States
+2025-03-07 19:20:36,995 - INFO - Removing stop word St
+2025-03-07 19:20:37,008 - INFO - Removing stop word  1
+2025-03-07 19:20:37,008 - INFO - Removing stop word  E
+2025-03-07 19:20:37,008 - INFO - Removing stop word  K
+2025-03-07 19:20:37,008 - INFO - Removing stop word  L
+2025-03-07 19:20:37,008 - INFO - Removing stop word  M
+2025-03-07 19:20:37,008 - INFO - Removing stop word  R
+2025-03-07 19:20:37,008 - INFO - Removing stop word  U
+2025-03-07 19:20:37,008 - INFO - Removing stop word 8 
+2025-03-07 19:20:37,008 - INFO - Removing stop word Ki
+2025-03-07 19:20:37,008 - INFO - Removing stop word Un
+2025-03-07 19:20:37,009 - INFO - Removing stop word ad
+2025-03-07 19:20:37,009 - INFO - Removing stop word an
+2025-03-07 19:20:37,009 - INFO - Removing stop word as
+2025-03-07 19:20:37,009 - INFO - Removing stop word d 
+2025-03-07 19:20:37,009 - INFO - Removing stop word de
+2025-03-07 19:20:37,009 - INFO - Removing stop word do
+2025-03-07 19:20:37,009 - INFO - Removing stop word e 
+2025-03-07 19:20:37,009 - INFO - Removing stop word ed
+2025-03-07 19:20:37,009 - INFO - Removing stop word gd
+2025-03-07 19:20:37,009 - INFO - Removing stop word hi
+2025-03-07 19:20:37,009 - INFO - Removing stop word ia
+2025-03-07 19:20:37,009 - INFO - Removing stop word in
+2025-03-07 19:20:37,009 - INFO - Removing stop word it
+2025-03-07 19:20:37,009 - INFO - Removing stop word k 
+2025-03-07 19:20:37,010 - INFO - Removing stop word lo
+2025-03-07 19:20:37,010 - INFO - Removing stop word n 
+2025-03-07 19:20:37,010 - INFO - Removing stop word ng
+2025-03-07 19:20:37,010 - INFO - Removing stop word ni
+2025-03-07 19:20:37,010 - INFO - Removing stop word om
+2025-03-07 19:20:37,010 - INFO - Removing stop word te
+2025-03-07 19:20:37,010 - INFO - Removing stop word th
+2025-03-07 19:20:37,010 - INFO - Removing stop word  A
+2025-03-07 19:20:37,010 - INFO - Removing stop word  G
+2025-03-07 19:20:37,010 - INFO - Removing stop word  S
+2025-03-07 19:20:37,010 - INFO - Removing stop word  V
+2025-03-07 19:20:37,010 - INFO - Removing stop word 7 
+2025-03-07 19:20:37,010 - INFO - Removing stop word al
+2025-03-07 19:20:37,010 - INFO - Removing stop word er
+2025-03-07 19:20:37,010 - INFO - Removing stop word la
+2025-03-07 19:20:37,011 - INFO - Removing stop word r 
+2025-03-07 19:20:37,011 - INFO - Removing stop word ri
+2025-03-07 19:20:37,011 - INFO - Removing stop word se
+2025-03-07 19:20:37,011 - INFO - Removing stop word st
+2025-03-07 19:20:37,011 - INFO - Removing stop word t 
+2025-03-07 19:20:37,011 - INFO - Removing stop word ta
+2025-03-07 19:20:37,011 - INFO - Removing stop word tr
+2025-03-07 19:20:37,011 - INFO - Removing stop word us
+2025-03-07 19:20:37,011 - INFO - Removing stop word  0
+2025-03-07 19:20:37,011 - INFO - Removing stop word  B
+2025-03-07 19:20:37,011 - INFO - Removing stop word  P
+2025-03-07 19:20:37,011 - INFO - Removing stop word  T
+2025-03-07 19:20:37,011 - INFO - Removing stop word 01
+2025-03-07 19:20:37,011 - INFO - Removing stop word 10
+2025-03-07 19:20:37,011 - INFO - Removing stop word 12
+2025-03-07 19:20:37,011 - INFO - Removing stop word 20
+2025-03-07 19:20:37,011 - INFO - Removing stop word 4 
+2025-03-07 19:20:37,012 - INFO - Removing stop word a 
+2025-03-07 19:20:37,012 - INFO - Removing stop word il
+2025-03-07 19:20:37,012 - INFO - Removing stop word l 
+2025-03-07 19:20:37,012 - INFO - Removing stop word o 
+2025-03-07 19:20:37,012 - INFO - Removing stop word ra
+2025-03-07 19:20:37,012 - INFO - Removing stop word  7
+2025-03-07 19:20:37,012 - INFO - Removing stop word 6 
+2025-03-07 19:20:37,012 - INFO - Removing stop word en
+2025-03-07 19:20:37,012 - INFO - Removing stop word g 
+2025-03-07 19:20:37,012 - INFO - Removing stop word he
+2025-03-07 19:20:37,012 - INFO - Removing stop word ma
+2025-03-07 19:20:37,012 - INFO - Removing stop word ol
+2025-03-07 19:20:37,012 - INFO - Removing stop word rt
+2025-03-07 19:20:37,012 - INFO - Removing stop word  5
+2025-03-07 19:20:37,012 - INFO - Removing stop word  O
+2025-03-07 19:20:37,012 - INFO - Removing stop word  W
+2025-03-07 19:20:37,012 - INFO - Removing stop word 5 
+2025-03-07 19:20:37,012 - INFO - Removing stop word 50
+2025-03-07 19:20:37,012 - INFO - Removing stop word A 
+2025-03-07 19:20:37,013 - INFO - Removing stop word St
+2025-03-07 19:20:37,013 - INFO - Removing stop word at
+2025-03-07 19:20:37,013 - INFO - Removing stop word es
+2025-03-07 19:20:37,013 - INFO - Removing stop word s 
+2025-03-07 19:20:37,013 - INFO - Removing stop word  4
+2025-03-07 19:20:37,013 - INFO - Removing stop word  N
+2025-03-07 19:20:37,013 - INFO - Removing stop word 1 
+2025-03-07 19:20:37,013 - INFO - Removing stop word 3 
+2025-03-07 19:20:37,013 - INFO - Removing stop word da
+2025-03-07 19:20:37,013 - INFO - Removing stop word et
+2025-03-07 19:20:37,013 - INFO - Removing stop word nd
+2025-03-07 19:20:37,013 - INFO - Removing stop word re
+2025-03-07 19:20:37,013 - INFO - Removing stop word ve
+2025-03-07 19:20:37,013 - INFO - Removing stop word  D
+2025-03-07 19:20:37,013 - INFO - Removing stop word le
+2025-03-07 19:20:37,013 - INFO - Removing stop word ne
+2025-03-07 19:20:37,013 - INFO - Removing stop word nt
+2025-03-07 19:20:37,013 - INFO - Removing stop word on
+2025-03-07 19:20:37,014 - INFO - Removing stop word to
+2025-03-07 19:20:37,014 - INFO - Removing stop word y 
+2025-03-07 19:20:37,014 - INFO - Removing stop word ch
+2025-03-07 19:20:37,014 - INFO - Removing stop word el
+2025-03-07 19:20:37,014 - INFO - Removing stop word h 
+2025-03-07 19:20:37,014 - INFO - Removing stop word ll
+2025-03-07 19:20:37,014 - INFO - Removing stop word ee
+2025-03-07 19:20:37,014 - INFO - Removing stop word is
+2025-03-07 19:20:37,014 - INFO - Removing stop word  C
+2025-03-07 19:20:37,014 - INFO - Removing stop word Ca
+2025-03-07 19:20:37,014 - INFO - Removing stop word ai
+2025-03-07 19:20:37,014 - INFO - Removing stop word or
+2025-03-07 19:20:37,014 - INFO - Removing stop word  6
+2025-03-07 19:20:37,014 - INFO - Removing stop word 9 
+2025-03-07 19:20:37,014 - INFO - Removing stop word li
+2025-03-07 19:20:37,015 - INFO - Removing stop word  3
+2025-03-07 19:20:37,015 - INFO - Removing stop word 30
+2025-03-07 19:20:37,015 - INFO - Removing stop word  H
+2025-03-07 19:20:37,015 - INFO - Removing stop word Ma
+2025-03-07 19:20:37,015 - INFO - Removing stop word am
+2025-03-07 19:20:37,015 - INFO - Removing stop word ar
+2025-03-07 19:20:37,015 - INFO - Removing stop word ha
+2025-03-07 19:20:37,015 - INFO - Removing stop word ro
+2025-03-07 19:20:37,015 - INFO - Removing stop word  9
+2025-03-07 19:20:37,015 - INFO - Removing stop word Av
+2025-03-07 19:20:37,015 - INFO - Removing stop word  2
+2025-03-07 19:20:37,015 - INFO - Removing stop word 2 
+2025-03-07 19:20:37,015 - INFO - Removing stop word ic
+2025-03-07 19:20:37,015 - INFO - Removing stop word na
+2025-03-07 19:20:37,015 - INFO - Removing stop word  F
+2025-03-07 19:20:37,015 - INFO - Removing stop word ur
+2025-03-07 19:20:37,015 - INFO - Removing stop word  I
+2025-03-07 19:20:37,015 - INFO - Removing stop word 0 
+2025-03-07 19:20:37,015 - INFO - Removing stop word 00
+2025-03-07 19:20:37,016 - INFO - Removing stop word ou
+2025-03-07 19:20:37,016 - INFO - Removing stop word 11
+2025-03-07 19:20:37,892 - INFO - Removing stop word www
+2025-03-07 19:20:37,892 - INFO - Removing stop word com
+2025-03-07 19:20:37,895 - INFO - Removing stop word au
+2025-03-07 19:20:37,895 - INFO - Removing stop word de
+2025-03-07 19:20:37,895 - INFO - Removing stop word ed
+2025-03-07 19:20:37,895 - INFO - Removing stop word om
+2025-03-07 19:20:37,895 - INFO - Removing stop word ra
+2025-03-07 19:20:37,895 - INFO - Removing stop word sa
+2025-03-07 19:20:37,895 - INFO - Removing stop word us
+2025-03-07 19:20:37,895 - INFO - Removing stop word ww
+2025-03-07 19:20:37,896 - INFO - Removing stop word ar
+2025-03-07 19:20:37,896 - INFO - Removing stop word co
+2025-03-07 19:20:37,896 - INFO - Removing stop word ew
+2025-03-07 19:20:37,896 - INFO - Removing stop word ga
+2025-03-07 19:20:37,896 - INFO - Removing stop word gi
+2025-03-07 19:20:37,896 - INFO - Removing stop word ke
+2025-03-07 19:20:37,896 - INFO - Removing stop word op
+2025-03-07 19:20:37,896 - INFO - Removing stop word ov
+2025-03-07 19:20:37,896 - INFO - Removing stop word pi
+2025-03-07 19:20:37,896 - INFO - Removing stop word uk
+2025-03-07 19:20:37,896 - INFO - Removing stop word va
+2025-03-07 19:20:37,896 - INFO - Removing stop word ve
+2025-03-07 19:20:37,896 - INFO - Removing stop word er
+2025-03-07 19:20:37,896 - INFO - Removing stop word sc
+2025-03-07 19:20:37,897 - INFO - Removing stop word ca
+2025-03-07 19:20:37,897 - INFO - Removing stop word ou
+2025-03-07 19:20:37,897 - INFO - Removing stop word te
+2025-03-07 19:20:37,897 - INFO - Removing stop word en
+2025-03-07 19:20:37,897 - INFO - Removing stop word in
+2025-03-07 19:20:37,897 - INFO - Removing stop word nt
+2025-03-07 19:20:37,897 - INFO - Removing stop word ec
+2025-03-07 19:20:37,897 - INFO - Removing stop word on
+2025-03-07 19:20:37,897 - INFO - Removing stop word es
+2025-03-07 19:20:37,897 - INFO - Removing stop word or
+2025-03-07 19:20:37,897 - INFO - Removing stop word re
+2025-03-07 19:20:37,897 - INFO - Removing stop word st
+2025-03-07 19:20:37,897 - INFO - Removing stop word ta
+2025-03-07 19:20:37,897 - INFO - Removing stop word ac
+2025-03-07 19:20:37,897 - INFO - Removing stop word an
+2025-03-07 19:20:37,897 - INFO - Removing stop word al
+2025-03-07 19:20:38,158 - INFO - Removing stop word 12
+2025-03-07 19:20:38,158 - INFO - Removing stop word 44
+2025-03-07 19:20:38,909 - INFO - Removing stop word er
+2025-03-07 19:20:38,909 - INFO - Removing stop word in
+2025-03-07 19:20:38,909 - INFO - Removing stop word te
+2025-03-07 19:20:38,909 - INFO - Removing stop word en
+2025-03-07 19:20:38,909 - INFO - Removing stop word nt
+2025-03-07 19:20:38,909 - INFO - Removing stop word an
+2025-03-07 19:20:38,909 - INFO - Removing stop word e 
+2025-03-07 19:20:38,909 - INFO - Removing stop word n 
+2025-03-07 19:20:38,909 - INFO - Removing stop word st
+2025-03-07 19:20:38,909 - INFO - Removing stop word al
+2025-03-07 19:20:38,909 - INFO - Removing stop word ar
+2025-03-07 19:20:38,909 - INFO - Removing stop word re
+2025-03-07 19:20:38,910 - INFO - Removing stop word  S
+2025-03-07 19:20:38,910 - INFO - Removing stop word ic
+2025-03-07 19:20:38,910 - INFO - Removing stop word ri
+2025-03-07 19:20:38,910 - INFO - Removing stop word or
+2025-03-07 19:20:38,910 - INFO - Removing stop word  C
+2025-03-07 19:20:38,910 - INFO - Removing stop word ra
+2025-03-07 19:20:38,910 - INFO - Removing stop word s 
+2025-03-07 19:20:38,910 - INFO - Removing stop word ti
+2025-03-07 19:20:38,910 - INFO - Removing stop word on
+2025-03-07 19:20:38,910 - INFO - Removing stop word es
+2025-03-07 19:28:39,135 - INFO - Final predicate set:
+2025-03-07 19:28:39,137 - INFO - SimplePredicate: (wholeFieldPredicate, main_address_raw_text)
+2025-03-07 19:28:39,142 - INFO - Addestramento interattivo (classifica le coppie, premi 'f' per terminare quando vuoi)...
+2025-03-07 19:41:10,941 - INFO - Final predicate set:
+2025-03-07 19:41:10,941 - INFO - SimplePredicate: (wholeFieldPredicate, company_commercial_names)
+2025-03-07 19:41:20,888 - INFO - Final predicate set:
+2025-03-07 19:41:20,888 - INFO - SimplePredicate: (firstTwoTokensPredicate, company_commercial_names)
+2025-03-07 19:41:25,158 - INFO - Final predicate set:
+2025-03-07 19:41:25,158 - INFO - TfidfNGramCanopyPredicate: (0.8, clean_company_name)
+2025-03-07 19:41:25,158 - INFO - TfidfTextCanopyPredicate: (0.8, normalized_url)
+2025-03-07 19:41:50,867 - INFO - Final predicate set:
+2025-03-07 19:41:50,867 - INFO - TfidfNGramCanopyPredicate: (0.8, clean_company_name)
+2025-03-07 19:41:50,867 - INFO - TfidfTextCanopyPredicate: (0.8, normalized_url)
+2025-03-07 19:41:50,867 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:41:58,678 - INFO - Final predicate set:
+2025-03-07 19:41:58,678 - INFO - SimplePredicate: (doubleMetaphone, normalized_url)
+2025-03-07 19:41:58,679 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:42:01,120 - INFO - Final predicate set:
+2025-03-07 19:42:01,120 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:42:01,120 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:42:18,307 - INFO - Final predicate set:
+2025-03-07 19:42:18,307 - INFO - TfidfNGramCanopyPredicate: (0.6, clean_company_name)
+2025-03-07 19:42:18,307 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:42:45,562 - INFO - Final predicate set:
+2025-03-07 19:42:45,562 - INFO - LevenshteinCanopyPredicate: (1, normalized_url)
+2025-03-07 19:42:45,562 - INFO - TfidfNGramCanopyPredicate: (0.8, company_commercial_names)
+2025-03-07 19:42:45,562 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:42:52,156 - INFO - Final predicate set:
+2025-03-07 19:42:52,156 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-07 19:42:52,156 - INFO - SimplePredicate: (commonThreeTokens, company_commercial_names)
+2025-03-07 19:42:52,156 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:00,679 - INFO - Final predicate set:
+2025-03-07 19:43:00,679 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-07 19:43:00,679 - INFO - SimplePredicate: (firstTwoTokensPredicate, company_commercial_names)
+2025-03-07 19:43:00,679 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:05,799 - INFO - Final predicate set:
+2025-03-07 19:43:05,799 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:43:05,799 - INFO - SimplePredicate: (doubleMetaphone, clean_company_name)
+2025-03-07 19:43:05,799 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:14,868 - INFO - Final predicate set:
+2025-03-07 19:43:14,868 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:43:14,868 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-07 19:43:14,868 - INFO - SimplePredicate: (wholeFieldPredicate, main_address_raw_text)
+2025-03-07 19:43:14,868 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:34,185 - INFO - Final predicate set:
+2025-03-07 19:43:34,185 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:43:34,185 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-07 19:43:34,185 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-07 19:43:34,185 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:38,021 - INFO - Final predicate set:
+2025-03-07 19:43:38,021 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-07 19:43:38,022 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:43:38,022 - INFO - TfidfTextCanopyPredicate: (0.8, main_address_raw_text)
+2025-03-07 19:43:38,022 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:42,949 - INFO - Final predicate set:
+2025-03-07 19:43:42,949 - INFO - LevenshteinCanopyPredicate: (1, normalized_url)
+2025-03-07 19:43:42,949 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:43:42,949 - INFO - LevenshteinCanopyPredicate: (2, normalized_phone)
+2025-03-07 19:43:42,949 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:43:42,949 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:45,064 - INFO - Final predicate set:
+2025-03-07 19:43:45,064 - INFO - LevenshteinCanopyPredicate: (2, clean_company_name)
+2025-03-07 19:43:45,064 - INFO - SimplePredicate: (commonTwoTokens, clean_company_name)
+2025-03-07 19:43:45,064 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:43:45,064 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:43:50,522 - INFO - Final predicate set:
+2025-03-07 19:43:50,522 - INFO - SimplePredicate: (doubleMetaphone, normalized_url)
+2025-03-07 19:43:50,523 - INFO - LevenshteinCanopyPredicate: (2, normalized_phone)
+2025-03-07 19:43:50,523 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:43:50,523 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:43:50,523 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:44:06,883 - INFO - Final predicate set:
+2025-03-07 19:44:06,883 - INFO - SimplePredicate: (doubleMetaphone, normalized_url)
+2025-03-07 19:44:06,883 - INFO - LevenshteinCanopyPredicate: (2, normalized_phone)
+2025-03-07 19:44:06,883 - INFO - SimplePredicate: (firstTwoTokensPredicate, company_commercial_names)
+2025-03-07 19:44:06,883 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:44:06,883 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:44:06,883 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:44:32,668 - INFO - Final predicate set:
+2025-03-07 19:44:32,668 - INFO - SimplePredicate: (doubleMetaphone, normalized_url)
+2025-03-07 19:44:32,668 - INFO - SimplePredicate: (sameSevenCharStartPredicate, company_commercial_names)
+2025-03-07 19:44:32,668 - INFO - LevenshteinCanopyPredicate: (2, normalized_phone)
+2025-03-07 19:44:32,668 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:44:32,668 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:44:32,668 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:44:43,634 - INFO - Final predicate set:
+2025-03-07 19:44:43,634 - INFO - SimplePredicate: (doubleMetaphone, normalized_url)
+2025-03-07 19:44:43,634 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:44:43,634 - INFO - LevenshteinCanopyPredicate: (2, normalized_phone)
+2025-03-07 19:44:43,635 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:44:43,635 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:44:43,635 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:45:09,713 - INFO - Final predicate set:
+2025-03-07 19:45:09,713 - INFO - LevenshteinCanopyPredicate: (3, normalized_url)
+2025-03-07 19:45:09,713 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-07 19:45:09,713 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-07 19:45:09,713 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:45:09,713 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:45:09,713 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:45:46,741 - INFO - Final predicate set:
+2025-03-07 19:45:46,741 - INFO - SimplePredicate: (sameSevenCharStartPredicate, clean_company_name)
+2025-03-07 19:45:46,741 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-07 19:45:46,741 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-07 19:45:46,741 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:45:46,741 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:45:46,741 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:46:03,057 - INFO - Final predicate set:
+2025-03-07 19:46:03,057 - INFO - SimplePredicate: (sameSevenCharStartPredicate, clean_company_name)
+2025-03-07 19:46:03,057 - INFO - LevenshteinCanopyPredicate: (2, normalized_url)
+2025-03-07 19:46:03,057 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-07 19:46:03,057 - INFO - TfidfTextCanopyPredicate: (0.8, normalized_url)
+2025-03-07 19:46:03,057 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:46:03,057 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:46:03,058 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:46:08,237 - INFO - Final predicate set:
+2025-03-07 19:46:08,237 - INFO - SimplePredicate: (sameSevenCharStartPredicate, clean_company_name)
+2025-03-07 19:46:08,237 - INFO - LevenshteinCanopyPredicate: (3, normalized_url)
+2025-03-07 19:46:08,237 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-07 19:46:08,237 - INFO - TfidfNGramCanopyPredicate: (0.6, main_address_raw_text)
+2025-03-07 19:46:08,237 - INFO - SimplePredicate: (hundredIntegerPredicate, clean_company_name)
+2025-03-07 19:46:08,237 - INFO - SimplePredicate: (nearIntegersPredicate, normalized_url)
+2025-03-07 19:46:27,850 - INFO - Final predicate set:
+2025-03-07 19:46:27,850 - INFO - LevenshteinCanopyPredicate: (3, normalized_url)
+2025-03-07 19:46:27,851 - INFO - TfidfNGramCanopyPredicate: (0.8, clean_company_name)
+2025-03-07 19:46:27,854 - INFO - Backup di training.json creato: training_backup_20250307_194627.json
+2025-03-07 19:46:27,861 - INFO - Dati di addestramento salvati in 'training.json'.
+2025-03-07 19:46:33,763 - INFO - Elaborazione blocchi...
+2025-03-07 19:46:35,048 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-07 19:46:45,406 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-07 19:46:55,092 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-07 19:47:35,272 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-07 19:48:01,941 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-07 19:48:39,242 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 13:55:31,792 - INFO - Inizializzazione Entity Resolution...
+2025-03-08 13:55:32,789 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-08 13:55:32,789 - INFO - Preprocessing...
+2025-03-08 13:55:36,906 - INFO - Dimensioni dataset dopo filtro: (33446, 80)
+2025-03-08 13:55:36,932 - INFO - Percentuale di valori mancanti per campo:
+2025-03-08 13:55:36,932 - INFO - clean_company_name           2.478622
+normalized_url               4.643306
+main_address_raw_text       16.342761
+main_latitude               49.079113
+main_longitude              49.079113
+company_commercial_names    15.921186
+normalized_phone            31.833403
+2025-03-08 13:55:37,213 - INFO - Blocchi creati: 20543
+2025-03-08 13:55:37,216 - INFO - Dimensione media dei blocchi: 1.63
+2025-03-08 13:55:37,216 - INFO - Dimensione massima del blocco: 81
+2025-03-08 13:55:37,219 - INFO - Dati di addestramento esistenti caricati da 'training.json' (non usati direttamente).
+2025-03-08 13:55:37,219 - INFO - Preparazione campione addestramento...
+2025-03-08 13:55:41,140 - INFO - Removing stop word www
+2025-03-08 13:55:41,140 - INFO - Removing stop word com
+2025-03-08 13:55:41,142 - INFO - Removing stop word al
+2025-03-08 13:55:41,142 - INFO - Removing stop word ec
+2025-03-08 13:55:41,142 - INFO - Removing stop word ww
+2025-03-08 13:55:41,142 - INFO - Removing stop word co
+2025-03-08 13:55:41,142 - INFO - Removing stop word om
+2025-03-08 13:55:41,142 - INFO - Removing stop word ed
+2025-03-08 13:55:41,142 - INFO - Removing stop word in
+2025-03-08 13:55:41,142 - INFO - Removing stop word ke
+2025-03-08 13:55:41,142 - INFO - Removing stop word re
+2025-03-08 13:55:41,142 - INFO - Removing stop word sc
+2025-03-08 13:55:41,143 - INFO - Removing stop word er
+2025-03-08 13:55:41,143 - INFO - Removing stop word ta
+2025-03-08 13:55:41,143 - INFO - Removing stop word ar
+2025-03-08 13:55:41,143 - INFO - Removing stop word on
+2025-03-08 13:55:41,143 - INFO - Removing stop word pi
+2025-03-08 13:55:41,143 - INFO - Removing stop word va
+2025-03-08 13:55:41,143 - INFO - Removing stop word ga
+2025-03-08 13:55:41,143 - INFO - Removing stop word st
+2025-03-08 13:55:41,143 - INFO - Removing stop word de
+2025-03-08 13:55:41,143 - INFO - Removing stop word or
+2025-03-08 13:55:41,143 - INFO - Removing stop word ou
+2025-03-08 13:55:41,143 - INFO - Removing stop word ov
+2025-03-08 13:55:41,143 - INFO - Removing stop word ra
+2025-03-08 13:55:41,143 - INFO - Removing stop word ve
+2025-03-08 13:55:41,143 - INFO - Removing stop word an
+2025-03-08 13:55:41,143 - INFO - Removing stop word en
+2025-03-08 13:55:41,143 - INFO - Removing stop word nt
+2025-03-08 13:55:41,143 - INFO - Removing stop word sa
+2025-03-08 13:55:41,143 - INFO - Removing stop word es
+2025-03-08 13:55:41,143 - INFO - Removing stop word te
+2025-03-08 13:55:41,144 - INFO - Removing stop word ew
+2025-03-08 13:55:41,144 - INFO - Removing stop word op
+2025-03-08 13:55:41,144 - INFO - Removing stop word ca
+2025-03-08 13:55:41,144 - INFO - Removing stop word ac
+2025-03-08 13:55:41,144 - INFO - Removing stop word au
+2025-03-08 13:55:41,144 - INFO - Removing stop word ah
+2025-03-08 13:55:41,144 - INFO - Removing stop word gi
+2025-03-08 13:55:41,144 - INFO - Removing stop word uk
+2025-03-08 13:55:41,144 - INFO - Removing stop word us
+2025-03-08 13:55:41,713 - INFO - Removing stop word e 
+2025-03-08 13:55:41,714 - INFO - Removing stop word en
+2025-03-08 13:55:41,714 - INFO - Removing stop word ar
+2025-03-08 13:55:41,714 - INFO - Removing stop word er
+2025-03-08 13:55:41,714 - INFO - Removing stop word es
+2025-03-08 13:55:41,714 - INFO - Removing stop word ri
+2025-03-08 13:55:41,714 - INFO - Removing stop word  c
+2025-03-08 13:55:41,714 - INFO - Removing stop word co
+2025-03-08 13:55:41,714 - INFO - Removing stop word nt
+2025-03-08 13:55:41,714 - INFO - Removing stop word on
+2025-03-08 13:55:41,714 - INFO - Removing stop word or
+2025-03-08 13:55:41,714 - INFO - Removing stop word re
+2025-03-08 13:55:41,714 - INFO - Removing stop word s 
+2025-03-08 13:55:41,714 - INFO - Removing stop word al
+2025-03-08 13:55:41,714 - INFO - Removing stop word ic
+2025-03-08 13:55:41,714 - INFO - Removing stop word n 
+2025-03-08 13:55:41,714 - INFO - Removing stop word te
+2025-03-08 13:55:41,714 - INFO - Removing stop word in
+2025-03-08 13:55:41,715 - INFO - Removing stop word ti
+2025-03-08 13:55:41,715 - INFO - Removing stop word st
+2025-03-08 13:55:41,715 - INFO - Removing stop word  s
+2025-03-08 13:55:41,715 - INFO - Removing stop word a 
+2025-03-08 13:55:41,715 - INFO - Removing stop word an
+2025-03-08 13:55:41,715 - INFO - Removing stop word ra
+2025-03-08 13:55:41,715 - INFO - Removing stop word  a
+2025-03-08 13:55:42,482 - INFO - Removing stop word  C
+2025-03-08 13:55:42,482 - INFO - Removing stop word an
+2025-03-08 13:55:42,482 - INFO - Removing stop word in
+2025-03-08 13:55:42,482 - INFO - Removing stop word n 
+2025-03-08 13:55:42,482 - INFO - Removing stop word nt
+2025-03-08 13:55:42,482 - INFO - Removing stop word on
+2025-03-08 13:55:42,482 - INFO - Removing stop word st
+2025-03-08 13:55:42,483 - INFO - Removing stop word ti
+2025-03-08 13:55:42,483 - INFO - Removing stop word al
+2025-03-08 13:55:42,483 - INFO - Removing stop word ic
+2025-03-08 13:55:42,483 - INFO - Removing stop word s 
+2025-03-08 13:55:42,483 - INFO - Removing stop word re
+2025-03-08 13:55:42,483 - INFO - Removing stop word  S
+2025-03-08 13:55:42,483 - INFO - Removing stop word e 
+2025-03-08 13:55:42,483 - INFO - Removing stop word er
+2025-03-08 13:55:42,483 - INFO - Removing stop word es
+2025-03-08 13:55:42,483 - INFO - Removing stop word or
+2025-03-08 13:55:42,483 - INFO - Removing stop word ra
+2025-03-08 13:55:42,483 - INFO - Removing stop word ri
+2025-03-08 13:55:42,483 - INFO - Removing stop word te
+2025-03-08 13:55:42,483 - INFO - Removing stop word en
+2025-03-08 13:55:42,483 - INFO - Removing stop word ar
+2025-03-08 13:55:44,616 - INFO - Removing stop word  1
+2025-03-08 13:55:44,616 - INFO - Removing stop word  9
+2025-03-08 13:55:44,616 - INFO - Removing stop word  A
+2025-03-08 13:55:44,616 - INFO - Removing stop word  B
+2025-03-08 13:55:44,616 - INFO - Removing stop word  C
+2025-03-08 13:55:44,616 - INFO - Removing stop word  R
+2025-03-08 13:55:44,617 - INFO - Removing stop word  T
+2025-03-08 13:55:44,617 - INFO - Removing stop word 00
+2025-03-08 13:55:44,617 - INFO - Removing stop word 50
+2025-03-08 13:55:44,617 - INFO - Removing stop word 7 
+2025-03-08 13:55:44,617 - INFO - Removing stop word Ca
+2025-03-08 13:55:44,617 - INFO - Removing stop word a 
+2025-03-08 13:55:44,617 - INFO - Removing stop word am
+2025-03-08 13:55:44,617 - INFO - Removing stop word an
+2025-03-08 13:55:44,617 - INFO - Removing stop word ar
+2025-03-08 13:55:44,617 - INFO - Removing stop word da
+2025-03-08 13:55:44,617 - INFO - Removing stop word e 
+2025-03-08 13:55:44,617 - INFO - Removing stop word en
+2025-03-08 13:55:44,617 - INFO - Removing stop word lo
+2025-03-08 13:55:44,617 - INFO - Removing stop word ma
+2025-03-08 13:55:44,617 - INFO - Removing stop word nd
+2025-03-08 13:55:44,618 - INFO - Removing stop word nt
+2025-03-08 13:55:44,618 - INFO - Removing stop word o 
+2025-03-08 13:55:44,618 - INFO - Removing stop word ra
+2025-03-08 13:55:44,618 - INFO - Removing stop word ro
+2025-03-08 13:55:44,618 - INFO - Removing stop word s 
+2025-03-08 13:55:44,618 - INFO - Removing stop word te
+2025-03-08 13:55:44,618 - INFO - Removing stop word tr
+2025-03-08 13:55:44,618 - INFO - Removing stop word  2
+2025-03-08 13:55:44,618 - INFO - Removing stop word  N
+2025-03-08 13:55:44,618 - INFO - Removing stop word  P
+2025-03-08 13:55:44,618 - INFO - Removing stop word  S
+2025-03-08 13:55:44,618 - INFO - Removing stop word 01
+2025-03-08 13:55:44,618 - INFO - Removing stop word 1 
+2025-03-08 13:55:44,618 - INFO - Removing stop word 20
+2025-03-08 13:55:44,619 - INFO - Removing stop word 30
+2025-03-08 13:55:44,619 - INFO - Removing stop word 6 
+2025-03-08 13:55:44,619 - INFO - Removing stop word A 
+2025-03-08 13:55:44,619 - INFO - Removing stop word St
+2025-03-08 13:55:44,619 - INFO - Removing stop word ee
+2025-03-08 13:55:44,619 - INFO - Removing stop word et
+2025-03-08 13:55:44,619 - INFO - Removing stop word he
+2025-03-08 13:55:44,619 - INFO - Removing stop word it
+2025-03-08 13:55:44,619 - INFO - Removing stop word le
+2025-03-08 13:55:44,619 - INFO - Removing stop word re
+2025-03-08 13:55:44,619 - INFO - Removing stop word t 
+2025-03-08 13:55:44,619 - INFO - Removing stop word th
+2025-03-08 13:55:44,619 - INFO - Removing stop word  0
+2025-03-08 13:55:44,619 - INFO - Removing stop word  K
+2025-03-08 13:55:44,619 - INFO - Removing stop word  L
+2025-03-08 13:55:44,619 - INFO - Removing stop word  U
+2025-03-08 13:55:44,619 - INFO - Removing stop word  W
+2025-03-08 13:55:44,620 - INFO - Removing stop word 8 
+2025-03-08 13:55:44,620 - INFO - Removing stop word Ki
+2025-03-08 13:55:44,620 - INFO - Removing stop word Un
+2025-03-08 13:55:44,620 - INFO - Removing stop word d 
+2025-03-08 13:55:44,620 - INFO - Removing stop word do
+2025-03-08 13:55:44,620 - INFO - Removing stop word ed
+2025-03-08 13:55:44,620 - INFO - Removing stop word gd
+2025-03-08 13:55:44,620 - INFO - Removing stop word h 
+2025-03-08 13:55:44,620 - INFO - Removing stop word in
+2025-03-08 13:55:44,620 - INFO - Removing stop word is
+2025-03-08 13:55:44,620 - INFO - Removing stop word n 
+2025-03-08 13:55:44,620 - INFO - Removing stop word ng
+2025-03-08 13:55:44,620 - INFO - Removing stop word ni
+2025-03-08 13:55:44,620 - INFO - Removing stop word om
+2025-03-08 13:55:44,620 - INFO - Removing stop word on
+2025-03-08 13:55:44,620 - INFO - Removing stop word ve
+2025-03-08 13:55:44,621 - INFO - Removing stop word  6
+2025-03-08 13:55:44,621 - INFO - Removing stop word as
+2025-03-08 13:55:44,621 - INFO - Removing stop word at
+2025-03-08 13:55:44,621 - INFO - Removing stop word la
+2025-03-08 13:55:44,621 - INFO - Removing stop word  E
+2025-03-08 13:55:44,621 - INFO - Removing stop word  H
+2025-03-08 13:55:44,621 - INFO - Removing stop word 2 
+2025-03-08 13:55:44,621 - INFO - Removing stop word al
+2025-03-08 13:55:44,621 - INFO - Removing stop word ch
+2025-03-08 13:55:44,621 - INFO - Removing stop word es
+2025-03-08 13:55:44,621 - INFO - Removing stop word ia
+2025-03-08 13:55:44,621 - INFO - Removing stop word li
+2025-03-08 13:55:44,621 - INFO - Removing stop word or
+2025-03-08 13:55:44,621 - INFO - Removing stop word rt
+2025-03-08 13:55:44,622 - INFO - Removing stop word st
+2025-03-08 13:55:44,622 - INFO - Removing stop word ta
+2025-03-08 13:55:44,622 - INFO - Removing stop word y 
+2025-03-08 13:55:44,622 - INFO - Removing stop word  4
+2025-03-08 13:55:44,622 - INFO - Removing stop word 0 
+2025-03-08 13:55:44,622 - INFO - Removing stop word 4 
+2025-03-08 13:55:44,622 - INFO - Removing stop word na
+2025-03-08 13:55:44,622 - INFO - Removing stop word  3
+2025-03-08 13:55:44,622 - INFO - Removing stop word  M
+2025-03-08 13:55:44,622 - INFO - Removing stop word 10
+2025-03-08 13:55:44,622 - INFO - Removing stop word Ma
+2025-03-08 13:55:44,622 - INFO - Removing stop word ur
+2025-03-08 13:55:44,622 - INFO - Removing stop word  7
+2025-03-08 13:55:44,622 - INFO - Removing stop word  G
+2025-03-08 13:55:44,622 - INFO - Removing stop word  O
+2025-03-08 13:55:44,622 - INFO - Removing stop word de
+2025-03-08 13:55:44,622 - INFO - Removing stop word g 
+2025-03-08 13:55:44,623 - INFO - Removing stop word us
+2025-03-08 13:55:44,623 - INFO - Removing stop word  D
+2025-03-08 13:55:44,623 - INFO - Removing stop word 12
+2025-03-08 13:55:44,623 - INFO - Removing stop word 3 
+2025-03-08 13:55:44,623 - INFO - Removing stop word er
+2025-03-08 13:55:44,623 - INFO - Removing stop word hi
+2025-03-08 13:55:44,623 - INFO - Removing stop word ne
+2025-03-08 13:55:44,623 - INFO - Removing stop word r 
+2025-03-08 13:55:44,623 - INFO - Removing stop word  F
+2025-03-08 13:55:44,623 - INFO - Removing stop word ha
+2025-03-08 13:55:44,623 - INFO - Removing stop word to
+2025-03-08 13:55:44,623 - INFO - Removing stop word  5
+2025-03-08 13:55:44,623 - INFO - Removing stop word  V
+2025-03-08 13:55:44,623 - INFO - Removing stop word ad
+2025-03-08 13:55:44,623 - INFO - Removing stop word ic
+2025-03-08 13:55:44,623 - INFO - Removing stop word k 
+2025-03-08 13:55:44,623 - INFO - Removing stop word 11
+2025-03-08 13:55:44,623 - INFO - Removing stop word 5 
+2025-03-08 13:55:44,624 - INFO - Removing stop word l 
+2025-03-08 13:55:44,624 - INFO - Removing stop word ou
+2025-03-08 13:55:44,624 - INFO - Removing stop word Av
+2025-03-08 13:55:44,624 - INFO - Removing stop word ol
+2025-03-08 13:55:44,624 - INFO - Removing stop word ri
+2025-03-08 13:55:44,624 - INFO - Removing stop word  I
+2025-03-08 13:55:44,624 - INFO - Removing stop word ai
+2025-03-08 13:55:44,624 - INFO - Removing stop word il
+2025-03-08 13:55:44,624 - INFO - Removing stop word ll
+2025-03-08 13:55:44,624 - INFO - Removing stop word 9 
+2025-03-08 13:55:44,624 - INFO - Removing stop word el
+2025-03-08 13:55:44,624 - INFO - Removing stop word se
+2025-03-08 13:55:44,691 - INFO - Removing stop word United
+2025-03-08 13:55:44,692 - INFO - Removing stop word Kingdom
+2025-03-08 13:55:44,692 - INFO - Removing stop word States
+2025-03-08 13:55:44,692 - INFO - Removing stop word St
+2025-03-08 13:55:44,969 - INFO - Removing stop word 44
+2025-03-08 13:55:44,969 - INFO - Removing stop word 12
+2025-03-08 14:03:30,317 - INFO - Final predicate set:
+2025-03-08 14:03:30,318 - INFO - TfidfNGramCanopyPredicate: (0.8, normalized_url)
+2025-03-08 14:03:30,322 - INFO - Addestramento interattivo (classifica le coppie, premi 'f' per terminare quando vuoi)...
+2025-03-08 16:19:53,071 - INFO - Final predicate set:
+2025-03-08 16:19:53,072 - INFO - TfidfNGramCanopyPredicate: (0.8, clean_company_name)
+2025-03-08 16:19:55,954 - INFO - Final predicate set:
+2025-03-08 16:19:55,954 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:19:55,954 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-08 16:20:09,694 - INFO - Final predicate set:
+2025-03-08 16:20:09,694 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:20:09,694 - INFO - LevenshteinCanopyPredicate: (1, normalized_phone)
+2025-03-08 16:20:15,276 - INFO - Final predicate set:
+2025-03-08 16:20:15,277 - INFO - SimplePredicate: (tokenFieldPredicate, normalized_url)
+2025-03-08 16:20:15,277 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-08 16:20:26,143 - INFO - Final predicate set:
+2025-03-08 16:20:26,143 - INFO - SimplePredicate: (tokenFieldPredicate, normalized_url)
+2025-03-08 16:20:26,143 - INFO - SimplePredicate: (doubleMetaphone, company_commercial_names)
+2025-03-08 16:20:28,748 - INFO - Final predicate set:
+2025-03-08 16:20:28,748 - INFO - SimplePredicate: (tokenFieldPredicate, normalized_url)
+2025-03-08 16:20:28,748 - INFO - SimplePredicate: (doubleMetaphone, company_commercial_names)
+2025-03-08 16:20:28,748 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:20:31,320 - INFO - Final predicate set:
+2025-03-08 16:20:31,320 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:20:31,320 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-08 16:20:31,320 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:20:39,253 - INFO - Final predicate set:
+2025-03-08 16:20:39,253 - INFO - SimplePredicate: (sameSevenCharStartPredicate, normalized_url)
+2025-03-08 16:20:39,253 - INFO - TfidfTextCanopyPredicate: (0.8, clean_company_name)
+2025-03-08 16:20:39,254 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:21:09,219 - INFO - Final predicate set:
+2025-03-08 16:21:09,219 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:21:09,219 - INFO - SimplePredicate: (sameFiveCharStartPredicate, company_commercial_names)
+2025-03-08 16:21:09,219 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-08 16:21:09,219 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:23:04,711 - INFO - Final predicate set:
+2025-03-08 16:23:04,711 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:23:04,711 - INFO - SimplePredicate: (doubleMetaphone, normalized_url)
+2025-03-08 16:23:04,711 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:23:13,815 - INFO - Final predicate set:
+2025-03-08 16:23:13,815 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:23:13,816 - INFO - LevenshteinCanopyPredicate: (3, normalized_url)
+2025-03-08 16:23:13,816 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:23:16,725 - INFO - Final predicate set:
+2025-03-08 16:23:16,725 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:23:16,725 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:23:16,725 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:23:22,247 - INFO - Final predicate set:
+2025-03-08 16:23:22,247 - INFO - SimplePredicate: (sameSevenCharStartPredicate, normalized_url)
+2025-03-08 16:23:22,247 - INFO - TfidfTextCanopyPredicate: (0.6, clean_company_name)
+2025-03-08 16:23:22,247 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:23:22,247 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:23:35,950 - INFO - Final predicate set:
+2025-03-08 16:23:35,950 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:23:35,950 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:23:35,950 - INFO - SimplePredicate: (doubleMetaphone, company_commercial_names)
+2025-03-08 16:23:35,950 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:23:35,950 - INFO - SimplePredicate: (sameFiveCharStartPredicate, company_commercial_names)
+2025-03-08 16:24:03,369 - INFO - Final predicate set:
+2025-03-08 16:24:03,369 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:24:03,369 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:03,369 - INFO - SimplePredicate: (commonThreeTokens, clean_company_name)
+2025-03-08 16:24:03,370 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:24:03,370 - INFO - SimplePredicate: (sameFiveCharStartPredicate, company_commercial_names)
+2025-03-08 16:24:05,707 - INFO - Final predicate set:
+2025-03-08 16:24:05,707 - INFO - SimplePredicate: (sameSevenCharStartPredicate, normalized_url)
+2025-03-08 16:24:05,707 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:05,707 - INFO - LevenshteinCanopyPredicate: (2, clean_company_name)
+2025-03-08 16:24:05,707 - INFO - SimplePredicate: (commonThreeTokens, clean_company_name)
+2025-03-08 16:24:05,707 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:24:11,813 - INFO - Final predicate set:
+2025-03-08 16:24:11,813 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:24:11,813 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:24:11,813 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:11,813 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:24:26,683 - INFO - Final predicate set:
+2025-03-08 16:24:26,683 - INFO - SimplePredicate: (sameSevenCharStartPredicate, normalized_url)
+2025-03-08 16:24:26,683 - INFO - LevenshteinCanopyPredicate: (2, clean_company_name)
+2025-03-08 16:24:26,683 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:26,683 - INFO - TfidfTextCanopyPredicate: (0.8, normalized_url)
+2025-03-08 16:24:26,683 - INFO - SimplePredicate: (commonThreeTokens, clean_company_name)
+2025-03-08 16:24:26,683 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:24:38,824 - INFO - Final predicate set:
+2025-03-08 16:24:38,824 - INFO - SimplePredicate: (sameSevenCharStartPredicate, normalized_url)
+2025-03-08 16:24:38,824 - INFO - TfidfTextCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:24:38,824 - INFO - SimplePredicate: (firstTwoTokensPredicate, clean_company_name)
+2025-03-08 16:24:38,825 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:38,825 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:24:44,178 - INFO - Final predicate set:
+2025-03-08 16:24:44,178 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:24:44,178 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:24:44,178 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:44,178 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-08 16:24:44,178 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:24:50,158 - INFO - Final predicate set:
+2025-03-08 16:24:50,158 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:24:50,158 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:24:50,158 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:24:50,158 - INFO - TfidfTextCanopyPredicate: (0.8, normalized_url)
+2025-03-08 16:24:50,158 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:25:36,158 - INFO - Final predicate set:
+2025-03-08 16:25:36,158 - INFO - SimplePredicate: (sameFiveCharStartPredicate, clean_company_name)
+2025-03-08 16:25:36,158 - INFO - TfidfTextCanopyPredicate: (0.4, normalized_url)
+2025-03-08 16:25:36,158 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:25:36,158 - INFO - TfidfTextCanopyPredicate: (0.8, normalized_url)
+2025-03-08 16:25:36,158 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:25:36,158 - INFO - SimplePredicate: (commonThreeTokens, main_address_raw_text)
+2025-03-08 16:28:52,507 - INFO - Final predicate set:
+2025-03-08 16:28:52,507 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:28:52,507 - INFO - SimplePredicate: (latLongGridPredicate, latlong)
+2025-03-08 16:28:52,507 - INFO - SimplePredicate: (sameSevenCharStartPredicate, normalized_url)
+2025-03-08 16:28:52,507 - INFO - SimplePredicate: (oneGramFingerprint, clean_company_name)
+2025-03-08 16:28:52,508 - INFO - TfidfTextCanopyPredicate: (0.4, company_commercial_names)
+2025-03-08 16:28:52,508 - INFO - SimplePredicate: (commonThreeTokens, main_address_raw_text)
+2025-03-08 16:29:06,377 - INFO - Final predicate set:
+2025-03-08 16:29:06,377 - INFO - TfidfNGramCanopyPredicate: (0.6, normalized_url)
+2025-03-08 16:29:06,378 - INFO - SimplePredicate: (doubleMetaphone, clean_company_name)
+2025-03-08 16:29:06,378 - INFO - SimplePredicate: (wholeFieldPredicate, normalized_phone)
+2025-03-08 16:29:06,391 - INFO - Backup di training.json creato: training_backup_20250308_162906.json
+2025-03-08 16:29:06,403 - INFO - Dati di addestramento salvati in 'training.json'.
+2025-03-08 16:29:11,973 - INFO - Elaborazione blocchi...
+2025-03-08 16:29:12,486 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:29:21,883 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:30:13,182 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:30:36,221 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:31:13,023 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:33:12,078 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:34:30,138 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 16:38:32,721 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 17:20:26,249 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 19:11:38,302 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 19:37:02,949 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 19:38:34,900 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 19:51:57,699 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 20:28:23,943 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 20:44:51,829 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 21:02:55,753 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 21:12:03,181 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 21:50:34,076 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 22:52:05,982 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 22:53:10,358 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 23:07:51,518 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-08 23:42:11,586 - INFO - Inizializzazione Entity Resolution...
+2025-03-08 23:42:12,642 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-08 23:42:12,643 - INFO - Preprocessing...
+2025-03-08 23:42:16,098 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-08 23:42:16,231 - INFO - Blocchi creati: 14396
+2025-03-08 23:47:54,412 - INFO - Inizializzazione Entity Resolution...
+2025-03-08 23:47:54,733 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-08 23:47:54,734 - INFO - Preprocessing...
+2025-03-08 23:47:57,945 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-08 23:47:58,069 - INFO - Blocchi creati: 14396
+2025-03-08 23:47:58,075 - INFO - Dati di addestramento caricati da 'training.json' con json.load.
+2025-03-08 23:51:14,249 - INFO - Inizializzazione Entity Resolution...
+2025-03-08 23:51:14,541 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-08 23:51:14,541 - INFO - Preprocessing...
+2025-03-08 23:51:17,675 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-08 23:51:17,799 - INFO - Blocchi creati: 14396
+2025-03-08 23:51:17,802 - INFO - Dati di addestramento caricati da 'training.json' con json.load.
+2025-03-09 12:00:44,091 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 12:00:45,042 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 12:00:45,042 - INFO - Preprocessing...
+2025-03-09 12:00:48,650 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 12:00:48,795 - INFO - Blocchi creati: 17265
+2025-03-09 12:00:48,797 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-09 12:00:48,798 - INFO - Dimensione massima del blocco: 32
+2025-03-09 12:00:48,800 - INFO - Dati di addestramento esistenti caricati da 'training.json' (non usati direttamente).
+2025-03-09 12:00:48,801 - INFO - Preparazione campione addestramento...
+2025-03-09 12:00:51,642 - INFO - Removing stop word co
+2025-03-09 12:00:51,643 - INFO - Removing stop word or
+2025-03-09 12:00:51,643 - INFO - Removing stop word ou
+2025-03-09 12:00:51,643 - INFO - Removing stop word re
+2025-03-09 12:00:51,643 - INFO - Removing stop word sc
+2025-03-09 12:00:51,643 - INFO - Removing stop word st
+2025-03-09 12:00:51,643 - INFO - Removing stop word uk
+2025-03-09 12:00:51,643 - INFO - Removing stop word ww
+2025-03-09 12:00:51,643 - INFO - Removing stop word ar
+2025-03-09 12:00:51,643 - INFO - Removing stop word om
+2025-03-09 12:00:51,643 - INFO - Removing stop word on
+2025-03-09 12:00:51,644 - INFO - Removing stop word an
+2025-03-09 12:00:51,644 - INFO - Removing stop word er
+2025-03-09 12:00:51,644 - INFO - Removing stop word in
+2025-03-09 12:00:51,644 - INFO - Removing stop word al
+2025-03-09 12:00:51,644 - INFO - Removing stop word ve
+2025-03-09 12:00:51,644 - INFO - Removing stop word sa
+2025-03-09 12:00:51,644 - INFO - Removing stop word en
+2025-03-09 12:00:51,644 - INFO - Removing stop word es
+2025-03-09 12:00:51,644 - INFO - Removing stop word au
+2025-03-09 12:00:51,644 - INFO - Removing stop word de
+2025-03-09 12:00:51,644 - INFO - Removing stop word ed
+2025-03-09 12:00:51,644 - INFO - Removing stop word us
+2025-03-09 12:00:51,644 - INFO - Removing stop word ec
+2025-03-09 12:00:51,644 - INFO - Removing stop word te
+2025-03-09 12:00:51,668 - INFO - Removing stop word www
+2025-03-09 12:00:51,668 - INFO - Removing stop word com
+2025-03-09 12:00:51,914 - INFO - Removing stop word 12
+2025-03-09 12:00:53,571 - INFO - Removing stop word United
+2025-03-09 12:00:53,571 - INFO - Removing stop word States
+2025-03-09 12:00:53,649 - INFO - Removing stop word  3
+2025-03-09 12:00:53,649 - INFO - Removing stop word  S
+2025-03-09 12:00:53,649 - INFO - Removing stop word  W
+2025-03-09 12:00:53,649 - INFO - Removing stop word 1 
+2025-03-09 12:00:53,649 - INFO - Removing stop word an
+2025-03-09 12:00:53,649 - INFO - Removing stop word as
+2025-03-09 12:00:53,649 - INFO - Removing stop word ch
+2025-03-09 12:00:53,649 - INFO - Removing stop word e 
+2025-03-09 12:00:53,649 - INFO - Removing stop word er
+2025-03-09 12:00:53,650 - INFO - Removing stop word it
+2025-03-09 12:00:53,650 - INFO - Removing stop word la
+2025-03-09 12:00:53,650 - INFO - Removing stop word na
+2025-03-09 12:00:53,650 - INFO - Removing stop word nd
+2025-03-09 12:00:53,650 - INFO - Removing stop word  H
+2025-03-09 12:00:53,650 - INFO - Removing stop word  L
+2025-03-09 12:00:53,650 - INFO - Removing stop word  T
+2025-03-09 12:00:53,650 - INFO - Removing stop word n 
+2025-03-09 12:00:53,650 - INFO - Removing stop word ne
+2025-03-09 12:00:53,650 - INFO - Removing stop word on
+2025-03-09 12:00:53,650 - INFO - Removing stop word ou
+2025-03-09 12:00:53,650 - INFO - Removing stop word s 
+2025-03-09 12:00:53,650 - INFO - Removing stop word st
+2025-03-09 12:00:53,651 - INFO - Removing stop word to
+2025-03-09 12:00:53,651 - INFO - Removing stop word us
+2025-03-09 12:00:53,651 - INFO - Removing stop word  1
+2025-03-09 12:00:53,651 - INFO - Removing stop word  B
+2025-03-09 12:00:53,651 - INFO - Removing stop word  C
+2025-03-09 12:00:53,651 - INFO - Removing stop word  D
+2025-03-09 12:00:53,651 - INFO - Removing stop word  N
+2025-03-09 12:00:53,651 - INFO - Removing stop word  R
+2025-03-09 12:00:53,651 - INFO - Removing stop word 00
+2025-03-09 12:00:53,651 - INFO - Removing stop word 10
+2025-03-09 12:00:53,651 - INFO - Removing stop word a 
+2025-03-09 12:00:53,651 - INFO - Removing stop word ai
+2025-03-09 12:00:53,651 - INFO - Removing stop word d 
+2025-03-09 12:00:53,651 - INFO - Removing stop word ia
+2025-03-09 12:00:53,652 - INFO - Removing stop word in
+2025-03-09 12:00:53,652 - INFO - Removing stop word is
+2025-03-09 12:00:53,652 - INFO - Removing stop word ng
+2025-03-09 12:00:53,652 - INFO - Removing stop word ri
+2025-03-09 12:00:53,652 - INFO - Removing stop word t 
+2025-03-09 12:00:53,652 - INFO - Removing stop word tr
+2025-03-09 12:00:53,652 - INFO - Removing stop word  F
+2025-03-09 12:00:53,652 - INFO - Removing stop word  I
+2025-03-09 12:00:53,652 - INFO - Removing stop word  P
+2025-03-09 12:00:53,652 - INFO - Removing stop word 2 
+2025-03-09 12:00:53,652 - INFO - Removing stop word ar
+2025-03-09 12:00:53,652 - INFO - Removing stop word de
+2025-03-09 12:00:53,652 - INFO - Removing stop word ed
+2025-03-09 12:00:53,652 - INFO - Removing stop word el
+2025-03-09 12:00:53,653 - INFO - Removing stop word le
+2025-03-09 12:00:53,653 - INFO - Removing stop word li
+2025-03-09 12:00:53,653 - INFO - Removing stop word ra
+2025-03-09 12:00:53,653 - INFO - Removing stop word  K
+2025-03-09 12:00:53,653 - INFO - Removing stop word  U
+2025-03-09 12:00:53,653 - INFO - Removing stop word Ca
+2025-03-09 12:00:53,653 - INFO - Removing stop word Un
+2025-03-09 12:00:53,653 - INFO - Removing stop word do
+2025-03-09 12:00:53,653 - INFO - Removing stop word en
+2025-03-09 12:00:53,653 - INFO - Removing stop word ni
+2025-03-09 12:00:53,653 - INFO - Removing stop word om
+2025-03-09 12:00:53,653 - INFO - Removing stop word re
+2025-03-09 12:00:53,653 - INFO - Removing stop word te
+2025-03-09 12:00:53,653 - INFO - Removing stop word  A
+2025-03-09 12:00:53,654 - INFO - Removing stop word al
+2025-03-09 12:00:53,654 - INFO - Removing stop word es
+2025-03-09 12:00:53,654 - INFO - Removing stop word 6 
+2025-03-09 12:00:53,654 - INFO - Removing stop word ad
+2025-03-09 12:00:53,654 - INFO - Removing stop word h 
+2025-03-09 12:00:53,654 - INFO - Removing stop word ma
+2025-03-09 12:00:53,654 - INFO - Removing stop word  G
+2025-03-09 12:00:53,654 - INFO - Removing stop word  M
+2025-03-09 12:00:53,654 - INFO - Removing stop word 0 
+2025-03-09 12:00:53,654 - INFO - Removing stop word at
+2025-03-09 12:00:53,654 - INFO - Removing stop word et
+2025-03-09 12:00:53,654 - INFO - Removing stop word ha
+2025-03-09 12:00:53,654 - INFO - Removing stop word il
+2025-03-09 12:00:53,654 - INFO - Removing stop word y 
+2025-03-09 12:00:53,655 - INFO - Removing stop word l 
+2025-03-09 12:00:53,655 - INFO - Removing stop word 01
+2025-03-09 12:00:53,655 - INFO - Removing stop word 5 
+2025-03-09 12:00:53,655 - INFO - Removing stop word da
+2025-03-09 12:00:53,655 - INFO - Removing stop word r 
+2025-03-09 12:00:53,655 - INFO - Removing stop word  2
+2025-03-09 12:00:53,655 - INFO - Removing stop word  4
+2025-03-09 12:00:53,655 - INFO - Removing stop word 4 
+2025-03-09 12:00:53,655 - INFO - Removing stop word ta
+2025-03-09 12:00:53,655 - INFO - Removing stop word or
+2025-03-09 12:00:53,655 - INFO - Removing stop word ro
+2025-03-09 12:00:53,655 - INFO - Removing stop word ve
+2025-03-09 12:00:53,655 - INFO - Removing stop word ll
+2025-03-09 12:00:53,655 - INFO - Removing stop word nt
+2025-03-09 12:00:53,656 - INFO - Removing stop word ur
+2025-03-09 12:00:53,656 - INFO - Removing stop word o 
+2025-03-09 12:00:53,656 - INFO - Removing stop word St
+2025-03-09 12:00:53,656 - INFO - Removing stop word rt
+2025-03-09 12:00:53,656 - INFO - Removing stop word th
+2025-03-09 12:00:54,207 - INFO - Removing stop word  c
+2025-03-09 12:00:54,207 - INFO - Removing stop word an
+2025-03-09 12:00:54,207 - INFO - Removing stop word ar
+2025-03-09 12:00:54,207 - INFO - Removing stop word nt
+2025-03-09 12:00:54,207 - INFO - Removing stop word on
+2025-03-09 12:00:54,208 - INFO - Removing stop word re
+2025-03-09 12:00:54,208 - INFO - Removing stop word ri
+2025-03-09 12:00:54,208 - INFO - Removing stop word a 
+2025-03-09 12:00:54,208 - INFO - Removing stop word e 
+2025-03-09 12:00:54,208 - INFO - Removing stop word in
+2025-03-09 12:00:54,208 - INFO - Removing stop word te
+2025-03-09 12:00:54,208 - INFO - Removing stop word al
+2025-03-09 12:00:54,208 - INFO - Removing stop word en
+2025-03-09 12:00:54,208 - INFO - Removing stop word es
+2025-03-09 12:00:54,208 - INFO - Removing stop word ti
+2025-03-09 12:00:54,208 - INFO - Removing stop word  s
+2025-03-09 12:00:54,208 - INFO - Removing stop word s 
+2025-03-09 12:00:54,208 - INFO - Removing stop word ra
+2025-03-09 12:00:54,208 - INFO - Removing stop word er
+2025-03-09 12:00:54,208 - INFO - Removing stop word or
+2025-03-09 12:00:54,208 - INFO - Removing stop word st
+2025-03-09 12:00:54,208 - INFO - Removing stop word n 
+2025-03-09 12:08:08,227 - INFO - Final predicate set:
+2025-03-09 12:08:08,228 - INFO - SimplePredicate: (wholeFieldPredicate, main_address_raw_text)
+2025-03-09 12:08:08,231 - INFO - Addestramento interattivo (classifica le coppie, premi 'f' per terminare quando vuoi)...
+2025-03-09 12:08:28,264 - INFO - Final predicate set:
+2025-03-09 12:08:28,264 - INFO - SimplePredicate: (fingerprint, normalized_url)
+2025-03-09 12:08:40,758 - INFO - Final predicate set:
+2025-03-09 12:08:40,758 - INFO - TfidfTextCanopyPredicate: (0.6, clean_company_name)
+2025-03-09 12:08:47,089 - INFO - Final predicate set:
+2025-03-09 12:08:47,089 - INFO - TfidfTextCanopyPredicate: (0.6, clean_company_name)
+2025-03-09 12:08:47,089 - INFO - SimplePredicate: (alphaNumericPredicate, normalized_url)
+2025-03-09 12:08:52,772 - INFO - Final predicate set:
+2025-03-09 12:08:52,773 - INFO - SimplePredicate: (sameSevenCharStartPredicate, clean_company_name)
+2025-03-09 12:09:00,583 - INFO - Final predicate set:
+2025-03-09 12:09:00,583 - INFO - SimplePredicate: (wholeFieldPredicate, main_address_raw_text)
+2025-03-09 12:09:00,585 - INFO - Backup di training.json creato: training_backup_20250309_120900.json
+2025-03-09 12:09:00,586 - INFO - Dati di addestramento salvati in 'training.json'.
+2025-03-09 12:09:04,569 - INFO - Elaborazione blocchi...
+2025-03-09 12:09:05,009 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:12,774 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:20,531 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:28,253 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:36,010 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:43,717 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:51,755 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:09:59,467 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:07,190 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:14,996 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:22,754 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:30,473 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:38,192 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:45,908 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:10:53,629 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:01,336 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:09,040 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:16,736 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:24,494 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:32,195 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:51,969 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:11:59,683 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:12:07,409 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:12:15,103 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:12:22,783 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:12:30,534 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:13:02,675 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:13:10,503 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:13:18,609 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:13:26,546 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:13:34,520 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:13:42,978 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:03,731 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:11,655 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:19,375 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:27,085 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:34,976 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:42,686 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:50,501 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:14:58,199 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:15:05,889 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:15:13,835 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:15:49,071 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:15:57,305 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:05,665 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:14,186 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:22,605 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:31,375 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:39,913 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:48,258 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:16:56,882 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:17:05,374 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:17:14,105 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:17:23,584 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:17:33,093 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:17:58,645 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:18:07,373 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:18:16,562 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:18:25,338 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:18:33,313 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:18:41,736 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:18:50,716 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:19:10,980 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:19:18,780 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:19:26,888 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:19:34,895 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:19:42,870 - ERROR - Error in batch 0: No records have been blocked together. Is the data you are trying to match like the data you trained on? If so, try adding more training data.
+2025-03-09 12:46:41,931 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 12:46:42,852 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 12:46:42,852 - INFO - Preprocessing...
+2025-03-09 12:46:47,289 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 12:46:47,591 - INFO - Blocchi creati: 25658
+2025-03-09 12:46:47,592 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 12:46:47,593 - INFO - Dimensione massima del blocco: 16
+2025-03-09 12:48:32,085 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 12:48:32,395 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 12:48:32,395 - INFO - Preprocessing...
+2025-03-09 12:48:36,130 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 12:48:36,353 - INFO - Blocchi creati: 25658
+2025-03-09 12:48:36,355 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 12:48:36,356 - INFO - Dimensione massima del blocco: 16
+2025-03-09 12:48:36,362 - INFO - Dati di addestramento caricati da 'training_data.json'.
+2025-03-09 12:57:05,679 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 12:57:05,969 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 12:57:05,969 - INFO - Preprocessing...
+2025-03-09 12:57:09,509 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 12:57:09,732 - INFO - Blocchi creati: 25658
+2025-03-09 12:57:09,739 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 12:57:09,739 - INFO - Dimensione massima del blocco: 16
+2025-03-09 12:57:09,750 - INFO - Dati di addestramento caricati da 'training_data.json'.
+2025-03-09 12:57:30,615 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 12:57:30,905 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 12:57:30,905 - INFO - Preprocessing...
+2025-03-09 12:57:34,492 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 12:57:34,711 - INFO - Blocchi creati: 25658
+2025-03-09 12:57:34,713 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 12:57:34,713 - INFO - Dimensione massima del blocco: 16
+2025-03-09 12:57:34,720 - INFO - Dati di addestramento caricati da 'training_data.json'.
+2025-03-09 12:59:32,830 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 12:59:33,123 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 12:59:33,124 - INFO - Preprocessing...
+2025-03-09 12:59:36,743 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 12:59:36,971 - INFO - Blocchi creati: 25658
+2025-03-09 12:59:36,972 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 12:59:36,973 - INFO - Dimensione massima del blocco: 16
+2025-03-09 12:59:36,979 - INFO - Dati di addestramento caricati da 'training_data.json'.
+2025-03-09 13:02:58,479 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 13:02:58,765 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 13:02:58,766 - INFO - Preprocessing...
+2025-03-09 13:03:02,324 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 13:03:02,553 - INFO - Blocchi creati: 25658
+2025-03-09 13:03:02,555 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 13:03:02,555 - INFO - Dimensione massima del blocco: 16
+2025-03-09 13:03:02,561 - INFO - Dati di addestramento caricati da 'training_data.json'.
+2025-03-09 13:05:29,428 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 13:05:29,710 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 13:05:29,711 - INFO - Preprocessing...
+2025-03-09 13:05:33,310 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 13:05:33,539 - INFO - Blocchi creati: 25657
+2025-03-09 13:05:33,540 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 13:05:33,540 - INFO - Dimensione massima del blocco: 16
+2025-03-09 13:05:33,546 - INFO - Dati di addestramento caricati da 'training_data.json'.
+2025-03-09 13:11:13,738 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 13:11:14,029 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 13:11:14,030 - INFO - Preprocessing...
+2025-03-09 13:11:17,644 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 13:11:17,865 - INFO - Blocchi creati: 25657
+2025-03-09 13:11:17,868 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 13:11:17,868 - INFO - Dimensione massima del blocco: 16
+2025-03-09 13:11:17,874 - INFO - Dati di addestramento caricati e puliti da 'training_data.json'.
+2025-03-09 13:11:52,646 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 13:11:52,950 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 13:11:52,950 - INFO - Preprocessing...
+2025-03-09 13:11:57,321 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 13:11:57,546 - INFO - Blocchi creati: 25657
+2025-03-09 13:11:57,548 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 13:11:57,548 - INFO - Dimensione massima del blocco: 16
+2025-03-09 13:11:57,555 - INFO - Dati di addestramento caricati e puliti da 'training_data.json'.
+2025-03-09 13:17:57,206 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 13:17:57,529 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 13:17:57,529 - INFO - Preprocessing...
+2025-03-09 13:18:01,165 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 13:18:01,388 - INFO - Blocchi creati: 25657
+2025-03-09 13:18:01,390 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 13:18:01,390 - INFO - Dimensione massima del blocco: 16
+2025-03-09 13:18:01,397 - WARNING - Coppia non valida (record vuoto) in distinct: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'apex computer academy', 'normalized_url': 'www.apex-computer.co.in', 'main_address_raw_text': '16, Ward No, Marwadi Muhalla,, Gopalganj, Bihar 841428, India', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': 'Apex Computer Academy', 'normalized_phone': '+919507124488'}]
+2025-03-09 13:18:01,397 - WARNING - Coppia non valida (record vuoto) in distinct: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'gestiones estudios y realizaciones sa', 'normalized_url': 'www.gersa.com', 'main_address_raw_text': '16 Calle Polígono, Zaragoza, Aragon, 50620, Spain', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}]
+2025-03-09 13:18:01,397 - WARNING - Coppia non valida (record vuoto) in match: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'apex computer academy', 'normalized_url': 'www.apex-computer.co.in', 'main_address_raw_text': '16, Ward No, Marwadi Muhalla,, Gopalganj, Bihar 841428, India', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': 'Apex Computer Academy', 'normalized_phone': '+919507124488'}]
+2025-03-09 13:18:01,397 - WARNING - Coppia non valida (record vuoto) in match: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'gestiones estudios y realizaciones sa', 'normalized_url': 'www.gersa.com', 'main_address_raw_text': '16 Calle Polígono, Zaragoza, Aragon, 50620, Spain', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}]
+2025-03-09 13:18:01,398 - INFO - Dati di addestramento caricati e puliti da 'training_data.json'. Coppie valide: distinct=115, match=147
+2025-03-09 13:18:01,669 - ERROR - Errore in prepare_training: Records do not line up with data model. The field 'clean_company_name' is in data_model but not in a record
+2025-03-09 13:29:29,284 - INFO - Inizializzazione Entity Resolution...
+2025-03-09 13:29:29,569 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-09 13:29:29,570 - INFO - Preprocessing...
+2025-03-09 13:29:33,196 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-09 13:29:33,425 - INFO - Blocchi creati: 25657
+2025-03-09 13:29:33,427 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-09 13:29:33,427 - INFO - Dimensione massima del blocco: 16
+2025-03-09 13:29:33,433 - WARNING - Coppia non valida (record vuoto) in distinct: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'apex computer academy', 'normalized_url': 'www.apex-computer.co.in', 'main_address_raw_text': '16, Ward No, Marwadi Muhalla,, Gopalganj, Bihar 841428, India', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': 'Apex Computer Academy', 'normalized_phone': '+919507124488'}]
+2025-03-09 13:29:33,434 - WARNING - Coppia non valida (record vuoto) in distinct: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'gestiones estudios y realizaciones sa', 'normalized_url': 'www.gersa.com', 'main_address_raw_text': '16 Calle Polígono, Zaragoza, Aragon, 50620, Spain', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}]
+2025-03-09 13:29:33,434 - WARNING - Coppia non valida (record vuoto) in match: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'apex computer academy', 'normalized_url': 'www.apex-computer.co.in', 'main_address_raw_text': '16, Ward No, Marwadi Muhalla,, Gopalganj, Bihar 841428, India', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': 'Apex Computer Academy', 'normalized_phone': '+919507124488'}]
+2025-03-09 13:29:33,434 - WARNING - Coppia non valida (record vuoto) in match: [{'clean_company_name': None, 'normalized_url': None, 'main_address_raw_text': None, 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}, {'clean_company_name': 'gestiones estudios y realizaciones sa', 'normalized_url': 'www.gersa.com', 'main_address_raw_text': '16 Calle Polígono, Zaragoza, Aragon, 50620, Spain', 'latlong': {'__class__': 'tuple', '__value__': [nan, nan]}, 'company_commercial_names': None, 'normalized_phone': None}]
+2025-03-09 13:29:33,435 - INFO - Dati di addestramento caricati e puliti da 'training_data.json'. Coppie valide: distinct=115, match=147
+2025-03-09 13:29:33,731 - ERROR - Errore in prepare_training: Records do not line up with data model. The field 'clean_company_name' is in data_model but not in a record
+2025-03-11 16:12:36,559 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 16:12:37,565 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 16:12:37,565 - INFO - Preprocessing...
+2025-03-11 16:12:42,005 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 16:12:42,265 - INFO - Blocchi creati: 25658
+2025-03-11 16:12:42,267 - INFO - Dimensione media dei blocchi: 1.30
+2025-03-11 16:12:42,267 - INFO - Dimensione massima del blocco: 16
+2025-03-11 16:19:29,840 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 16:19:30,175 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 16:19:30,175 - INFO - Preprocessing...
+2025-03-11 16:19:34,021 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 16:19:34,193 - INFO - Blocchi creati: 17265
+2025-03-11 16:19:34,194 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 16:19:34,194 - INFO - Dimensione massima del blocco: 32
+2025-03-11 16:19:34,196 - INFO - Dati di addestramento esistenti caricati da 'training.json' (non usati direttamente).
+2025-03-11 16:19:34,196 - INFO - Preparazione campione addestramento...
+2025-03-11 16:19:37,434 - INFO - Removing stop word es
+2025-03-11 16:19:37,434 - INFO - Removing stop word ww
+2025-03-11 16:19:37,434 - INFO - Removing stop word an
+2025-03-11 16:19:37,435 - INFO - Removing stop word co
+2025-03-11 16:19:37,435 - INFO - Removing stop word en
+2025-03-11 16:19:37,435 - INFO - Removing stop word er
+2025-03-11 16:19:37,435 - INFO - Removing stop word om
+2025-03-11 16:19:37,435 - INFO - Removing stop word de
+2025-03-11 16:19:37,435 - INFO - Removing stop word ou
+2025-03-11 16:19:37,435 - INFO - Removing stop word st
+2025-03-11 16:19:37,435 - INFO - Removing stop word te
+2025-03-11 16:19:37,435 - INFO - Removing stop word uk
+2025-03-11 16:19:37,435 - INFO - Removing stop word ec
+2025-03-11 16:19:37,435 - INFO - Removing stop word re
+2025-03-11 16:19:37,435 - INFO - Removing stop word al
+2025-03-11 16:19:37,435 - INFO - Removing stop word in
+2025-03-11 16:19:37,435 - INFO - Removing stop word ve
+2025-03-11 16:19:37,435 - INFO - Removing stop word ar
+2025-03-11 16:19:37,435 - INFO - Removing stop word ed
+2025-03-11 16:19:37,435 - INFO - Removing stop word sc
+2025-03-11 16:19:37,436 - INFO - Removing stop word on
+2025-03-11 16:19:37,436 - INFO - Removing stop word us
+2025-03-11 16:19:37,436 - INFO - Removing stop word au
+2025-03-11 16:19:37,436 - INFO - Removing stop word sa
+2025-03-11 16:19:37,436 - INFO - Removing stop word or
+2025-03-11 16:19:37,463 - INFO - Removing stop word www
+2025-03-11 16:19:37,463 - INFO - Removing stop word com
+2025-03-11 16:19:38,441 - INFO - Removing stop word  s
+2025-03-11 16:19:38,441 - INFO - Removing stop word re
+2025-03-11 16:19:38,441 - INFO - Removing stop word s 
+2025-03-11 16:19:38,441 - INFO - Removing stop word al
+2025-03-11 16:19:38,441 - INFO - Removing stop word an
+2025-03-11 16:19:38,441 - INFO - Removing stop word e 
+2025-03-11 16:19:38,441 - INFO - Removing stop word ra
+2025-03-11 16:19:38,441 - INFO - Removing stop word st
+2025-03-11 16:19:38,441 - INFO - Removing stop word er
+2025-03-11 16:19:38,441 - INFO - Removing stop word in
+2025-03-11 16:19:38,441 - INFO - Removing stop word te
+2025-03-11 16:19:38,441 - INFO - Removing stop word  c
+2025-03-11 16:19:38,441 - INFO - Removing stop word ar
+2025-03-11 16:19:38,441 - INFO - Removing stop word nt
+2025-03-11 16:19:38,442 - INFO - Removing stop word on
+2025-03-11 16:19:38,442 - INFO - Removing stop word ri
+2025-03-11 16:19:38,442 - INFO - Removing stop word en
+2025-03-11 16:19:38,442 - INFO - Removing stop word n 
+2025-03-11 16:19:38,442 - INFO - Removing stop word ti
+2025-03-11 16:19:38,442 - INFO - Removing stop word es
+2025-03-11 16:19:38,442 - INFO - Removing stop word a 
+2025-03-11 16:19:38,442 - INFO - Removing stop word or
+2025-03-11 16:19:40,325 - INFO - Removing stop word  1
+2025-03-11 16:19:40,325 - INFO - Removing stop word  H
+2025-03-11 16:19:40,325 - INFO - Removing stop word  P
+2025-03-11 16:19:40,325 - INFO - Removing stop word  R
+2025-03-11 16:19:40,325 - INFO - Removing stop word 2 
+2025-03-11 16:19:40,325 - INFO - Removing stop word ad
+2025-03-11 16:19:40,326 - INFO - Removing stop word d 
+2025-03-11 16:19:40,326 - INFO - Removing stop word li
+2025-03-11 16:19:40,326 - INFO - Removing stop word ng
+2025-03-11 16:19:40,326 - INFO - Removing stop word on
+2025-03-11 16:19:40,326 - INFO - Removing stop word or
+2025-03-11 16:19:40,326 - INFO - Removing stop word  3
+2025-03-11 16:19:40,326 - INFO - Removing stop word  B
+2025-03-11 16:19:40,326 - INFO - Removing stop word  G
+2025-03-11 16:19:40,326 - INFO - Removing stop word  N
+2025-03-11 16:19:40,326 - INFO - Removing stop word 0 
+2025-03-11 16:19:40,326 - INFO - Removing stop word 00
+2025-03-11 16:19:40,326 - INFO - Removing stop word 1 
+2025-03-11 16:19:40,326 - INFO - Removing stop word St
+2025-03-11 16:19:40,326 - INFO - Removing stop word an
+2025-03-11 16:19:40,327 - INFO - Removing stop word ch
+2025-03-11 16:19:40,327 - INFO - Removing stop word de
+2025-03-11 16:19:40,327 - INFO - Removing stop word e 
+2025-03-11 16:19:40,327 - INFO - Removing stop word ed
+2025-03-11 16:19:40,327 - INFO - Removing stop word en
+2025-03-11 16:19:40,327 - INFO - Removing stop word er
+2025-03-11 16:19:40,327 - INFO - Removing stop word la
+2025-03-11 16:19:40,327 - INFO - Removing stop word ma
+2025-03-11 16:19:40,327 - INFO - Removing stop word n 
+2025-03-11 16:19:40,327 - INFO - Removing stop word ra
+2025-03-11 16:19:40,327 - INFO - Removing stop word rt
+2025-03-11 16:19:40,327 - INFO - Removing stop word tr
+2025-03-11 16:19:40,327 - INFO - Removing stop word  D
+2025-03-11 16:19:40,327 - INFO - Removing stop word 5 
+2025-03-11 16:19:40,328 - INFO - Removing stop word al
+2025-03-11 16:19:40,328 - INFO - Removing stop word ar
+2025-03-11 16:19:40,328 - INFO - Removing stop word es
+2025-03-11 16:19:40,328 - INFO - Removing stop word nd
+2025-03-11 16:19:40,328 - INFO - Removing stop word re
+2025-03-11 16:19:40,328 - INFO - Removing stop word ve
+2025-03-11 16:19:40,328 - INFO - Removing stop word y 
+2025-03-11 16:19:40,328 - INFO - Removing stop word  I
+2025-03-11 16:19:40,328 - INFO - Removing stop word  T
+2025-03-11 16:19:40,328 - INFO - Removing stop word at
+2025-03-11 16:19:40,328 - INFO - Removing stop word ia
+2025-03-11 16:19:40,328 - INFO - Removing stop word il
+2025-03-11 16:19:40,328 - INFO - Removing stop word l 
+2025-03-11 16:19:40,328 - INFO - Removing stop word na
+2025-03-11 16:19:40,328 - INFO - Removing stop word  M
+2025-03-11 16:19:40,328 - INFO - Removing stop word  S
+2025-03-11 16:19:40,329 - INFO - Removing stop word 01
+2025-03-11 16:19:40,329 - INFO - Removing stop word 3 
+2025-03-11 16:19:40,329 - INFO - Removing stop word a 
+2025-03-11 16:19:40,329 - INFO - Removing stop word ha
+2025-03-11 16:19:40,329 - INFO - Removing stop word o 
+2025-03-11 16:19:40,329 - INFO - Removing stop word 10
+2025-03-11 16:19:40,329 - INFO - Removing stop word 4 
+2025-03-11 16:19:40,329 - INFO - Removing stop word st
+2025-03-11 16:19:40,329 - INFO - Removing stop word t 
+2025-03-11 16:19:40,329 - INFO - Removing stop word te
+2025-03-11 16:19:40,329 - INFO - Removing stop word ur
+2025-03-11 16:19:40,329 - INFO - Removing stop word  A
+2025-03-11 16:19:40,329 - INFO - Removing stop word et
+2025-03-11 16:19:40,329 - INFO - Removing stop word in
+2025-03-11 16:19:40,329 - INFO - Removing stop word ni
+2025-03-11 16:19:40,330 - INFO - Removing stop word th
+2025-03-11 16:19:40,330 - INFO - Removing stop word  2
+2025-03-11 16:19:40,330 - INFO - Removing stop word  C
+2025-03-11 16:19:40,330 - INFO - Removing stop word Ca
+2025-03-11 16:19:40,330 - INFO - Removing stop word el
+2025-03-11 16:19:40,330 - INFO - Removing stop word ll
+2025-03-11 16:19:40,330 - INFO - Removing stop word nt
+2025-03-11 16:19:40,330 - INFO - Removing stop word s 
+2025-03-11 16:19:40,330 - INFO - Removing stop word  4
+2025-03-11 16:19:40,330 - INFO - Removing stop word  U
+2025-03-11 16:19:40,330 - INFO - Removing stop word as
+2025-03-11 16:19:40,330 - INFO - Removing stop word h 
+2025-03-11 16:19:40,330 - INFO - Removing stop word le
+2025-03-11 16:19:40,330 - INFO - Removing stop word  F
+2025-03-11 16:19:40,330 - INFO - Removing stop word  L
+2025-03-11 16:19:40,330 - INFO - Removing stop word ai
+2025-03-11 16:19:40,330 - INFO - Removing stop word da
+2025-03-11 16:19:40,331 - INFO - Removing stop word it
+2025-03-11 16:19:40,331 - INFO - Removing stop word r 
+2025-03-11 16:19:40,331 - INFO - Removing stop word us
+2025-03-11 16:19:40,331 - INFO - Removing stop word Un
+2025-03-11 16:19:40,331 - INFO - Removing stop word ta
+2025-03-11 16:19:40,331 - INFO - Removing stop word to
+2025-03-11 16:19:40,331 - INFO - Removing stop word  W
+2025-03-11 16:19:40,331 - INFO - Removing stop word ne
+2025-03-11 16:19:40,331 - INFO - Removing stop word  K
+2025-03-11 16:19:40,331 - INFO - Removing stop word ri
+2025-03-11 16:19:40,331 - INFO - Removing stop word do
+2025-03-11 16:19:40,331 - INFO - Removing stop word om
+2025-03-11 16:19:40,331 - INFO - Removing stop word ro
+2025-03-11 16:19:40,473 - INFO - Removing stop word United
+2025-03-11 16:19:40,473 - INFO - Removing stop word States
+2025-03-11 16:27:13,610 - INFO - Final predicate set:
+2025-03-11 16:27:13,611 - INFO - TfidfNGramCanopyPredicate: (0.8, main_address_raw_text)
+2025-03-11 16:27:13,615 - INFO - Addestramento interattivo (classifica le coppie, premi 'f' per terminare quando vuoi)...
+2025-03-11 17:16:47,442 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:16:47,847 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:16:47,848 - INFO - Preprocessing...
+2025-03-11 17:16:51,431 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:16:51,578 - INFO - Blocchi creati: 17260
+2025-03-11 17:16:51,580 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:16:51,580 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:16:51,582 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
+2025-03-11 17:30:25,518 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:30:25,850 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:30:25,850 - INFO - Preprocessing...
+2025-03-11 17:30:29,446 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:30:29,603 - INFO - Blocchi creati: 17260
+2025-03-11 17:30:29,605 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:30:29,606 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:30:29,607 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
+2025-03-11 17:31:02,346 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:31:02,646 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:31:02,647 - INFO - Preprocessing...
+2025-03-11 17:31:06,190 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:31:06,333 - INFO - Blocchi creati: 17260
+2025-03-11 17:31:06,335 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:31:06,335 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:31:06,337 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
+2025-03-11 17:35:19,890 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:35:20,182 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:35:20,183 - INFO - Preprocessing...
+2025-03-11 17:35:23,735 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:35:23,883 - INFO - Blocchi creati: 17260
+2025-03-11 17:35:23,885 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:35:23,885 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:35:23,941 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
+2025-03-11 17:35:47,733 - INFO - Final predicate set:
+2025-03-11 17:35:47,733 - INFO - SimplePredicate: (twoGramFingerprint, main_address_raw_text)
+2025-03-11 17:40:50,209 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:40:50,523 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:40:50,524 - INFO - Preprocessing...
+2025-03-11 17:40:54,349 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:40:54,501 - INFO - Blocchi creati: 17260
+2025-03-11 17:40:54,503 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:40:54,503 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:40:54,556 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
+2025-03-11 17:41:19,875 - INFO - Final predicate set:
+2025-03-11 17:41:19,876 - INFO - SimplePredicate: (twoGramFingerprint, main_address_raw_text)
+2025-03-11 17:41:19,894 - INFO - Final predicate set:
+2025-03-11 17:41:19,894 - INFO - TfidfNGramCanopyPredicate: (0.8, normalized_url)
+2025-03-11 17:41:19,894 - INFO - SimplePredicate: (wholeFieldPredicate, clean_company_name)
+2025-03-11 17:43:33,374 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:43:33,712 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:43:33,712 - INFO - Preprocessing...
+2025-03-11 17:43:37,368 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:43:37,508 - INFO - Blocchi creati: 17260
+2025-03-11 17:43:37,511 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:43:37,511 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:43:37,563 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
+2025-03-11 17:44:03,172 - INFO - Final predicate set:
+2025-03-11 17:44:03,172 - INFO - SimplePredicate: (fingerprint, main_address_raw_text)
+2025-03-11 17:50:43,916 - INFO - Inizializzazione Entity Resolution...
+2025-03-11 17:50:44,218 - INFO - Dimensioni dataset: (33446, 76)
+2025-03-11 17:50:44,218 - INFO - Preprocessing...
+2025-03-11 17:50:48,323 - INFO - Dimensioni dataset dopo filtro: (33365, 80)
+2025-03-11 17:50:48,490 - INFO - Blocchi creati: 17260
+2025-03-11 17:50:48,492 - INFO - Dimensione media dei blocchi: 1.93
+2025-03-11 17:50:48,492 - INFO - Dimensione massima del blocco: 32
+2025-03-11 17:50:48,540 - INFO - Dati di addestramento caricati da 'training_data_test.json'.
