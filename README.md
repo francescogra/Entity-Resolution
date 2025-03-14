@@ -41,7 +41,7 @@ Place your data file veridion_entity_resolution_challenge.snappy.parquet in the 
 
 ## 4. Run the Entity Resolution Script
 Execute the main script:
-python entity_resolution.py
+python main.py
 
 ## 5. Interactive Training
 During execution, the script will enter an interactive training phase:
