@@ -12,10 +12,11 @@ Create and activate a virtual environment:
 
 python -m venv veridion_env
 
-// Activate the virtual environment
-// On Windows:
+### Activate the virtual environment
+### On Windows:
 veridion_env\Scripts\activate
-// On macOS/Linux:
+
+### On macOS/Linux:
 source veridion_env/bin/activate
 
 
@@ -36,12 +37,15 @@ scikit-learn
 Install all dependencies:
 pip install -r requirements.txt
 
+
 ## 3. Data Preparation
 Place your data file veridion_entity_resolution_challenge.snappy.parquet in the same directory as the script.
+
 
 ## 4. Run the Entity Resolution Script
 Execute the main script:
 python main.py
+
 
 ## 5. Interactive Training
 During execution, the script will enter an interactive training phase:
@@ -51,6 +55,7 @@ Type y to mark as duplicate, n to mark as non-duplicate
 Press f when you're done training
 The training data will be saved to training.json for future use
 
+
 ## 6. Results
 After processing, the script will:
 
@@ -58,11 +63,13 @@ Display summary statistics about the identified clusters
 Save results to entity_resolution_result.csv and entity_resolution_result.parquet
 Create a log file entity_resolution.log with detailed execution information
 
+
 ## 7. Analyzing Results
 The output files will contain all original data plus a new cluster_id column:
 
 Records with the same cluster_id are considered duplicates of the same company
 Records with cluster_id = -1 are unique companies with no duplicates
+
 
 ## Troubleshooting
 If you encounter memory issues:
@@ -70,6 +77,7 @@ If you encounter memory issues:
 Decrease the batch_size parameter in the process_block_batch function
 Ensure you have sufficient RAM available (at least 8GB recommended)
 Check the log file for detailed error messages
+
 
 ## If you're getting unexpected results:
 
